@@ -19,6 +19,13 @@ public class LevelStart : MonoBehaviour
             return;
         }
 
-        Instantiate(playerPrefab, spawnPoint.position, Quaternion.identity);
+        GameObject player = Instantiate(playerPrefab, spawnPoint.position, Quaternion.identity);
+
+        CameraFollow2D cam = FindFirstObjectByType<CameraFollow2D>();
+        if (cam != null)
+            cam.SetTarget(player.transform);
+        else
+            Debug.LogWarning("No CameraFollow found in scene");
+
     }
 }

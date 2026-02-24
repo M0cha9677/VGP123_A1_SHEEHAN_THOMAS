@@ -953,7 +953,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_26
+      name: JumpFall
       rect:
         serializedVersion: 2
         x: 177
@@ -975,7 +975,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_27
+      name: Climb1
       rect:
         serializedVersion: 2
         x: 211
@@ -997,7 +997,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_28
+      name: Climb2
       rect:
         serializedVersion: 2
         x: 228
@@ -1085,7 +1085,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_36
+      name: Inch
       rect:
         serializedVersion: 2
         x: 58
@@ -1107,7 +1107,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_37
+      name: Walk 1
       rect:
         serializedVersion: 2
         x: 92
@@ -1129,7 +1129,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_38
+      name: Walk 2
       rect:
         serializedVersion: 2
         x: 122
@@ -1151,7 +1151,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_39
+      name: Walk 3
       rect:
         serializedVersion: 2
         x: 146
@@ -1217,7 +1217,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_76
+      name: JumpFallShoot
       rect:
         serializedVersion: 2
         x: 141
@@ -1239,7 +1239,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_77
+      name: ClimbShoot
       rect:
         serializedVersion: 2
         x: 178
@@ -1305,7 +1305,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_83
+      name: IdleShoot
       rect:
         serializedVersion: 2
         x: 1
@@ -1327,7 +1327,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_84
+      name: WalkShoot1
       rect:
         serializedVersion: 2
         x: 38
@@ -1349,7 +1349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_85
+      name: WalkShoot2
       rect:
         serializedVersion: 2
         x: 71
@@ -1371,7 +1371,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_86
+      name: WalkShoot3
       rect:
         serializedVersion: 2
         x: 104
@@ -1503,7 +1503,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_126
+      name: Death2
       rect:
         serializedVersion: 2
         x: 275
@@ -1525,7 +1525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_127
+      name: Death3
       rect:
         serializedVersion: 2
         x: 294
@@ -1547,7 +1547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_128
+      name: Death4
       rect:
         serializedVersion: 2
         x: 312
@@ -1701,7 +1701,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_135
+      name: Death1
       rect:
         serializedVersion: 2
         x: 268
@@ -2112,6 +2112,17 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":20.0},"gridSpritePadding":{"x":4.0,"y":5.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      Climb1: 6441168063937695722
+      Climb2: 7069535979632503046
+      ClimbShoot: 6584795776567405564
+      Death1: 2988682977791258059
+      Death2: -2872293220847086966
+      Death3: 110976127911977371
+      Death4: 3764108696115608361
+      IdleShoot: 6741935016956715800
+      Inch: 3866230475801679334
+      JumpFall: -3841247450995272242
+      JumpFallShoot: -4193643437616536693
       MegaManIdle: 7201582114144822929
       MegaManIdle2: 6154653104914057042
       NES - Mega Man - Playable Characters - Mega Man_0: -4632341544981032890
@@ -2145,9 +2156,6 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_123: 2992723219547021168
       NES - Mega Man - Playable Characters - Mega Man_124: 4108445662484509314
       NES - Mega Man - Playable Characters - Mega Man_125: 7969804844184590064
-      NES - Mega Man - Playable Characters - Mega Man_126: -2872293220847086966
-      NES - Mega Man - Playable Characters - Mega Man_127: 110976127911977371
-      NES - Mega Man - Playable Characters - Mega Man_128: 3764108696115608361
       NES - Mega Man - Playable Characters - Mega Man_129: -6484397384294373606
       NES - Mega Man - Playable Characters - Mega Man_13: 7176378767447669736
       NES - Mega Man - Playable Characters - Mega Man_130: 6833163917755892735
@@ -2155,7 +2163,6 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_132: -6195211796498763291
       NES - Mega Man - Playable Characters - Mega Man_133: 7375433300138138196
       NES - Mega Man - Playable Characters - Mega Man_134: -149409477274424923
-      NES - Mega Man - Playable Characters - Mega Man_135: 2988682977791258059
       NES - Mega Man - Playable Characters - Mega Man_136: 4985693375183544612
       NES - Mega Man - Playable Characters - Mega Man_137: -8639978746581690957
       NES - Mega Man - Playable Characters - Mega Man_138: -5848357654113083599
@@ -2293,7 +2300,6 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_257: 6768279535929297188
       NES - Mega Man - Playable Characters - Mega Man_258: 4188690789643115707
       NES - Mega Man - Playable Characters - Mega Man_259: -4473632984053371120
-      NES - Mega Man - Playable Characters - Mega Man_26: -3841247450995272242
       NES - Mega Man - Playable Characters - Mega Man_260: 9124857900621260368
       NES - Mega Man - Playable Characters - Mega Man_261: -4295220600881861781
       NES - Mega Man - Playable Characters - Mega Man_262: 8697591719089545637
@@ -2304,7 +2310,6 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_267: 8042971665161871645
       NES - Mega Man - Playable Characters - Mega Man_268: -1255092498136310527
       NES - Mega Man - Playable Characters - Mega Man_269: -1570476468341471203
-      NES - Mega Man - Playable Characters - Mega Man_27: 6441168063937695722
       NES - Mega Man - Playable Characters - Mega Man_270: -2888421542367846932
       NES - Mega Man - Playable Characters - Mega Man_271: -6265479678976350499
       NES - Mega Man - Playable Characters - Mega Man_272: 2959426706999820480
@@ -2315,7 +2320,6 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_277: 796008081977126439
       NES - Mega Man - Playable Characters - Mega Man_278: 5118921440726082183
       NES - Mega Man - Playable Characters - Mega Man_279: 2709080378562635360
-      NES - Mega Man - Playable Characters - Mega Man_28: 7069535979632503046
       NES - Mega Man - Playable Characters - Mega Man_280: -847080594878919873
       NES - Mega Man - Playable Characters - Mega Man_29: 6527404695056565093
       NES - Mega Man - Playable Characters - Mega Man_3: 7574611156147983964
@@ -2323,10 +2327,6 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_31: -1491112622270553483
       NES - Mega Man - Playable Characters - Mega Man_32: 1701695800434860161
       NES - Mega Man - Playable Characters - Mega Man_33: 3158319408227932641
-      NES - Mega Man - Playable Characters - Mega Man_36: 3866230475801679334
-      NES - Mega Man - Playable Characters - Mega Man_37: 3736127453040601613
-      NES - Mega Man - Playable Characters - Mega Man_38: -2857151511008116546
-      NES - Mega Man - Playable Characters - Mega Man_39: 4593347501663548880
       NES - Mega Man - Playable Characters - Mega Man_4: -5631570034615827921
       NES - Mega Man - Playable Characters - Mega Man_40: -7505757341734555082
       NES - Mega Man - Playable Characters - Mega Man_41: 5750998327715044498
@@ -2367,18 +2367,12 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_73: -5435217932322023547
       NES - Mega Man - Playable Characters - Mega Man_74: 728837430581598061
       NES - Mega Man - Playable Characters - Mega Man_75: -5044312560648000541
-      NES - Mega Man - Playable Characters - Mega Man_76: -4193643437616536693
-      NES - Mega Man - Playable Characters - Mega Man_77: 6584795776567405564
       NES - Mega Man - Playable Characters - Mega Man_78: 4566809584156613014
       NES - Mega Man - Playable Characters - Mega Man_79: 3046816339016931768
       NES - Mega Man - Playable Characters - Mega Man_8: 4225305829360045083
       NES - Mega Man - Playable Characters - Mega Man_80: 105002558523822709
       NES - Mega Man - Playable Characters - Mega Man_81: -7893861521926089070
       NES - Mega Man - Playable Characters - Mega Man_82: -502350609302117631
-      NES - Mega Man - Playable Characters - Mega Man_83: 6741935016956715800
-      NES - Mega Man - Playable Characters - Mega Man_84: 2493879415069966158
-      NES - Mega Man - Playable Characters - Mega Man_85: 7429674758869374584
-      NES - Mega Man - Playable Characters - Mega Man_86: 3680071285588724406
       NES - Mega Man - Playable Characters - Mega Man_87: -2227354530155670094
       NES - Mega Man - Playable Characters - Mega Man_88: 991316184432492340
       NES - Mega Man - Playable Characters - Mega Man_89: 9080890382099560885
@@ -2393,6 +2387,12 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_97: -4319675577922656561
       NES - Mega Man - Playable Characters - Mega Man_98: -6629563875433413536
       NES - Mega Man - Playable Characters - Mega Man_99: 5170728866742501858
+      Walk 1: 3736127453040601613
+      Walk 2: -2857151511008116546
+      Walk 3: 4593347501663548880
+      WalkShoot1: 2493879415069966158
+      WalkShoot2: 7429674758869374584
+      WalkShoot3: 3680071285588724406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
