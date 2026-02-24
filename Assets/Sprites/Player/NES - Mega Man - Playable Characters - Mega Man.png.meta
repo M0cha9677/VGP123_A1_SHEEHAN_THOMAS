@@ -1,0 +1,2400 @@
+fileFormatVersion: 2
+guid: dd143c48a7d2c764c9294ff3c14d16e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4632341544981032890
+    second: NES - Mega Man - Playable Characters - Mega Man_0
+  - first:
+      213: -1434927765200763369
+    second: NES - Mega Man - Playable Characters - Mega Man_1
+  - first:
+      213: 1088603662870015034
+    second: NES - Mega Man - Playable Characters - Mega Man_2
+  - first:
+      213: 7574611156147983964
+    second: NES - Mega Man - Playable Characters - Mega Man_3
+  - first:
+      213: -5631570034615827921
+    second: NES - Mega Man - Playable Characters - Mega Man_4
+  - first:
+      213: 423020222274843615
+    second: NES - Mega Man - Playable Characters - Mega Man_5
+  - first:
+      213: 8099331175838616220
+    second: NES - Mega Man - Playable Characters - Mega Man_6
+  - first:
+      213: -6064040915429876645
+    second: NES - Mega Man - Playable Characters - Mega Man_7
+  - first:
+      213: 4225305829360045083
+    second: NES - Mega Man - Playable Characters - Mega Man_8
+  - first:
+      213: -5458430625491560964
+    second: NES - Mega Man - Playable Characters - Mega Man_9
+  - first:
+      213: -8246227871156337131
+    second: NES - Mega Man - Playable Characters - Mega Man_10
+  - first:
+      213: 4883372115016823151
+    second: NES - Mega Man - Playable Characters - Mega Man_11
+  - first:
+      213: 1138388793617205490
+    second: NES - Mega Man - Playable Characters - Mega Man_12
+  - first:
+      213: 7176378767447669736
+    second: NES - Mega Man - Playable Characters - Mega Man_13
+  - first:
+      213: -1230241758766223826
+    second: NES - Mega Man - Playable Characters - Mega Man_14
+  - first:
+      213: 6691592449343837807
+    second: NES - Mega Man - Playable Characters - Mega Man_15
+  - first:
+      213: -5219161456691101304
+    second: NES - Mega Man - Playable Characters - Mega Man_16
+  - first:
+      213: 7556086115603719308
+    second: NES - Mega Man - Playable Characters - Mega Man_17
+  - first:
+      213: 947257919873847069
+    second: NES - Mega Man - Playable Characters - Mega Man_18
+  - first:
+      213: 5093512659859972697
+    second: NES - Mega Man - Playable Characters - Mega Man_19
+  - first:
+      213: 7438394799616405483
+    second: NES - Mega Man - Playable Characters - Mega Man_20
+  - first:
+      213: -7767172030697754955
+    second: NES - Mega Man - Playable Characters - Mega Man_21
+  - first:
+      213: 2207483939345033923
+    second: NES - Mega Man - Playable Characters - Mega Man_22
+  - first:
+      213: -8063160692965781812
+    second: NES - Mega Man - Playable Characters - Mega Man_23
+  - first:
+      213: -3858625360124290740
+    second: NES - Mega Man - Playable Characters - Mega Man_24
+  - first:
+      213: -2349587298336338401
+    second: NES - Mega Man - Playable Characters - Mega Man_25
+  - first:
+      213: -3841247450995272242
+    second: NES - Mega Man - Playable Characters - Mega Man_26
+  - first:
+      213: 6441168063937695722
+    second: NES - Mega Man - Playable Characters - Mega Man_27
+  - first:
+      213: 7069535979632503046
+    second: NES - Mega Man - Playable Characters - Mega Man_28
+  - first:
+      213: 6527404695056565093
+    second: NES - Mega Man - Playable Characters - Mega Man_29
+  - first:
+      213: 3336416909512240539
+    second: NES - Mega Man - Playable Characters - Mega Man_30
+  - first:
+      213: -1491112622270553483
+    second: NES - Mega Man - Playable Characters - Mega Man_31
+  - first:
+      213: 1701695800434860161
+    second: NES - Mega Man - Playable Characters - Mega Man_32
+  - first:
+      213: 3158319408227932641
+    second: NES - Mega Man - Playable Characters - Mega Man_33
+  - first:
+      213: 7201582114144822929
+    second: NES - Mega Man - Playable Characters - Mega Man_34
+  - first:
+      213: 6154653104914057042
+    second: NES - Mega Man - Playable Characters - Mega Man_35
+  - first:
+      213: 3866230475801679334
+    second: NES - Mega Man - Playable Characters - Mega Man_36
+  - first:
+      213: 3736127453040601613
+    second: NES - Mega Man - Playable Characters - Mega Man_37
+  - first:
+      213: -2857151511008116546
+    second: NES - Mega Man - Playable Characters - Mega Man_38
+  - first:
+      213: 4593347501663548880
+    second: NES - Mega Man - Playable Characters - Mega Man_39
+  - first:
+      213: -7505757341734555082
+    second: NES - Mega Man - Playable Characters - Mega Man_40
+  - first:
+      213: 5750998327715044498
+    second: NES - Mega Man - Playable Characters - Mega Man_41
+  - first:
+      213: -8554383910953048951
+    second: NES - Mega Man - Playable Characters - Mega Man_42
+  - first:
+      213: -4175283123441646914
+    second: NES - Mega Man - Playable Characters - Mega Man_43
+  - first:
+      213: -2094469170466998418
+    second: NES - Mega Man - Playable Characters - Mega Man_44
+  - first:
+      213: -7196507074681842746
+    second: NES - Mega Man - Playable Characters - Mega Man_45
+  - first:
+      213: -6265030391050987932
+    second: NES - Mega Man - Playable Characters - Mega Man_46
+  - first:
+      213: 7095049234160526367
+    second: NES - Mega Man - Playable Characters - Mega Man_47
+  - first:
+      213: -2849225950050694238
+    second: NES - Mega Man - Playable Characters - Mega Man_48
+  - first:
+      213: -5103387986753663728
+    second: NES - Mega Man - Playable Characters - Mega Man_49
+  - first:
+      213: 1219833295906103947
+    second: NES - Mega Man - Playable Characters - Mega Man_50
+  - first:
+      213: -7870015387164342367
+    second: NES - Mega Man - Playable Characters - Mega Man_51
+  - first:
+      213: 2571122412733209371
+    second: NES - Mega Man - Playable Characters - Mega Man_52
+  - first:
+      213: -2341060931861294927
+    second: NES - Mega Man - Playable Characters - Mega Man_53
+  - first:
+      213: -1851218695418698073
+    second: NES - Mega Man - Playable Characters - Mega Man_54
+  - first:
+      213: 7628244904155329250
+    second: NES - Mega Man - Playable Characters - Mega Man_55
+  - first:
+      213: 6252422381030069148
+    second: NES - Mega Man - Playable Characters - Mega Man_56
+  - first:
+      213: -5461693061378822339
+    second: NES - Mega Man - Playable Characters - Mega Man_57
+  - first:
+      213: -7897704690612678744
+    second: NES - Mega Man - Playable Characters - Mega Man_58
+  - first:
+      213: 9140383548078955922
+    second: NES - Mega Man - Playable Characters - Mega Man_59
+  - first:
+      213: -4751951315342876159
+    second: NES - Mega Man - Playable Characters - Mega Man_60
+  - first:
+      213: -89384209102168029
+    second: NES - Mega Man - Playable Characters - Mega Man_61
+  - first:
+      213: -3723291990145420385
+    second: NES - Mega Man - Playable Characters - Mega Man_62
+  - first:
+      213: -4536881887623394194
+    second: NES - Mega Man - Playable Characters - Mega Man_63
+  - first:
+      213: 5909878305773374014
+    second: NES - Mega Man - Playable Characters - Mega Man_64
+  - first:
+      213: 6370852904951824728
+    second: NES - Mega Man - Playable Characters - Mega Man_65
+  - first:
+      213: 2544092824169772278
+    second: NES - Mega Man - Playable Characters - Mega Man_66
+  - first:
+      213: -8137604201747308114
+    second: NES - Mega Man - Playable Characters - Mega Man_67
+  - first:
+      213: 584302701112659869
+    second: NES - Mega Man - Playable Characters - Mega Man_68
+  - first:
+      213: -4136852665702792433
+    second: NES - Mega Man - Playable Characters - Mega Man_69
+  - first:
+      213: -1778388673276905926
+    second: NES - Mega Man - Playable Characters - Mega Man_70
+  - first:
+      213: -1957525031979377731
+    second: NES - Mega Man - Playable Characters - Mega Man_71
+  - first:
+      213: -4186993183570777226
+    second: NES - Mega Man - Playable Characters - Mega Man_72
+  - first:
+      213: -5435217932322023547
+    second: NES - Mega Man - Playable Characters - Mega Man_73
+  - first:
+      213: 728837430581598061
+    second: NES - Mega Man - Playable Characters - Mega Man_74
+  - first:
+      213: -5044312560648000541
+    second: NES - Mega Man - Playable Characters - Mega Man_75
+  - first:
+      213: -4193643437616536693
+    second: NES - Mega Man - Playable Characters - Mega Man_76
+  - first:
+      213: 6584795776567405564
+    second: NES - Mega Man - Playable Characters - Mega Man_77
+  - first:
+      213: 4566809584156613014
+    second: NES - Mega Man - Playable Characters - Mega Man_78
+  - first:
+      213: 3046816339016931768
+    second: NES - Mega Man - Playable Characters - Mega Man_79
+  - first:
+      213: 105002558523822709
+    second: NES - Mega Man - Playable Characters - Mega Man_80
+  - first:
+      213: -7893861521926089070
+    second: NES - Mega Man - Playable Characters - Mega Man_81
+  - first:
+      213: -502350609302117631
+    second: NES - Mega Man - Playable Characters - Mega Man_82
+  - first:
+      213: 6741935016956715800
+    second: NES - Mega Man - Playable Characters - Mega Man_83
+  - first:
+      213: 2493879415069966158
+    second: NES - Mega Man - Playable Characters - Mega Man_84
+  - first:
+      213: 7429674758869374584
+    second: NES - Mega Man - Playable Characters - Mega Man_85
+  - first:
+      213: 3680071285588724406
+    second: NES - Mega Man - Playable Characters - Mega Man_86
+  - first:
+      213: -2227354530155670094
+    second: NES - Mega Man - Playable Characters - Mega Man_87
+  - first:
+      213: 991316184432492340
+    second: NES - Mega Man - Playable Characters - Mega Man_88
+  - first:
+      213: 9080890382099560885
+    second: NES - Mega Man - Playable Characters - Mega Man_89
+  - first:
+      213: 5721158921600702424
+    second: NES - Mega Man - Playable Characters - Mega Man_90
+  - first:
+      213: 5521973443599770193
+    second: NES - Mega Man - Playable Characters - Mega Man_91
+  - first:
+      213: 22267818236814340
+    second: NES - Mega Man - Playable Characters - Mega Man_92
+  - first:
+      213: -3578097110830994102
+    second: NES - Mega Man - Playable Characters - Mega Man_93
+  - first:
+      213: -4667581228285226015
+    second: NES - Mega Man - Playable Characters - Mega Man_94
+  - first:
+      213: 7806951904842580870
+    second: NES - Mega Man - Playable Characters - Mega Man_95
+  - first:
+      213: -4416264257658819178
+    second: NES - Mega Man - Playable Characters - Mega Man_96
+  - first:
+      213: -4319675577922656561
+    second: NES - Mega Man - Playable Characters - Mega Man_97
+  - first:
+      213: -6629563875433413536
+    second: NES - Mega Man - Playable Characters - Mega Man_98
+  - first:
+      213: 5170728866742501858
+    second: NES - Mega Man - Playable Characters - Mega Man_99
+  - first:
+      213: 6351467063659344021
+    second: NES - Mega Man - Playable Characters - Mega Man_100
+  - first:
+      213: -6234018288609136851
+    second: NES - Mega Man - Playable Characters - Mega Man_101
+  - first:
+      213: -830658898355987299
+    second: NES - Mega Man - Playable Characters - Mega Man_102
+  - first:
+      213: 2165981636902749163
+    second: NES - Mega Man - Playable Characters - Mega Man_103
+  - first:
+      213: 5593913349693479424
+    second: NES - Mega Man - Playable Characters - Mega Man_104
+  - first:
+      213: -2743873687263654993
+    second: NES - Mega Man - Playable Characters - Mega Man_105
+  - first:
+      213: 5730138618876247219
+    second: NES - Mega Man - Playable Characters - Mega Man_106
+  - first:
+      213: -7286601658949396200
+    second: NES - Mega Man - Playable Characters - Mega Man_107
+  - first:
+      213: -2151123107822602539
+    second: NES - Mega Man - Playable Characters - Mega Man_108
+  - first:
+      213: -4163320198484508757
+    second: NES - Mega Man - Playable Characters - Mega Man_109
+  - first:
+      213: 8200564693959657093
+    second: NES - Mega Man - Playable Characters - Mega Man_110
+  - first:
+      213: 3714726949068290935
+    second: NES - Mega Man - Playable Characters - Mega Man_111
+  - first:
+      213: -2967073531916799336
+    second: NES - Mega Man - Playable Characters - Mega Man_112
+  - first:
+      213: -8748319670861982592
+    second: NES - Mega Man - Playable Characters - Mega Man_113
+  - first:
+      213: 7339756710040076325
+    second: NES - Mega Man - Playable Characters - Mega Man_114
+  - first:
+      213: -5919894386019422873
+    second: NES - Mega Man - Playable Characters - Mega Man_115
+  - first:
+      213: 938259141132529210
+    second: NES - Mega Man - Playable Characters - Mega Man_116
+  - first:
+      213: -2715380984621579759
+    second: NES - Mega Man - Playable Characters - Mega Man_117
+  - first:
+      213: -2497812668650797240
+    second: NES - Mega Man - Playable Characters - Mega Man_118
+  - first:
+      213: -8461493799723819194
+    second: NES - Mega Man - Playable Characters - Mega Man_119
+  - first:
+      213: 132073284444000612
+    second: NES - Mega Man - Playable Characters - Mega Man_120
+  - first:
+      213: -1375347569868728794
+    second: NES - Mega Man - Playable Characters - Mega Man_121
+  - first:
+      213: -2471810142605265869
+    second: NES - Mega Man - Playable Characters - Mega Man_122
+  - first:
+      213: 2992723219547021168
+    second: NES - Mega Man - Playable Characters - Mega Man_123
+  - first:
+      213: 4108445662484509314
+    second: NES - Mega Man - Playable Characters - Mega Man_124
+  - first:
+      213: 7969804844184590064
+    second: NES - Mega Man - Playable Characters - Mega Man_125
+  - first:
+      213: -2872293220847086966
+    second: NES - Mega Man - Playable Characters - Mega Man_126
+  - first:
+      213: 110976127911977371
+    second: NES - Mega Man - Playable Characters - Mega Man_127
+  - first:
+      213: 3764108696115608361
+    second: NES - Mega Man - Playable Characters - Mega Man_128
+  - first:
+      213: -6484397384294373606
+    second: NES - Mega Man - Playable Characters - Mega Man_129
+  - first:
+      213: 6833163917755892735
+    second: NES - Mega Man - Playable Characters - Mega Man_130
+  - first:
+      213: -7667705034912476225
+    second: NES - Mega Man - Playable Characters - Mega Man_131
+  - first:
+      213: -6195211796498763291
+    second: NES - Mega Man - Playable Characters - Mega Man_132
+  - first:
+      213: 7375433300138138196
+    second: NES - Mega Man - Playable Characters - Mega Man_133
+  - first:
+      213: -149409477274424923
+    second: NES - Mega Man - Playable Characters - Mega Man_134
+  - first:
+      213: 2988682977791258059
+    second: NES - Mega Man - Playable Characters - Mega Man_135
+  - first:
+      213: 4985693375183544612
+    second: NES - Mega Man - Playable Characters - Mega Man_136
+  - first:
+      213: -8639978746581690957
+    second: NES - Mega Man - Playable Characters - Mega Man_137
+  - first:
+      213: -5848357654113083599
+    second: NES - Mega Man - Playable Characters - Mega Man_138
+  - first:
+      213: 6202195362663808809
+    second: NES - Mega Man - Playable Characters - Mega Man_139
+  - first:
+      213: -3193723210303182660
+    second: NES - Mega Man - Playable Characters - Mega Man_140
+  - first:
+      213: -5114234969202778102
+    second: NES - Mega Man - Playable Characters - Mega Man_141
+  - first:
+      213: -5139233605997895597
+    second: NES - Mega Man - Playable Characters - Mega Man_142
+  - first:
+      213: 3197489014274510385
+    second: NES - Mega Man - Playable Characters - Mega Man_143
+  - first:
+      213: 1210722355001116982
+    second: NES - Mega Man - Playable Characters - Mega Man_144
+  - first:
+      213: -1493349860057524876
+    second: NES - Mega Man - Playable Characters - Mega Man_145
+  - first:
+      213: 6141483164343245161
+    second: NES - Mega Man - Playable Characters - Mega Man_146
+  - first:
+      213: -1164548498242519583
+    second: NES - Mega Man - Playable Characters - Mega Man_147
+  - first:
+      213: 8909708434650702426
+    second: NES - Mega Man - Playable Characters - Mega Man_148
+  - first:
+      213: 4992436019114576738
+    second: NES - Mega Man - Playable Characters - Mega Man_149
+  - first:
+      213: -2540023765862869233
+    second: NES - Mega Man - Playable Characters - Mega Man_150
+  - first:
+      213: -1391449761837147944
+    second: NES - Mega Man - Playable Characters - Mega Man_151
+  - first:
+      213: 4393947817991821924
+    second: NES - Mega Man - Playable Characters - Mega Man_152
+  - first:
+      213: 1175038081738085810
+    second: NES - Mega Man - Playable Characters - Mega Man_153
+  - first:
+      213: 6852089222684743146
+    second: NES - Mega Man - Playable Characters - Mega Man_154
+  - first:
+      213: -6761729527215991127
+    second: NES - Mega Man - Playable Characters - Mega Man_155
+  - first:
+      213: -5371534857498680746
+    second: NES - Mega Man - Playable Characters - Mega Man_156
+  - first:
+      213: 2423461052137393328
+    second: NES - Mega Man - Playable Characters - Mega Man_157
+  - first:
+      213: 3715915335112520881
+    second: NES - Mega Man - Playable Characters - Mega Man_158
+  - first:
+      213: -2640082822373587271
+    second: NES - Mega Man - Playable Characters - Mega Man_159
+  - first:
+      213: 3646093238309602623
+    second: NES - Mega Man - Playable Characters - Mega Man_160
+  - first:
+      213: -5525538191711439775
+    second: NES - Mega Man - Playable Characters - Mega Man_161
+  - first:
+      213: -267355106657722846
+    second: NES - Mega Man - Playable Characters - Mega Man_162
+  - first:
+      213: 5026596877700463069
+    second: NES - Mega Man - Playable Characters - Mega Man_163
+  - first:
+      213: 4213129548387887072
+    second: NES - Mega Man - Playable Characters - Mega Man_164
+  - first:
+      213: -6393390151601172724
+    second: NES - Mega Man - Playable Characters - Mega Man_165
+  - first:
+      213: -3768510381624412955
+    second: NES - Mega Man - Playable Characters - Mega Man_166
+  - first:
+      213: -8111850698370582700
+    second: NES - Mega Man - Playable Characters - Mega Man_167
+  - first:
+      213: 275666186069930965
+    second: NES - Mega Man - Playable Characters - Mega Man_168
+  - first:
+      213: -1267019269261600445
+    second: NES - Mega Man - Playable Characters - Mega Man_169
+  - first:
+      213: 3891449943554642250
+    second: NES - Mega Man - Playable Characters - Mega Man_170
+  - first:
+      213: 8879293144712112517
+    second: NES - Mega Man - Playable Characters - Mega Man_171
+  - first:
+      213: 1572004706252667092
+    second: NES - Mega Man - Playable Characters - Mega Man_172
+  - first:
+      213: -8526354297728946276
+    second: NES - Mega Man - Playable Characters - Mega Man_173
+  - first:
+      213: -7218755230091576366
+    second: NES - Mega Man - Playable Characters - Mega Man_174
+  - first:
+      213: 7321514489202837977
+    second: NES - Mega Man - Playable Characters - Mega Man_175
+  - first:
+      213: -1182737222364423165
+    second: NES - Mega Man - Playable Characters - Mega Man_176
+  - first:
+      213: -1528162488347705031
+    second: NES - Mega Man - Playable Characters - Mega Man_177
+  - first:
+      213: 4465039798274717919
+    second: NES - Mega Man - Playable Characters - Mega Man_178
+  - first:
+      213: -5212781528327383446
+    second: NES - Mega Man - Playable Characters - Mega Man_179
+  - first:
+      213: -7718031360856071499
+    second: NES - Mega Man - Playable Characters - Mega Man_180
+  - first:
+      213: 7565707022466551296
+    second: NES - Mega Man - Playable Characters - Mega Man_181
+  - first:
+      213: -5244597951871582115
+    second: NES - Mega Man - Playable Characters - Mega Man_182
+  - first:
+      213: 5929565999363618081
+    second: NES - Mega Man - Playable Characters - Mega Man_183
+  - first:
+      213: -1716933188070031431
+    second: NES - Mega Man - Playable Characters - Mega Man_184
+  - first:
+      213: 4052712321005390686
+    second: NES - Mega Man - Playable Characters - Mega Man_185
+  - first:
+      213: -2182020907735736384
+    second: NES - Mega Man - Playable Characters - Mega Man_186
+  - first:
+      213: 1026139664471938282
+    second: NES - Mega Man - Playable Characters - Mega Man_187
+  - first:
+      213: 6880598991547771709
+    second: NES - Mega Man - Playable Characters - Mega Man_188
+  - first:
+      213: 6943803990513712117
+    second: NES - Mega Man - Playable Characters - Mega Man_189
+  - first:
+      213: -4341328459749547224
+    second: NES - Mega Man - Playable Characters - Mega Man_190
+  - first:
+      213: 6429214245823221963
+    second: NES - Mega Man - Playable Characters - Mega Man_191
+  - first:
+      213: 7307407070934644495
+    second: NES - Mega Man - Playable Characters - Mega Man_192
+  - first:
+      213: -5446155061052811359
+    second: NES - Mega Man - Playable Characters - Mega Man_193
+  - first:
+      213: -7175164219226294727
+    second: NES - Mega Man - Playable Characters - Mega Man_194
+  - first:
+      213: 5528551003563214643
+    second: NES - Mega Man - Playable Characters - Mega Man_195
+  - first:
+      213: 944640967595597897
+    second: NES - Mega Man - Playable Characters - Mega Man_196
+  - first:
+      213: -2998512061887213371
+    second: NES - Mega Man - Playable Characters - Mega Man_197
+  - first:
+      213: 6443679954061383032
+    second: NES - Mega Man - Playable Characters - Mega Man_198
+  - first:
+      213: 3939179217447737018
+    second: NES - Mega Man - Playable Characters - Mega Man_199
+  - first:
+      213: -410535681410669983
+    second: NES - Mega Man - Playable Characters - Mega Man_200
+  - first:
+      213: 5810847269742603754
+    second: NES - Mega Man - Playable Characters - Mega Man_201
+  - first:
+      213: 3067981146008487549
+    second: NES - Mega Man - Playable Characters - Mega Man_202
+  - first:
+      213: -6235488672246987820
+    second: NES - Mega Man - Playable Characters - Mega Man_203
+  - first:
+      213: 7263927378371840256
+    second: NES - Mega Man - Playable Characters - Mega Man_204
+  - first:
+      213: 6729816770618515897
+    second: NES - Mega Man - Playable Characters - Mega Man_205
+  - first:
+      213: -6416913021291447624
+    second: NES - Mega Man - Playable Characters - Mega Man_206
+  - first:
+      213: 3118872218520499458
+    second: NES - Mega Man - Playable Characters - Mega Man_207
+  - first:
+      213: 5322725408730239426
+    second: NES - Mega Man - Playable Characters - Mega Man_208
+  - first:
+      213: -5140674364979755087
+    second: NES - Mega Man - Playable Characters - Mega Man_209
+  - first:
+      213: 6583790325588471213
+    second: NES - Mega Man - Playable Characters - Mega Man_210
+  - first:
+      213: 3187947836721369644
+    second: NES - Mega Man - Playable Characters - Mega Man_211
+  - first:
+      213: -4679998146755967472
+    second: NES - Mega Man - Playable Characters - Mega Man_212
+  - first:
+      213: 4801481972658732049
+    second: NES - Mega Man - Playable Characters - Mega Man_213
+  - first:
+      213: -2585130233721463287
+    second: NES - Mega Man - Playable Characters - Mega Man_214
+  - first:
+      213: -5134143018623602687
+    second: NES - Mega Man - Playable Characters - Mega Man_215
+  - first:
+      213: 8442198202897637289
+    second: NES - Mega Man - Playable Characters - Mega Man_216
+  - first:
+      213: 4495655259176239914
+    second: NES - Mega Man - Playable Characters - Mega Man_217
+  - first:
+      213: 3586886523450122066
+    second: NES - Mega Man - Playable Characters - Mega Man_218
+  - first:
+      213: -8733722974850764292
+    second: NES - Mega Man - Playable Characters - Mega Man_219
+  - first:
+      213: -6254930102143628503
+    second: NES - Mega Man - Playable Characters - Mega Man_220
+  - first:
+      213: -844010955046589468
+    second: NES - Mega Man - Playable Characters - Mega Man_221
+  - first:
+      213: -3250081980557392671
+    second: NES - Mega Man - Playable Characters - Mega Man_222
+  - first:
+      213: 3996081094964505783
+    second: NES - Mega Man - Playable Characters - Mega Man_223
+  - first:
+      213: -596893067495104955
+    second: NES - Mega Man - Playable Characters - Mega Man_224
+  - first:
+      213: 2944144002248298382
+    second: NES - Mega Man - Playable Characters - Mega Man_225
+  - first:
+      213: -9110587849100172020
+    second: NES - Mega Man - Playable Characters - Mega Man_226
+  - first:
+      213: -7104456171192391815
+    second: NES - Mega Man - Playable Characters - Mega Man_227
+  - first:
+      213: 1360234177420384268
+    second: NES - Mega Man - Playable Characters - Mega Man_228
+  - first:
+      213: 9162009560456767219
+    second: NES - Mega Man - Playable Characters - Mega Man_229
+  - first:
+      213: -3463029126195923977
+    second: NES - Mega Man - Playable Characters - Mega Man_230
+  - first:
+      213: -724300540817867774
+    second: NES - Mega Man - Playable Characters - Mega Man_231
+  - first:
+      213: -2461364289237241993
+    second: NES - Mega Man - Playable Characters - Mega Man_232
+  - first:
+      213: -2810015148142583193
+    second: NES - Mega Man - Playable Characters - Mega Man_233
+  - first:
+      213: -4991810985878095168
+    second: NES - Mega Man - Playable Characters - Mega Man_234
+  - first:
+      213: -2648413986399777520
+    second: NES - Mega Man - Playable Characters - Mega Man_235
+  - first:
+      213: 6969518638991641363
+    second: NES - Mega Man - Playable Characters - Mega Man_236
+  - first:
+      213: -855925847144120247
+    second: NES - Mega Man - Playable Characters - Mega Man_237
+  - first:
+      213: 3450764307787959698
+    second: NES - Mega Man - Playable Characters - Mega Man_238
+  - first:
+      213: 3261316427701829467
+    second: NES - Mega Man - Playable Characters - Mega Man_239
+  - first:
+      213: 2182560110867034770
+    second: NES - Mega Man - Playable Characters - Mega Man_240
+  - first:
+      213: 2728859611997553780
+    second: NES - Mega Man - Playable Characters - Mega Man_241
+  - first:
+      213: -3818839474998918400
+    second: NES - Mega Man - Playable Characters - Mega Man_242
+  - first:
+      213: 2592479819915699211
+    second: NES - Mega Man - Playable Characters - Mega Man_243
+  - first:
+      213: 3472107815169855501
+    second: NES - Mega Man - Playable Characters - Mega Man_244
+  - first:
+      213: -1778937016245403636
+    second: NES - Mega Man - Playable Characters - Mega Man_245
+  - first:
+      213: -1901307032759336765
+    second: NES - Mega Man - Playable Characters - Mega Man_246
+  - first:
+      213: -1271460547471264223
+    second: NES - Mega Man - Playable Characters - Mega Man_247
+  - first:
+      213: 2525400547646118468
+    second: NES - Mega Man - Playable Characters - Mega Man_248
+  - first:
+      213: -2776655648712000565
+    second: NES - Mega Man - Playable Characters - Mega Man_249
+  - first:
+      213: 6268744307795259569
+    second: NES - Mega Man - Playable Characters - Mega Man_250
+  - first:
+      213: 5486464883709303039
+    second: NES - Mega Man - Playable Characters - Mega Man_251
+  - first:
+      213: 3604019838223627683
+    second: NES - Mega Man - Playable Characters - Mega Man_252
+  - first:
+      213: 5977781987166117822
+    second: NES - Mega Man - Playable Characters - Mega Man_253
+  - first:
+      213: -5062264347968605120
+    second: NES - Mega Man - Playable Characters - Mega Man_254
+  - first:
+      213: 334859763312708245
+    second: NES - Mega Man - Playable Characters - Mega Man_255
+  - first:
+      213: -5405496558742673847
+    second: NES - Mega Man - Playable Characters - Mega Man_256
+  - first:
+      213: 6768279535929297188
+    second: NES - Mega Man - Playable Characters - Mega Man_257
+  - first:
+      213: 4188690789643115707
+    second: NES - Mega Man - Playable Characters - Mega Man_258
+  - first:
+      213: -4473632984053371120
+    second: NES - Mega Man - Playable Characters - Mega Man_259
+  - first:
+      213: 9124857900621260368
+    second: NES - Mega Man - Playable Characters - Mega Man_260
+  - first:
+      213: -4295220600881861781
+    second: NES - Mega Man - Playable Characters - Mega Man_261
+  - first:
+      213: 8697591719089545637
+    second: NES - Mega Man - Playable Characters - Mega Man_262
+  - first:
+      213: -8614160815951383336
+    second: NES - Mega Man - Playable Characters - Mega Man_263
+  - first:
+      213: -927893119476835169
+    second: NES - Mega Man - Playable Characters - Mega Man_264
+  - first:
+      213: 5308308232152439786
+    second: NES - Mega Man - Playable Characters - Mega Man_265
+  - first:
+      213: 1402215138750067718
+    second: NES - Mega Man - Playable Characters - Mega Man_266
+  - first:
+      213: 8042971665161871645
+    second: NES - Mega Man - Playable Characters - Mega Man_267
+  - first:
+      213: -1255092498136310527
+    second: NES - Mega Man - Playable Characters - Mega Man_268
+  - first:
+      213: -1570476468341471203
+    second: NES - Mega Man - Playable Characters - Mega Man_269
+  - first:
+      213: -2888421542367846932
+    second: NES - Mega Man - Playable Characters - Mega Man_270
+  - first:
+      213: -6265479678976350499
+    second: NES - Mega Man - Playable Characters - Mega Man_271
+  - first:
+      213: 2959426706999820480
+    second: NES - Mega Man - Playable Characters - Mega Man_272
+  - first:
+      213: -3130762764085493354
+    second: NES - Mega Man - Playable Characters - Mega Man_273
+  - first:
+      213: -7450262630833779008
+    second: NES - Mega Man - Playable Characters - Mega Man_274
+  - first:
+      213: 8304888416867565315
+    second: NES - Mega Man - Playable Characters - Mega Man_275
+  - first:
+      213: 410103434833033278
+    second: NES - Mega Man - Playable Characters - Mega Man_276
+  - first:
+      213: 796008081977126439
+    second: NES - Mega Man - Playable Characters - Mega Man_277
+  - first:
+      213: 5118921440726082183
+    second: NES - Mega Man - Playable Characters - Mega Man_278
+  - first:
+      213: 2709080378562635360
+    second: NES - Mega Man - Playable Characters - Mega Man_279
+  - first:
+      213: -847080594878919873
+    second: NES - Mega Man - Playable Characters - Mega Man_280
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 338
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec55d0d8bc521bac0800000000000000
+      internalID: -3841247450995272242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 339
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc8953a30a36950800000000000000
+      internalID: 6441168063937695722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 339
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609a6d874890c1260800000000000000
+      internalID: 7069535979632503046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 340
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563401a8cfff59a50800000000000000
+      internalID: 6527404695056565093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManIdle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 336
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a866f6c821f360800000000000000
+      internalID: 7201582114144822929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManIdle2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 336
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2574822e368b96550800000000000000
+      internalID: 6154653104914057042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 336
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5d2f1322c97a530800000000000000
+      internalID: 3866230475801679334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 336
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ae11aaf1469d330800000000000000
+      internalID: 3736127453040601613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 336
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb004eca6db5958d0800000000000000
+      internalID: -2857151511008116546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 336
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d575965739debf30800000000000000
+      internalID: 4593347501663548880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 338
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b1a3077136d790800000000000000
+      internalID: -7505757341734555082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 338
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c125b4286afcf40800000000000000
+      internalID: 5750998327715044498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_76
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 281
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83e73a238f2dc5c0800000000000000
+      internalID: -4193643437616536693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 282
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbeaccfed4e16b50800000000000000
+      internalID: 6584795776567405564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_81
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 281
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296987fe4ce537290800000000000000
+      internalID: -7893861521926089070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 282
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a8db48ca4709f0800000000000000
+      internalID: -502350609302117631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e8787d2a209d50800000000000000
+      internalID: 6741935016956715800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_84
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 279
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f77e76d1a0c9220800000000000000
+      internalID: 2493879415069966158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 279
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876581f34d18b1760800000000000000
+      internalID: 7429674758869374584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_86
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 279
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba81ad165d321330800000000000000
+      internalID: 3680071285588724406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 279
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5d6391bd8d611e0800000000000000
+      internalID: -2227354530155670094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_88
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 279
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb13941dcd1cd00800000000000000
+      internalID: 991316184432492340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_123
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 232
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd92c79e9488920800000000000000
+      internalID: 2992723219547021168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_124
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 230
+        width: 7
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28232630091240930800000000000000
+      internalID: 4108445662484509314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_125
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 246
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65fcaa74f6a9e60800000000000000
+      internalID: 7969804844184590064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_126
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 246
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8295a0a8809328d0800000000000000
+      internalID: -2872293220847086966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_127
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 248
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91edba43344a8100800000000000000
+      internalID: 110976127911977371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_128
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 249
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bfdef7aeccc3430800000000000000
+      internalID: 3764108696115608361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_129
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1769ae4feac206a0800000000000000
+      internalID: -6484397384294373606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_130
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 230
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff34bd9216644de50800000000000000
+      internalID: 6833163917755892735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_131
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 230
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3519f55e6d69590800000000000000
+      internalID: -7667705034912476225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 230
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1b169d1bf260aa0800000000000000
+      internalID: -6195211796498763291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 230
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a125f728dca5660800000000000000
+      internalID: 7375433300138138196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_134
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 230
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a92bfc3fd03dedf0800000000000000
+      internalID: -149409477274424923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_135
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 252
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd2185655fe97920800000000000000
+      internalID: 2988682977791258059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_136
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 230
+        width: 22
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42165da95bdb03540800000000000000
+      internalID: 4985693375183544612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 230
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5d2174b11a81880800000000000000
+      internalID: -8639978746581690957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_143
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 193
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ecb054153cf5c20800000000000000
+      internalID: 3197489014274510385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639477331995dc010800000000000000
+      internalID: 1210722355001116982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_145
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47554e1e63e864be0800000000000000
+      internalID: -1493349860057524876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_146
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 191
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96998b4266eea3550800000000000000
+      internalID: 6141483164343245161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_171
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 169
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58960231216993b70800000000000000
+      internalID: 8879293144712112517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_176
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 169
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c165e33c2169fe0800000000000000
+      internalID: -1182737222364423165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_251
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 71
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8d5224eb6d32c40800000000000000
+      internalID: 5486464883709303039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_252
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 71
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5b7cca2fc040230800000000000000
+      internalID: 3604019838223627683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_253
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfd3c1bb0955f250800000000000000
+      internalID: 5977781987166117822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_254
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 70
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044f43485693fb9b0800000000000000
+      internalID: -5062264347968605120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_266
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047fdb4d3ba57310800000000000000
+      internalID: 1402215138750067718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_267
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 63
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d116180bd106e9f60800000000000000
+      internalID: 8042971665161871645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_268
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 63
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd350d504059ee0800000000000000
+      internalID: -1255092498136310527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_269
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 63
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18856809fb843ae0800000000000000
+      internalID: -1570476468341471203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Playable Characters - Mega Man_270
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 62
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced149529e34ae7d0800000000000000
+      internalID: -2888421542367846932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5a5388669cffc4a43a3c22d1e95ba08d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":20.0},"gridSpritePadding":{"x":4.0,"y":5.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MegaManIdle: 7201582114144822929
+      MegaManIdle2: 6154653104914057042
+      NES - Mega Man - Playable Characters - Mega Man_0: -4632341544981032890
+      NES - Mega Man - Playable Characters - Mega Man_1: -1434927765200763369
+      NES - Mega Man - Playable Characters - Mega Man_10: -8246227871156337131
+      NES - Mega Man - Playable Characters - Mega Man_100: 6351467063659344021
+      NES - Mega Man - Playable Characters - Mega Man_101: -6234018288609136851
+      NES - Mega Man - Playable Characters - Mega Man_102: -830658898355987299
+      NES - Mega Man - Playable Characters - Mega Man_103: 2165981636902749163
+      NES - Mega Man - Playable Characters - Mega Man_104: 5593913349693479424
+      NES - Mega Man - Playable Characters - Mega Man_105: -2743873687263654993
+      NES - Mega Man - Playable Characters - Mega Man_106: 5730138618876247219
+      NES - Mega Man - Playable Characters - Mega Man_107: -7286601658949396200
+      NES - Mega Man - Playable Characters - Mega Man_108: -2151123107822602539
+      NES - Mega Man - Playable Characters - Mega Man_109: -4163320198484508757
+      NES - Mega Man - Playable Characters - Mega Man_11: 4883372115016823151
+      NES - Mega Man - Playable Characters - Mega Man_110: 8200564693959657093
+      NES - Mega Man - Playable Characters - Mega Man_111: 3714726949068290935
+      NES - Mega Man - Playable Characters - Mega Man_112: -2967073531916799336
+      NES - Mega Man - Playable Characters - Mega Man_113: -8748319670861982592
+      NES - Mega Man - Playable Characters - Mega Man_114: 7339756710040076325
+      NES - Mega Man - Playable Characters - Mega Man_115: -5919894386019422873
+      NES - Mega Man - Playable Characters - Mega Man_116: 938259141132529210
+      NES - Mega Man - Playable Characters - Mega Man_117: -2715380984621579759
+      NES - Mega Man - Playable Characters - Mega Man_118: -2497812668650797240
+      NES - Mega Man - Playable Characters - Mega Man_119: -8461493799723819194
+      NES - Mega Man - Playable Characters - Mega Man_12: 1138388793617205490
+      NES - Mega Man - Playable Characters - Mega Man_120: 132073284444000612
+      NES - Mega Man - Playable Characters - Mega Man_121: -1375347569868728794
+      NES - Mega Man - Playable Characters - Mega Man_122: -2471810142605265869
+      NES - Mega Man - Playable Characters - Mega Man_123: 2992723219547021168
+      NES - Mega Man - Playable Characters - Mega Man_124: 4108445662484509314
+      NES - Mega Man - Playable Characters - Mega Man_125: 7969804844184590064
+      NES - Mega Man - Playable Characters - Mega Man_126: -2872293220847086966
+      NES - Mega Man - Playable Characters - Mega Man_127: 110976127911977371
+      NES - Mega Man - Playable Characters - Mega Man_128: 3764108696115608361
+      NES - Mega Man - Playable Characters - Mega Man_129: -6484397384294373606
+      NES - Mega Man - Playable Characters - Mega Man_13: 7176378767447669736
+      NES - Mega Man - Playable Characters - Mega Man_130: 6833163917755892735
+      NES - Mega Man - Playable Characters - Mega Man_131: -7667705034912476225
+      NES - Mega Man - Playable Characters - Mega Man_132: -6195211796498763291
+      NES - Mega Man - Playable Characters - Mega Man_133: 7375433300138138196
+      NES - Mega Man - Playable Characters - Mega Man_134: -149409477274424923
+      NES - Mega Man - Playable Characters - Mega Man_135: 2988682977791258059
+      NES - Mega Man - Playable Characters - Mega Man_136: 4985693375183544612
+      NES - Mega Man - Playable Characters - Mega Man_137: -8639978746581690957
+      NES - Mega Man - Playable Characters - Mega Man_138: -5848357654113083599
+      NES - Mega Man - Playable Characters - Mega Man_139: 6202195362663808809
+      NES - Mega Man - Playable Characters - Mega Man_14: -1230241758766223826
+      NES - Mega Man - Playable Characters - Mega Man_140: -3193723210303182660
+      NES - Mega Man - Playable Characters - Mega Man_141: -5114234969202778102
+      NES - Mega Man - Playable Characters - Mega Man_142: -5139233605997895597
+      NES - Mega Man - Playable Characters - Mega Man_143: 3197489014274510385
+      NES - Mega Man - Playable Characters - Mega Man_144: 1210722355001116982
+      NES - Mega Man - Playable Characters - Mega Man_145: -1493349860057524876
+      NES - Mega Man - Playable Characters - Mega Man_146: 6141483164343245161
+      NES - Mega Man - Playable Characters - Mega Man_147: -1164548498242519583
+      NES - Mega Man - Playable Characters - Mega Man_148: 8909708434650702426
+      NES - Mega Man - Playable Characters - Mega Man_149: 4992436019114576738
+      NES - Mega Man - Playable Characters - Mega Man_15: 6691592449343837807
+      NES - Mega Man - Playable Characters - Mega Man_150: -2540023765862869233
+      NES - Mega Man - Playable Characters - Mega Man_151: -1391449761837147944
+      NES - Mega Man - Playable Characters - Mega Man_152: 4393947817991821924
+      NES - Mega Man - Playable Characters - Mega Man_153: 1175038081738085810
+      NES - Mega Man - Playable Characters - Mega Man_154: 6852089222684743146
+      NES - Mega Man - Playable Characters - Mega Man_155: -6761729527215991127
+      NES - Mega Man - Playable Characters - Mega Man_156: -5371534857498680746
+      NES - Mega Man - Playable Characters - Mega Man_157: 2423461052137393328
+      NES - Mega Man - Playable Characters - Mega Man_158: 3715915335112520881
+      NES - Mega Man - Playable Characters - Mega Man_159: -2640082822373587271
+      NES - Mega Man - Playable Characters - Mega Man_16: -5219161456691101304
+      NES - Mega Man - Playable Characters - Mega Man_160: 3646093238309602623
+      NES - Mega Man - Playable Characters - Mega Man_161: -5525538191711439775
+      NES - Mega Man - Playable Characters - Mega Man_162: -267355106657722846
+      NES - Mega Man - Playable Characters - Mega Man_163: 5026596877700463069
+      NES - Mega Man - Playable Characters - Mega Man_164: 4213129548387887072
+      NES - Mega Man - Playable Characters - Mega Man_165: -6393390151601172724
+      NES - Mega Man - Playable Characters - Mega Man_166: -3768510381624412955
+      NES - Mega Man - Playable Characters - Mega Man_167: -8111850698370582700
+      NES - Mega Man - Playable Characters - Mega Man_168: 275666186069930965
+      NES - Mega Man - Playable Characters - Mega Man_169: -1267019269261600445
+      NES - Mega Man - Playable Characters - Mega Man_17: 7556086115603719308
+      NES - Mega Man - Playable Characters - Mega Man_170: 3891449943554642250
+      NES - Mega Man - Playable Characters - Mega Man_171: 8879293144712112517
+      NES - Mega Man - Playable Characters - Mega Man_172: 1572004706252667092
+      NES - Mega Man - Playable Characters - Mega Man_173: -8526354297728946276
+      NES - Mega Man - Playable Characters - Mega Man_174: -7218755230091576366
+      NES - Mega Man - Playable Characters - Mega Man_175: 7321514489202837977
+      NES - Mega Man - Playable Characters - Mega Man_176: -1182737222364423165
+      NES - Mega Man - Playable Characters - Mega Man_177: -1528162488347705031
+      NES - Mega Man - Playable Characters - Mega Man_178: 4465039798274717919
+      NES - Mega Man - Playable Characters - Mega Man_179: -5212781528327383446
+      NES - Mega Man - Playable Characters - Mega Man_18: 947257919873847069
+      NES - Mega Man - Playable Characters - Mega Man_180: -7718031360856071499
+      NES - Mega Man - Playable Characters - Mega Man_181: 7565707022466551296
+      NES - Mega Man - Playable Characters - Mega Man_182: -5244597951871582115
+      NES - Mega Man - Playable Characters - Mega Man_183: 5929565999363618081
+      NES - Mega Man - Playable Characters - Mega Man_184: -1716933188070031431
+      NES - Mega Man - Playable Characters - Mega Man_185: 4052712321005390686
+      NES - Mega Man - Playable Characters - Mega Man_186: -2182020907735736384
+      NES - Mega Man - Playable Characters - Mega Man_187: 1026139664471938282
+      NES - Mega Man - Playable Characters - Mega Man_188: 6880598991547771709
+      NES - Mega Man - Playable Characters - Mega Man_189: 6943803990513712117
+      NES - Mega Man - Playable Characters - Mega Man_19: 5093512659859972697
+      NES - Mega Man - Playable Characters - Mega Man_190: -4341328459749547224
+      NES - Mega Man - Playable Characters - Mega Man_191: 6429214245823221963
+      NES - Mega Man - Playable Characters - Mega Man_192: 7307407070934644495
+      NES - Mega Man - Playable Characters - Mega Man_193: -5446155061052811359
+      NES - Mega Man - Playable Characters - Mega Man_194: -7175164219226294727
+      NES - Mega Man - Playable Characters - Mega Man_195: 5528551003563214643
+      NES - Mega Man - Playable Characters - Mega Man_196: 944640967595597897
+      NES - Mega Man - Playable Characters - Mega Man_197: -2998512061887213371
+      NES - Mega Man - Playable Characters - Mega Man_198: 6443679954061383032
+      NES - Mega Man - Playable Characters - Mega Man_199: 3939179217447737018
+      NES - Mega Man - Playable Characters - Mega Man_2: 1088603662870015034
+      NES - Mega Man - Playable Characters - Mega Man_20: 7438394799616405483
+      NES - Mega Man - Playable Characters - Mega Man_200: -410535681410669983
+      NES - Mega Man - Playable Characters - Mega Man_201: 5810847269742603754
+      NES - Mega Man - Playable Characters - Mega Man_202: 3067981146008487549
+      NES - Mega Man - Playable Characters - Mega Man_203: -6235488672246987820
+      NES - Mega Man - Playable Characters - Mega Man_204: 7263927378371840256
+      NES - Mega Man - Playable Characters - Mega Man_205: 6729816770618515897
+      NES - Mega Man - Playable Characters - Mega Man_206: -6416913021291447624
+      NES - Mega Man - Playable Characters - Mega Man_207: 3118872218520499458
+      NES - Mega Man - Playable Characters - Mega Man_208: 5322725408730239426
+      NES - Mega Man - Playable Characters - Mega Man_209: -5140674364979755087
+      NES - Mega Man - Playable Characters - Mega Man_21: -7767172030697754955
+      NES - Mega Man - Playable Characters - Mega Man_210: 6583790325588471213
+      NES - Mega Man - Playable Characters - Mega Man_211: 3187947836721369644
+      NES - Mega Man - Playable Characters - Mega Man_212: -4679998146755967472
+      NES - Mega Man - Playable Characters - Mega Man_213: 4801481972658732049
+      NES - Mega Man - Playable Characters - Mega Man_214: -2585130233721463287
+      NES - Mega Man - Playable Characters - Mega Man_215: -5134143018623602687
+      NES - Mega Man - Playable Characters - Mega Man_216: 8442198202897637289
+      NES - Mega Man - Playable Characters - Mega Man_217: 4495655259176239914
+      NES - Mega Man - Playable Characters - Mega Man_218: 3586886523450122066
+      NES - Mega Man - Playable Characters - Mega Man_219: -8733722974850764292
+      NES - Mega Man - Playable Characters - Mega Man_22: 2207483939345033923
+      NES - Mega Man - Playable Characters - Mega Man_220: -6254930102143628503
+      NES - Mega Man - Playable Characters - Mega Man_221: -844010955046589468
+      NES - Mega Man - Playable Characters - Mega Man_222: -3250081980557392671
+      NES - Mega Man - Playable Characters - Mega Man_223: 3996081094964505783
+      NES - Mega Man - Playable Characters - Mega Man_224: -596893067495104955
+      NES - Mega Man - Playable Characters - Mega Man_225: 2944144002248298382
+      NES - Mega Man - Playable Characters - Mega Man_226: -9110587849100172020
+      NES - Mega Man - Playable Characters - Mega Man_227: -7104456171192391815
+      NES - Mega Man - Playable Characters - Mega Man_228: 1360234177420384268
+      NES - Mega Man - Playable Characters - Mega Man_229: 9162009560456767219
+      NES - Mega Man - Playable Characters - Mega Man_23: -8063160692965781812
+      NES - Mega Man - Playable Characters - Mega Man_230: -3463029126195923977
+      NES - Mega Man - Playable Characters - Mega Man_231: -724300540817867774
+      NES - Mega Man - Playable Characters - Mega Man_232: -2461364289237241993
+      NES - Mega Man - Playable Characters - Mega Man_233: -2810015148142583193
+      NES - Mega Man - Playable Characters - Mega Man_234: -4991810985878095168
+      NES - Mega Man - Playable Characters - Mega Man_235: -2648413986399777520
+      NES - Mega Man - Playable Characters - Mega Man_236: 6969518638991641363
+      NES - Mega Man - Playable Characters - Mega Man_237: -855925847144120247
+      NES - Mega Man - Playable Characters - Mega Man_238: 3450764307787959698
+      NES - Mega Man - Playable Characters - Mega Man_239: 3261316427701829467
+      NES - Mega Man - Playable Characters - Mega Man_24: -3858625360124290740
+      NES - Mega Man - Playable Characters - Mega Man_240: 2182560110867034770
+      NES - Mega Man - Playable Characters - Mega Man_241: 2728859611997553780
+      NES - Mega Man - Playable Characters - Mega Man_242: -3818839474998918400
+      NES - Mega Man - Playable Characters - Mega Man_243: 2592479819915699211
+      NES - Mega Man - Playable Characters - Mega Man_244: 3472107815169855501
+      NES - Mega Man - Playable Characters - Mega Man_245: -1778937016245403636
+      NES - Mega Man - Playable Characters - Mega Man_246: -1901307032759336765
+      NES - Mega Man - Playable Characters - Mega Man_247: -1271460547471264223
+      NES - Mega Man - Playable Characters - Mega Man_248: 2525400547646118468
+      NES - Mega Man - Playable Characters - Mega Man_249: -2776655648712000565
+      NES - Mega Man - Playable Characters - Mega Man_25: -2349587298336338401
+      NES - Mega Man - Playable Characters - Mega Man_250: 6268744307795259569
+      NES - Mega Man - Playable Characters - Mega Man_251: 5486464883709303039
+      NES - Mega Man - Playable Characters - Mega Man_252: 3604019838223627683
+      NES - Mega Man - Playable Characters - Mega Man_253: 5977781987166117822
+      NES - Mega Man - Playable Characters - Mega Man_254: -5062264347968605120
+      NES - Mega Man - Playable Characters - Mega Man_255: 334859763312708245
+      NES - Mega Man - Playable Characters - Mega Man_256: -5405496558742673847
+      NES - Mega Man - Playable Characters - Mega Man_257: 6768279535929297188
+      NES - Mega Man - Playable Characters - Mega Man_258: 4188690789643115707
+      NES - Mega Man - Playable Characters - Mega Man_259: -4473632984053371120
+      NES - Mega Man - Playable Characters - Mega Man_26: -3841247450995272242
+      NES - Mega Man - Playable Characters - Mega Man_260: 9124857900621260368
+      NES - Mega Man - Playable Characters - Mega Man_261: -4295220600881861781
+      NES - Mega Man - Playable Characters - Mega Man_262: 8697591719089545637
+      NES - Mega Man - Playable Characters - Mega Man_263: -8614160815951383336
+      NES - Mega Man - Playable Characters - Mega Man_264: -927893119476835169
+      NES - Mega Man - Playable Characters - Mega Man_265: 5308308232152439786
+      NES - Mega Man - Playable Characters - Mega Man_266: 1402215138750067718
+      NES - Mega Man - Playable Characters - Mega Man_267: 8042971665161871645
+      NES - Mega Man - Playable Characters - Mega Man_268: -1255092498136310527
+      NES - Mega Man - Playable Characters - Mega Man_269: -1570476468341471203
+      NES - Mega Man - Playable Characters - Mega Man_27: 6441168063937695722
+      NES - Mega Man - Playable Characters - Mega Man_270: -2888421542367846932
+      NES - Mega Man - Playable Characters - Mega Man_271: -6265479678976350499
+      NES - Mega Man - Playable Characters - Mega Man_272: 2959426706999820480
+      NES - Mega Man - Playable Characters - Mega Man_273: -3130762764085493354
+      NES - Mega Man - Playable Characters - Mega Man_274: -7450262630833779008
+      NES - Mega Man - Playable Characters - Mega Man_275: 8304888416867565315
+      NES - Mega Man - Playable Characters - Mega Man_276: 410103434833033278
+      NES - Mega Man - Playable Characters - Mega Man_277: 796008081977126439
+      NES - Mega Man - Playable Characters - Mega Man_278: 5118921440726082183
+      NES - Mega Man - Playable Characters - Mega Man_279: 2709080378562635360
+      NES - Mega Man - Playable Characters - Mega Man_28: 7069535979632503046
+      NES - Mega Man - Playable Characters - Mega Man_280: -847080594878919873
+      NES - Mega Man - Playable Characters - Mega Man_29: 6527404695056565093
+      NES - Mega Man - Playable Characters - Mega Man_3: 7574611156147983964
+      NES - Mega Man - Playable Characters - Mega Man_30: 3336416909512240539
+      NES - Mega Man - Playable Characters - Mega Man_31: -1491112622270553483
+      NES - Mega Man - Playable Characters - Mega Man_32: 1701695800434860161
+      NES - Mega Man - Playable Characters - Mega Man_33: 3158319408227932641
+      NES - Mega Man - Playable Characters - Mega Man_36: 3866230475801679334
+      NES - Mega Man - Playable Characters - Mega Man_37: 3736127453040601613
+      NES - Mega Man - Playable Characters - Mega Man_38: -2857151511008116546
+      NES - Mega Man - Playable Characters - Mega Man_39: 4593347501663548880
+      NES - Mega Man - Playable Characters - Mega Man_4: -5631570034615827921
+      NES - Mega Man - Playable Characters - Mega Man_40: -7505757341734555082
+      NES - Mega Man - Playable Characters - Mega Man_41: 5750998327715044498
+      NES - Mega Man - Playable Characters - Mega Man_42: -8554383910953048951
+      NES - Mega Man - Playable Characters - Mega Man_43: -4175283123441646914
+      NES - Mega Man - Playable Characters - Mega Man_44: -2094469170466998418
+      NES - Mega Man - Playable Characters - Mega Man_45: -7196507074681842746
+      NES - Mega Man - Playable Characters - Mega Man_46: -6265030391050987932
+      NES - Mega Man - Playable Characters - Mega Man_47: 7095049234160526367
+      NES - Mega Man - Playable Characters - Mega Man_48: -2849225950050694238
+      NES - Mega Man - Playable Characters - Mega Man_49: -5103387986753663728
+      NES - Mega Man - Playable Characters - Mega Man_5: 423020222274843615
+      NES - Mega Man - Playable Characters - Mega Man_50: 1219833295906103947
+      NES - Mega Man - Playable Characters - Mega Man_51: -7870015387164342367
+      NES - Mega Man - Playable Characters - Mega Man_52: 2571122412733209371
+      NES - Mega Man - Playable Characters - Mega Man_53: -2341060931861294927
+      NES - Mega Man - Playable Characters - Mega Man_54: -1851218695418698073
+      NES - Mega Man - Playable Characters - Mega Man_55: 7628244904155329250
+      NES - Mega Man - Playable Characters - Mega Man_56: 6252422381030069148
+      NES - Mega Man - Playable Characters - Mega Man_57: -5461693061378822339
+      NES - Mega Man - Playable Characters - Mega Man_58: -7897704690612678744
+      NES - Mega Man - Playable Characters - Mega Man_59: 9140383548078955922
+      NES - Mega Man - Playable Characters - Mega Man_6: 8099331175838616220
+      NES - Mega Man - Playable Characters - Mega Man_60: -4751951315342876159
+      NES - Mega Man - Playable Characters - Mega Man_61: -89384209102168029
+      NES - Mega Man - Playable Characters - Mega Man_62: -3723291990145420385
+      NES - Mega Man - Playable Characters - Mega Man_63: -4536881887623394194
+      NES - Mega Man - Playable Characters - Mega Man_64: 5909878305773374014
+      NES - Mega Man - Playable Characters - Mega Man_65: 6370852904951824728
+      NES - Mega Man - Playable Characters - Mega Man_66: 2544092824169772278
+      NES - Mega Man - Playable Characters - Mega Man_67: -8137604201747308114
+      NES - Mega Man - Playable Characters - Mega Man_68: 584302701112659869
+      NES - Mega Man - Playable Characters - Mega Man_69: -4136852665702792433
+      NES - Mega Man - Playable Characters - Mega Man_7: -6064040915429876645
+      NES - Mega Man - Playable Characters - Mega Man_70: -1778388673276905926
+      NES - Mega Man - Playable Characters - Mega Man_71: -1957525031979377731
+      NES - Mega Man - Playable Characters - Mega Man_72: -4186993183570777226
+      NES - Mega Man - Playable Characters - Mega Man_73: -5435217932322023547
+      NES - Mega Man - Playable Characters - Mega Man_74: 728837430581598061
+      NES - Mega Man - Playable Characters - Mega Man_75: -5044312560648000541
+      NES - Mega Man - Playable Characters - Mega Man_76: -4193643437616536693
+      NES - Mega Man - Playable Characters - Mega Man_77: 6584795776567405564
+      NES - Mega Man - Playable Characters - Mega Man_78: 4566809584156613014
+      NES - Mega Man - Playable Characters - Mega Man_79: 3046816339016931768
+      NES - Mega Man - Playable Characters - Mega Man_8: 4225305829360045083
+      NES - Mega Man - Playable Characters - Mega Man_80: 105002558523822709
+      NES - Mega Man - Playable Characters - Mega Man_81: -7893861521926089070
+      NES - Mega Man - Playable Characters - Mega Man_82: -502350609302117631
+      NES - Mega Man - Playable Characters - Mega Man_83: 6741935016956715800
+      NES - Mega Man - Playable Characters - Mega Man_84: 2493879415069966158
+      NES - Mega Man - Playable Characters - Mega Man_85: 7429674758869374584
+      NES - Mega Man - Playable Characters - Mega Man_86: 3680071285588724406
+      NES - Mega Man - Playable Characters - Mega Man_87: -2227354530155670094
+      NES - Mega Man - Playable Characters - Mega Man_88: 991316184432492340
+      NES - Mega Man - Playable Characters - Mega Man_89: 9080890382099560885
+      NES - Mega Man - Playable Characters - Mega Man_9: -5458430625491560964
+      NES - Mega Man - Playable Characters - Mega Man_90: 5721158921600702424
+      NES - Mega Man - Playable Characters - Mega Man_91: 5521973443599770193
+      NES - Mega Man - Playable Characters - Mega Man_92: 22267818236814340
+      NES - Mega Man - Playable Characters - Mega Man_93: -3578097110830994102
+      NES - Mega Man - Playable Characters - Mega Man_94: -4667581228285226015
+      NES - Mega Man - Playable Characters - Mega Man_95: 7806951904842580870
+      NES - Mega Man - Playable Characters - Mega Man_96: -4416264257658819178
+      NES - Mega Man - Playable Characters - Mega Man_97: -4319675577922656561
+      NES - Mega Man - Playable Characters - Mega Man_98: -6629563875433413536
+      NES - Mega Man - Playable Characters - Mega Man_99: 5170728866742501858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

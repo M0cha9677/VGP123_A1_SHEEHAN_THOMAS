@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,14 +11,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - ForeGround
+  - Projectiles
+  - Player
+  - Enemies
+  - Collectibles
+  - Midground
+  - Ground
+  - BackGround
   - 
   - 
   - 
@@ -41,3 +41,29 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BackGround
+    uniqueID: 274464175
+    locked: 0
+  - name: Ground
+    uniqueID: 3170275281
+    locked: 0
+  - name: Midground
+    uniqueID: 1683393811
+    locked: 0
+  - name: Collectibles
+    uniqueID: 3173108723
+    locked: 0
+  - name: Enemies
+    uniqueID: 2862820771
+    locked: 0
+  - name: Player
+    uniqueID: 2211273013
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3462457563
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1894670099
+    locked: 0
+  m_RenderingLayers:
+  - Default
