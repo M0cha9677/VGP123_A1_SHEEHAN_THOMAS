@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 8400774691763392054}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.96, y: 0.78, z: 0}
+  m_LocalPosition: {x: -0.96, y: 0.804, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -61,7 +61,7 @@ Transform:
   m_GameObject: {fileID: 8460476274588567134}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -111.87475, y: 29.27696, z: 0}
+  m_LocalPosition: {x: -94.69694, y: 36.77481, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -164,7 +164,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 6cc8188cebc0e1e4ea3f3d1ed8ccc423, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -212,15 +212,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 738fe573d854ff849bf297b585107b67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  moveSpeed: 6
-  jumpForce: 10
+  moveSpeed: 5
+  jumpForce: 7
   groundLayer:
     serializedVersion: 2
     m_Bits: 6144
   groundCheckRadius: 0.05
   groundCheckExtra: 0.02
-  firePoint: {fileID: 0}
+  firePoint: {fileID: 2426695907661342514}
+  projectilePrefab: {fileID: 5596415987511339961, guid: df7e5adfff2761e4fa6b5e51827a1ff4, type: 3}
   levelSprite: {fileID: 0}
+  _facingRight: 0
 --- !u!95 &1073651560805792064
 Animator:
   serializedVersion: 7

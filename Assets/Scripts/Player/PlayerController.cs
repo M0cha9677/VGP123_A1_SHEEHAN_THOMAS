@@ -15,11 +15,13 @@ public class PlayerMovement2D : MonoBehaviour
 
     [Header("Optional FirePoint")]
     [SerializeField] private Transform firePoint;
+    [SerializeField] private Projectile2D projectilePrefab;
 
     [Header("Level Clamp")]
-    [SerializeField] private SpriteRenderer levelSprite;
+    [SerializeField] private PolygonCollider2D levelCollider;
 
-    public bool FacingRight => _sr.flipX;
+    public bool _facingRight = false;
+    public  bool FacingRight => _facingRight;
 
     private Rigidbody2D _rb;
     private Collider2D _col;
@@ -36,7 +38,8 @@ public class PlayerMovement2D : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         _col = GetComponent<Collider2D>();
         _sr = GetComponent<SpriteRenderer>();
-        _anim = GetComponent<Animator>();
+        _anim = GetComponentInChildren<Animator>();
+        Debug.Log(_anim != null ? "Animator found" : "Animator NOT found");
 
         if (firePoint != null)
             _firePointAbsX = Mathf.Abs(firePoint.localPosition.x);
@@ -45,11 +48,11 @@ public class PlayerMovement2D : MonoBehaviour
     private void Start()
     {
         // Auto-find level sprite if not assigned (prefab-safe)
-        if (levelSprite == null)
+        if (levelCollider == null)
         {
             GameObject levelObj = GameObject.FindGameObjectWithTag("Level");
             if (levelObj != null)
-                levelSprite = levelObj.GetComponent<SpriteRenderer>();
+                levelCollider = levelObj.GetComponent<PolygonCollider2D>();
             else
                 Debug.LogError("No GameObject with tag 'Level' found.");
         }
@@ -74,10 +77,17 @@ public class PlayerMovement2D : MonoBehaviour
             groundLayer
         );
 
+        
+        bool isShooting = Input.GetMouseButton(0);
         // Animator parameters
         _anim.SetFloat("moveInput", Mathf.Abs(_moveInput));
         _anim.SetBool("isGrounded", _isGrounded);
-        _anim.SetFloat("yVel", _rb.linearVelocity.y);
+        _anim.SetBool("isShooting", isShooting);
+        if (Input.GetMouseButtonDown(0))
+                {
+                    Shoot();
+                    Debug.Log("LMB pressed");
+                }
     }
 
     private void FixedUpdate()
@@ -111,21 +121,23 @@ public class PlayerMovement2D : MonoBehaviour
     private void SpriteFlip(float horizontalInput)
     {
         if (horizontalInput == 0) return;
-        _sr.flipX = horizontalInput > 0f;
+        _facingRight = horizontalInput > 0f;
+
+        _sr.flipX = _facingRight;
 
         if (firePoint != null)
         {
             Vector3 p = firePoint.localPosition;
-            p.x = _sr.flipX ? -_firePointAbsX : _firePointAbsX;
+            p.x = _facingRight ? _firePointAbsX : -_firePointAbsX;
             firePoint.localPosition = p;
         }
     }
 
     private void ClampToLevel()
     {
-        if (levelSprite == null) return;
+        if (levelCollider == null) return;
 
-        Bounds b = levelSprite.bounds;
+        Bounds b = levelCollider.bounds;
         Vector3 pos = transform.position;
 
         // Clamp left/right
@@ -135,6 +147,24 @@ public class PlayerMovement2D : MonoBehaviour
         pos.y = Mathf.Min(pos.y, b.max.y);
 
         transform.position = pos;
+    }
+
+    private void Shoot()
+    {
+        if (projectilePrefab == null || firePoint == null)
+        {
+            Debug.Log("No firepoint or projectile Prefab assigned");
+            return;
+        }
+        Vector2 dir = FacingRight ? Vector2.right : Vector2.left;
+
+        Projectile2D proj = Instantiate(
+            projectilePrefab,
+            firePoint.position,
+            Quaternion.identity
+        );
+
+        proj.Fire(dir);
     }
 
     private void OnDrawGizmosSelected()

@@ -3,55 +3,32 @@ using UnityEngine;
 public class CameraFollow2D : MonoBehaviour
 {
     [SerializeField] private Transform target;
-    [SerializeField] private SpriteRenderer levelSprite;
-    [SerializeField] private float smoothSpeed = 5f;
+    [SerializeField] private float smoothSpeed = 6f;
 
-    private float minX, maxX, minY, maxY;
-    private float camHalfWidth, camHalfHeight;
+    private float _minX, _maxX, _minY, _maxY;
 
-    private void Start()
+    public void SetSectionBounds(float minX, float maxX, float minY, float maxY)
     {
-        if (levelSprite == null)
-        {
-            Debug.LogError("Level sprite not assigned.");
-            return;
-        }
-
-        camHalfHeight = Camera.main.orthographicSize;
-        camHalfWidth = camHalfHeight * Camera.main.aspect;
-
-        Bounds b = levelSprite.bounds;
-
-        minX = b.min.x + camHalfWidth;
-        maxX = b.max.x - camHalfWidth;
-        minY = b.min.y + camHalfHeight;
-        maxY = b.max.y - camHalfHeight;
-    }
-
-    public void SetTarget(Transform t)
-    {
-        target = t;
+        _minX = minX;
+        _maxX = maxX;
+        _minY = minY;
+        _maxY = maxY;
     }
 
     private void LateUpdate()
     {
         if (target == null) return;
 
-        Vector3 desired = new Vector3(
-            target.position.x,
-            target.position.y,
-            transform.position.z
-        );
+        Vector3 current = transform.position;
+        Vector3 desired = new Vector3(target.position.x, target.position.y, current.z);
 
-        float clampedX = Mathf.Clamp(desired.x, minX, maxX);
-        float clampedY = Mathf.Clamp(desired.y, minY, maxY);
+        float x = Mathf.Clamp(desired.x, _minX, _maxX);
+        float y = Mathf.Clamp(desired.y, _minY, _maxY);
 
-        Vector3 clampedPos = new Vector3(clampedX, clampedY, desired.z);
+        Vector3 clamped = new Vector3(x, y, desired.z);
 
-        transform.position = Vector3.Lerp(
-            transform.position,
-            clampedPos,
-            smoothSpeed * Time.deltaTime
-        );
+        transform.position = Vector3.Lerp(current, clamped, smoothSpeed * Time.deltaTime);
     }
+
+    public void SetTarget(Transform t) => target = t;
 }
