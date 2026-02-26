@@ -27,9 +27,17 @@ public class BlasterBullet2D : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (((1 << other.gameObject.layer) & hitMask) == 0) return;
+        var receiver = other.GetComponent<PlayerRecieveDamage>();
+        if (receiver != null)
+        {
+            receiver.ApplyDamage(1);
+            Destroy(gameObject);
+            return;
+        }
 
-        // later: damage player
+        if (((1 << other.gameObject.layer) & hitMask) == 0)
+            return;
+
         Destroy(gameObject);
     }
 }

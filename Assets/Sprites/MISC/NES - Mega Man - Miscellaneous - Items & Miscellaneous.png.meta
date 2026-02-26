@@ -275,7 +275,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bullet
+      name: SmallEnergyPickUp
       rect:
         serializedVersion: 2
         x: 54
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Miscellaneous - Items & Miscellaneous_6
+      name: 1Up
       rect:
         serializedVersion: 2
         x: 103
@@ -561,7 +561,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Miscellaneous - Items & Miscellaneous_16
+      name: MegaManBullet
       rect:
         serializedVersion: 2
         x: 78
@@ -950,7 +950,8 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Bullet: 68505885359800280
+      1Up: 7127319781771923469
+      MegaManBullet: -4585662879596790374
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_0: -587996226660636355
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_1: 8842434541737671393
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_10: 8210748397244313123
@@ -959,7 +960,6 @@ TextureImporter:
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_13: -4257849277420850641
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_14: -5254645918043608019
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_15: -7978106213207846239
-      NES - Mega Man - Miscellaneous - Items & Miscellaneous_16: -4585662879596790374
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_17: -6676407006375168154
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_18: 5700367914797025447
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_19: -4077431807143921995
@@ -979,10 +979,10 @@ TextureImporter:
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_32: -6107161179456835806
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_4: 1977917145710805600
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_5: -3036181337126446611
-      NES - Mega Man - Miscellaneous - Items & Miscellaneous_6: 7127319781771923469
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_7: -7010954736827897916
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_8: 8128691918203556119
       NES - Mega Man - Miscellaneous - Items & Miscellaneous_9: 5688037358581067155
+      SmallEnergyPickUp: 68505885359800280
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

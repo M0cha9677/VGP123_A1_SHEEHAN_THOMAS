@@ -1019,7 +1019,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Mega Man - Playable Characters - Mega Man_29
+      name: Hurt
       rect:
         serializedVersion: 2
         x: 269
@@ -2119,6 +2119,7 @@ TextureImporter:
       Death2: -2872293220847086966
       Death3: 110976127911977371
       Death4: 3764108696115608361
+      Hurt: 6527404695056565093
       IdleShoot: 6741935016956715800
       Inch: 3866230475801679334
       JumpFall: -3841247450995272242
@@ -2321,7 +2322,6 @@ TextureImporter:
       NES - Mega Man - Playable Characters - Mega Man_278: 5118921440726082183
       NES - Mega Man - Playable Characters - Mega Man_279: 2709080378562635360
       NES - Mega Man - Playable Characters - Mega Man_280: -847080594878919873
-      NES - Mega Man - Playable Characters - Mega Man_29: 6527404695056565093
       NES - Mega Man - Playable Characters - Mega Man_3: 7574611156147983964
       NES - Mega Man - Playable Characters - Mega Man_30: 3336416909512240539
       NES - Mega Man - Playable Characters - Mega Man_31: -1491112622270553483

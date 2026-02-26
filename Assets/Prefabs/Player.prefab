@@ -45,6 +45,8 @@ GameObject:
   - component: {fileID: 2807319637470985086}
   - component: {fileID: 4408777127178170863}
   - component: {fileID: 1073651560805792064}
+  - component: {fileID: -9024063310155901437}
+  - component: {fileID: -3304907006345412630}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -221,7 +223,7 @@ MonoBehaviour:
   groundCheckExtra: 0.02
   firePoint: {fileID: 2426695907661342514}
   projectilePrefab: {fileID: 5596415987511339961, guid: df7e5adfff2761e4fa6b5e51827a1ff4, type: 3}
-  levelSprite: {fileID: 0}
+  levelCollider: {fileID: 0}
   _facingRight: 0
 --- !u!95 &1073651560805792064
 Animator:
@@ -245,3 +247,34 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-9024063310155901437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8460476274588567134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c236abebd988a0a4fa001367cd1637e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  maxHealth: 10
+  startLives: 3
+  maxEnergy: 20
+  startEnergy: 0
+  energyPerShot: 1
+  iFrameTime: 0.8
+  hurtLockTime: 0.15
+--- !u!114 &-3304907006345412630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8460476274588567134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6061d2a9b3b5654eb3e4d2fc2d68ca5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'

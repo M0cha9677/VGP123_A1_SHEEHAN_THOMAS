@@ -1,3 +1,4 @@
+using Unity.VisualScripting.Antlr3.Runtime.Misc;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D), typeof(SpriteRenderer))]
@@ -27,6 +28,8 @@ public class PlayerMovement2D : MonoBehaviour
     private Collider2D _col;
     private SpriteRenderer _sr;
     private Animator _anim;
+    private PlayerStats2D _stats;
+
 
     private float _firePointAbsX;
     private float _moveInput;
@@ -39,7 +42,7 @@ public class PlayerMovement2D : MonoBehaviour
         _col = GetComponent<Collider2D>();
         _sr = GetComponent<SpriteRenderer>();
         _anim = GetComponentInChildren<Animator>();
-        Debug.Log(_anim != null ? "Animator found" : "Animator NOT found");
+        _stats = GetComponent<PlayerStats2D>();
 
         if (firePoint != null)
             _firePointAbsX = Mathf.Abs(firePoint.localPosition.x);
@@ -86,7 +89,6 @@ public class PlayerMovement2D : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
                 {
                     Shoot();
-                    Debug.Log("LMB pressed");
                 }
     }
 
@@ -156,14 +158,14 @@ public class PlayerMovement2D : MonoBehaviour
             Debug.Log("No firepoint or projectile Prefab assigned");
             return;
         }
+
+        // Energy check (if stats exists)
+        if (_stats != null && !_stats.TrySpendEnergyForShot())
+            return;
+
         Vector2 dir = FacingRight ? Vector2.right : Vector2.left;
 
-        Projectile2D proj = Instantiate(
-            projectilePrefab,
-            firePoint.position,
-            Quaternion.identity
-        );
-
+        Projectile2D proj = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
         proj.Fire(dir);
     }
 

@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 289827818747487489}
   - component: {fileID: 3874778059154603727}
   - component: {fileID: 3326200498472362259}
+  - component: {fileID: 2536273743359714565}
+  - component: {fileID: -1289672881169827274}
   m_Layer: 0
   m_Name: SniperJoe
   m_TagString: Untagged
@@ -191,7 +193,6 @@ MonoBehaviour:
   firePoint: {fileID: 1813336921155623645}
   joeBulletPrefab: {fileID: 5502046999244884609, guid: 9f0424d7719666445bde717cde0e28c7, type: 3}
   frontOnlyShieldBlock: 1
-  debug: 1
   drawAimLine: 1
 --- !u!95 &3326200498472362259
 Animator:
@@ -215,6 +216,33 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2536273743359714565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4568084422756841576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6195ecae008f1b04baeec84e2b726b20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  damage: 1
+--- !u!114 &-1289672881169827274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4568084422756841576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f9bd78712796794c9e63ef0600443af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  maxHP: 3
+  deathFXPrefab: {fileID: 1191984038528361145, guid: ac8e8a5f29661704f8ed8eddf19835ed, type: 3}
 --- !u!1 &7035530239025931972
 GameObject:
   m_ObjectHideFlags: 0

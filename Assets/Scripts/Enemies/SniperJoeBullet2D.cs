@@ -35,14 +35,22 @@ public class SniperJoeBullet2D : MonoBehaviour
         Destroy(gameObject, lifetime);
     }
 
+    
+    
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Layer-mask check
+        var receiver = other.GetComponent<PlayerRecieveDamage>();
+        if (receiver != null)
+        {
+            receiver.ApplyDamage(1);
+            Destroy(gameObject);
+            return;
+        }
+
         if (((1 << other.gameObject.layer) & hitMask) == 0)
             return;
 
-        // TODO later: if other is Player -> damage
-        // For now: just destroy on hit with player/ground/etc.
         Destroy(gameObject);
     }
+
 }

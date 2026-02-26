@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3104198708557930679}
   - component: {fileID: 636214414226215493}
   - component: {fileID: 1860015731048125990}
+  - component: {fileID: 4329376499803029961}
   m_Layer: 0
   m_Name: BlueBlaster
   m_TagString: Untagged
@@ -150,6 +151,8 @@ MonoBehaviour:
   sniperSpeed: 13
   debug: 0
   drawAim: 0
+  wallSide: 1
+  applyWallSideOnAwake: 1
 --- !u!61 &636214414226215493
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -209,6 +212,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   maxHP: 3
+--- !u!114 &4329376499803029961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1872742021643721207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f9bd78712796794c9e63ef0600443af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  maxHP: 3
+  deathFXPrefab: {fileID: 1191984038528361145, guid: ac8e8a5f29661704f8ed8eddf19835ed, type: 3}
 --- !u!1 &8606595955986488381
 GameObject:
   m_ObjectHideFlags: 0

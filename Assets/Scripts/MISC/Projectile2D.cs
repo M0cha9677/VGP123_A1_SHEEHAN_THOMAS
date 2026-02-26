@@ -25,16 +25,16 @@ public class Projectile2D : MonoBehaviour
     {
         if (other.CompareTag("Player") || other.CompareTag("Level")) return;
 
-        BlasterHealth2D blaster = other.GetComponentInParent<BlasterHealth2D>();
-        if (blaster != null) 
+        // Damage enemies
+        var enemy = other.GetComponentInParent<EnemyHealth2D>();
+        if (enemy != null)
         {
-            blaster.TakeDamage(damage);
+            enemy.TakeDamage(1);
             Destroy(gameObject);
             return;
-
         }
-        // Add sniper joe and Razy here in the same way
+
         Destroy(gameObject);
     }
-    
+
 }

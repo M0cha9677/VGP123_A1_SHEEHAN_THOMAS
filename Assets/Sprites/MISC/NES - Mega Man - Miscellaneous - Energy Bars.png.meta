@@ -1,0 +1,6346 @@
+fileFormatVersion: 2
+guid: 5820e15f10fb64c419f01b0d6ebff724
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1484873561307627748
+    second: NES - Mega Man - Miscellaneous - Energy Bars_0
+  - first:
+      213: 1754818123624958390
+    second: NES - Mega Man - Miscellaneous - Energy Bars_1
+  - first:
+      213: 2968148735586949871
+    second: NES - Mega Man - Miscellaneous - Energy Bars_2
+  - first:
+      213: 1515691496289195836
+    second: NES - Mega Man - Miscellaneous - Energy Bars_3
+  - first:
+      213: 6006941570837391926
+    second: NES - Mega Man - Miscellaneous - Energy Bars_4
+  - first:
+      213: 4374979502872405419
+    second: NES - Mega Man - Miscellaneous - Energy Bars_5
+  - first:
+      213: 5787841159496031990
+    second: NES - Mega Man - Miscellaneous - Energy Bars_6
+  - first:
+      213: 6605734247052045783
+    second: NES - Mega Man - Miscellaneous - Energy Bars_7
+  - first:
+      213: -6623253912190641897
+    second: NES - Mega Man - Miscellaneous - Energy Bars_8
+  - first:
+      213: -8999384921441314949
+    second: NES - Mega Man - Miscellaneous - Energy Bars_9
+  - first:
+      213: -1184570734945291464
+    second: NES - Mega Man - Miscellaneous - Energy Bars_10
+  - first:
+      213: -5918036453074099881
+    second: NES - Mega Man - Miscellaneous - Energy Bars_11
+  - first:
+      213: -426098750809472485
+    second: NES - Mega Man - Miscellaneous - Energy Bars_12
+  - first:
+      213: -8335843137830617671
+    second: NES - Mega Man - Miscellaneous - Energy Bars_13
+  - first:
+      213: -7545739937886377210
+    second: NES - Mega Man - Miscellaneous - Energy Bars_14
+  - first:
+      213: -5806570360041006941
+    second: NES - Mega Man - Miscellaneous - Energy Bars_15
+  - first:
+      213: 1873286460547446090
+    second: NES - Mega Man - Miscellaneous - Energy Bars_16
+  - first:
+      213: -459174197972639331
+    second: NES - Mega Man - Miscellaneous - Energy Bars_17
+  - first:
+      213: -3682278918508031289
+    second: NES - Mega Man - Miscellaneous - Energy Bars_18
+  - first:
+      213: -7141117378513330514
+    second: NES - Mega Man - Miscellaneous - Energy Bars_19
+  - first:
+      213: -1121259849338554973
+    second: NES - Mega Man - Miscellaneous - Energy Bars_20
+  - first:
+      213: 1853418223495266443
+    second: NES - Mega Man - Miscellaneous - Energy Bars_21
+  - first:
+      213: -2670763700968094632
+    second: NES - Mega Man - Miscellaneous - Energy Bars_22
+  - first:
+      213: -2085417403942608827
+    second: NES - Mega Man - Miscellaneous - Energy Bars_23
+  - first:
+      213: -3082452488255255082
+    second: NES - Mega Man - Miscellaneous - Energy Bars_24
+  - first:
+      213: 9038015898427667306
+    second: NES - Mega Man - Miscellaneous - Energy Bars_25
+  - first:
+      213: -7635054901838869279
+    second: NES - Mega Man - Miscellaneous - Energy Bars_26
+  - first:
+      213: -3718828148428239452
+    second: NES - Mega Man - Miscellaneous - Energy Bars_27
+  - first:
+      213: -4030333358436706975
+    second: NES - Mega Man - Miscellaneous - Energy Bars_28
+  - first:
+      213: 5949462983979100348
+    second: NES - Mega Man - Miscellaneous - Energy Bars_29
+  - first:
+      213: -178284620572311926
+    second: NES - Mega Man - Miscellaneous - Energy Bars_30
+  - first:
+      213: 4730988849389527082
+    second: NES - Mega Man - Miscellaneous - Energy Bars_31
+  - first:
+      213: 4474829103827078814
+    second: NES - Mega Man - Miscellaneous - Energy Bars_32
+  - first:
+      213: -6051939470362002289
+    second: NES - Mega Man - Miscellaneous - Energy Bars_33
+  - first:
+      213: 3242426594518312790
+    second: NES - Mega Man - Miscellaneous - Energy Bars_34
+  - first:
+      213: 700435301956268016
+    second: NES - Mega Man - Miscellaneous - Energy Bars_35
+  - first:
+      213: 6090761423645042412
+    second: NES - Mega Man - Miscellaneous - Energy Bars_36
+  - first:
+      213: 8260626854208384259
+    second: NES - Mega Man - Miscellaneous - Energy Bars_37
+  - first:
+      213: 986972323998803534
+    second: NES - Mega Man - Miscellaneous - Energy Bars_38
+  - first:
+      213: 2087240621828675437
+    second: NES - Mega Man - Miscellaneous - Energy Bars_39
+  - first:
+      213: 6267251590675050742
+    second: NES - Mega Man - Miscellaneous - Energy Bars_40
+  - first:
+      213: 7147675688730006459
+    second: NES - Mega Man - Miscellaneous - Energy Bars_41
+  - first:
+      213: -6745200418961702376
+    second: NES - Mega Man - Miscellaneous - Energy Bars_42
+  - first:
+      213: -9144479659002078264
+    second: NES - Mega Man - Miscellaneous - Energy Bars_43
+  - first:
+      213: 1959372433513783366
+    second: NES - Mega Man - Miscellaneous - Energy Bars_44
+  - first:
+      213: -8067061863130442306
+    second: NES - Mega Man - Miscellaneous - Energy Bars_45
+  - first:
+      213: 3766827179404897920
+    second: NES - Mega Man - Miscellaneous - Energy Bars_46
+  - first:
+      213: -3314798647917300988
+    second: NES - Mega Man - Miscellaneous - Energy Bars_47
+  - first:
+      213: -5317015466229235918
+    second: NES - Mega Man - Miscellaneous - Energy Bars_48
+  - first:
+      213: 7042158819581602318
+    second: NES - Mega Man - Miscellaneous - Energy Bars_49
+  - first:
+      213: -616331254002879800
+    second: NES - Mega Man - Miscellaneous - Energy Bars_50
+  - first:
+      213: 6373209513326676206
+    second: NES - Mega Man - Miscellaneous - Energy Bars_51
+  - first:
+      213: 3567369569859533579
+    second: NES - Mega Man - Miscellaneous - Energy Bars_52
+  - first:
+      213: 3302979177066963889
+    second: NES - Mega Man - Miscellaneous - Energy Bars_53
+  - first:
+      213: 9082776808128980994
+    second: NES - Mega Man - Miscellaneous - Energy Bars_54
+  - first:
+      213: -4200440073137804462
+    second: NES - Mega Man - Miscellaneous - Energy Bars_55
+  - first:
+      213: 9204680111186056511
+    second: NES - Mega Man - Miscellaneous - Energy Bars_56
+  - first:
+      213: -285756275209020418
+    second: NES - Mega Man - Miscellaneous - Energy Bars_57
+  - first:
+      213: -8677221985158567887
+    second: NES - Mega Man - Miscellaneous - Energy Bars_58
+  - first:
+      213: -4050165560757023400
+    second: NES - Mega Man - Miscellaneous - Energy Bars_59
+  - first:
+      213: 4550079322914741664
+    second: NES - Mega Man - Miscellaneous - Energy Bars_60
+  - first:
+      213: 7680930872725306810
+    second: NES - Mega Man - Miscellaneous - Energy Bars_61
+  - first:
+      213: -1441848677180053057
+    second: NES - Mega Man - Miscellaneous - Energy Bars_62
+  - first:
+      213: -615020875617624275
+    second: NES - Mega Man - Miscellaneous - Energy Bars_63
+  - first:
+      213: 2133946028731426694
+    second: NES - Mega Man - Miscellaneous - Energy Bars_64
+  - first:
+      213: 2932320204471434236
+    second: NES - Mega Man - Miscellaneous - Energy Bars_65
+  - first:
+      213: 7806978840615756430
+    second: NES - Mega Man - Miscellaneous - Energy Bars_66
+  - first:
+      213: 6718606070373663914
+    second: NES - Mega Man - Miscellaneous - Energy Bars_67
+  - first:
+      213: -6123445429902169520
+    second: NES - Mega Man - Miscellaneous - Energy Bars_68
+  - first:
+      213: -2427104920050923109
+    second: NES - Mega Man - Miscellaneous - Energy Bars_69
+  - first:
+      213: -4939553125021722249
+    second: NES - Mega Man - Miscellaneous - Energy Bars_70
+  - first:
+      213: 4686628200505500890
+    second: NES - Mega Man - Miscellaneous - Energy Bars_71
+  - first:
+      213: 4713614516641202427
+    second: NES - Mega Man - Miscellaneous - Energy Bars_72
+  - first:
+      213: 2748252844328034279
+    second: NES - Mega Man - Miscellaneous - Energy Bars_73
+  - first:
+      213: -6487720265258877259
+    second: NES - Mega Man - Miscellaneous - Energy Bars_74
+  - first:
+      213: -8257577385611463
+    second: NES - Mega Man - Miscellaneous - Energy Bars_75
+  - first:
+      213: -8530141647610235827
+    second: NES - Mega Man - Miscellaneous - Energy Bars_76
+  - first:
+      213: -2034588247450722110
+    second: NES - Mega Man - Miscellaneous - Energy Bars_77
+  - first:
+      213: -4658611165731425279
+    second: NES - Mega Man - Miscellaneous - Energy Bars_78
+  - first:
+      213: 8623417825913196595
+    second: NES - Mega Man - Miscellaneous - Energy Bars_79
+  - first:
+      213: 3705440917179495679
+    second: NES - Mega Man - Miscellaneous - Energy Bars_80
+  - first:
+      213: -7444995440922600939
+    second: NES - Mega Man - Miscellaneous - Energy Bars_81
+  - first:
+      213: 4961272871672071046
+    second: NES - Mega Man - Miscellaneous - Energy Bars_82
+  - first:
+      213: 2213959617171482048
+    second: NES - Mega Man - Miscellaneous - Energy Bars_83
+  - first:
+      213: -440557671663636994
+    second: NES - Mega Man - Miscellaneous - Energy Bars_84
+  - first:
+      213: 7644431628163872178
+    second: NES - Mega Man - Miscellaneous - Energy Bars_85
+  - first:
+      213: 7269622272512371552
+    second: NES - Mega Man - Miscellaneous - Energy Bars_86
+  - first:
+      213: 3682476161281306778
+    second: NES - Mega Man - Miscellaneous - Energy Bars_87
+  - first:
+      213: 6714533775607558814
+    second: NES - Mega Man - Miscellaneous - Energy Bars_88
+  - first:
+      213: -8612360348414391928
+    second: NES - Mega Man - Miscellaneous - Energy Bars_89
+  - first:
+      213: 5196222921640947219
+    second: NES - Mega Man - Miscellaneous - Energy Bars_90
+  - first:
+      213: 4614411932975746587
+    second: NES - Mega Man - Miscellaneous - Energy Bars_91
+  - first:
+      213: 6958246422847547573
+    second: NES - Mega Man - Miscellaneous - Energy Bars_92
+  - first:
+      213: -7790931757379152564
+    second: NES - Mega Man - Miscellaneous - Energy Bars_93
+  - first:
+      213: 6013047579107722341
+    second: NES - Mega Man - Miscellaneous - Energy Bars_94
+  - first:
+      213: 4278352998426279206
+    second: NES - Mega Man - Miscellaneous - Energy Bars_95
+  - first:
+      213: 2897400042654646908
+    second: NES - Mega Man - Miscellaneous - Energy Bars_96
+  - first:
+      213: -8588565892723774353
+    second: NES - Mega Man - Miscellaneous - Energy Bars_97
+  - first:
+      213: -6809637508847480574
+    second: NES - Mega Man - Miscellaneous - Energy Bars_98
+  - first:
+      213: -1096266518300890686
+    second: NES - Mega Man - Miscellaneous - Energy Bars_99
+  - first:
+      213: -241040798339628228
+    second: NES - Mega Man - Miscellaneous - Energy Bars_100
+  - first:
+      213: -4395155711282347782
+    second: NES - Mega Man - Miscellaneous - Energy Bars_101
+  - first:
+      213: -7659741931632242403
+    second: NES - Mega Man - Miscellaneous - Energy Bars_102
+  - first:
+      213: -2677623837489392578
+    second: NES - Mega Man - Miscellaneous - Energy Bars_103
+  - first:
+      213: -1149384959311062046
+    second: NES - Mega Man - Miscellaneous - Energy Bars_104
+  - first:
+      213: 3383047612232023819
+    second: NES - Mega Man - Miscellaneous - Energy Bars_105
+  - first:
+      213: 310825094059153929
+    second: NES - Mega Man - Miscellaneous - Energy Bars_106
+  - first:
+      213: 8043372060981462738
+    second: NES - Mega Man - Miscellaneous - Energy Bars_107
+  - first:
+      213: -2651341030764377666
+    second: NES - Mega Man - Miscellaneous - Energy Bars_108
+  - first:
+      213: -5695342745627664682
+    second: NES - Mega Man - Miscellaneous - Energy Bars_109
+  - first:
+      213: -6328873824663492326
+    second: NES - Mega Man - Miscellaneous - Energy Bars_110
+  - first:
+      213: 2191230903736840105
+    second: NES - Mega Man - Miscellaneous - Energy Bars_111
+  - first:
+      213: -1872624449031757266
+    second: NES - Mega Man - Miscellaneous - Energy Bars_112
+  - first:
+      213: -5014419650434986456
+    second: NES - Mega Man - Miscellaneous - Energy Bars_113
+  - first:
+      213: -7640112681170997545
+    second: NES - Mega Man - Miscellaneous - Energy Bars_114
+  - first:
+      213: 1942402066624589053
+    second: NES - Mega Man - Miscellaneous - Energy Bars_115
+  - first:
+      213: -4065642753233470473
+    second: NES - Mega Man - Miscellaneous - Energy Bars_116
+  - first:
+      213: 3793164124683689970
+    second: NES - Mega Man - Miscellaneous - Energy Bars_117
+  - first:
+      213: 2300082774299017771
+    second: NES - Mega Man - Miscellaneous - Energy Bars_118
+  - first:
+      213: 3269650390523228035
+    second: NES - Mega Man - Miscellaneous - Energy Bars_119
+  - first:
+      213: -1608095219060593855
+    second: NES - Mega Man - Miscellaneous - Energy Bars_120
+  - first:
+      213: 3782620141170166866
+    second: NES - Mega Man - Miscellaneous - Energy Bars_121
+  - first:
+      213: -6386200360320690041
+    second: NES - Mega Man - Miscellaneous - Energy Bars_122
+  - first:
+      213: 7239843846118009819
+    second: NES - Mega Man - Miscellaneous - Energy Bars_123
+  - first:
+      213: 1821312431056347501
+    second: NES - Mega Man - Miscellaneous - Energy Bars_124
+  - first:
+      213: 1481741877758824651
+    second: NES - Mega Man - Miscellaneous - Energy Bars_125
+  - first:
+      213: 1008608420653701417
+    second: NES - Mega Man - Miscellaneous - Energy Bars_126
+  - first:
+      213: 4976347825751241929
+    second: NES - Mega Man - Miscellaneous - Energy Bars_127
+  - first:
+      213: -4854985130479052194
+    second: NES - Mega Man - Miscellaneous - Energy Bars_128
+  - first:
+      213: 1471850907167109928
+    second: NES - Mega Man - Miscellaneous - Energy Bars_129
+  - first:
+      213: -9118935499214517529
+    second: NES - Mega Man - Miscellaneous - Energy Bars_130
+  - first:
+      213: -4501455472569057500
+    second: NES - Mega Man - Miscellaneous - Energy Bars_131
+  - first:
+      213: 623865901816291971
+    second: NES - Mega Man - Miscellaneous - Energy Bars_132
+  - first:
+      213: 7878089832072529477
+    second: NES - Mega Man - Miscellaneous - Energy Bars_133
+  - first:
+      213: -5748940005863841001
+    second: NES - Mega Man - Miscellaneous - Energy Bars_134
+  - first:
+      213: 2416360746626620069
+    second: NES - Mega Man - Miscellaneous - Energy Bars_135
+  - first:
+      213: -1095246728358221238
+    second: NES - Mega Man - Miscellaneous - Energy Bars_136
+  - first:
+      213: -4715822083553219872
+    second: NES - Mega Man - Miscellaneous - Energy Bars_137
+  - first:
+      213: -6113826522087478292
+    second: NES - Mega Man - Miscellaneous - Energy Bars_138
+  - first:
+      213: -377230627943240602
+    second: NES - Mega Man - Miscellaneous - Energy Bars_139
+  - first:
+      213: 8349320656129144258
+    second: NES - Mega Man - Miscellaneous - Energy Bars_140
+  - first:
+      213: -156518535875381232
+    second: NES - Mega Man - Miscellaneous - Energy Bars_141
+  - first:
+      213: -7932056264858451760
+    second: NES - Mega Man - Miscellaneous - Energy Bars_142
+  - first:
+      213: -7904749032755563381
+    second: NES - Mega Man - Miscellaneous - Energy Bars_143
+  - first:
+      213: 6141698715075840080
+    second: NES - Mega Man - Miscellaneous - Energy Bars_144
+  - first:
+      213: 2942486799699163843
+    second: NES - Mega Man - Miscellaneous - Energy Bars_145
+  - first:
+      213: -6882192227828641693
+    second: NES - Mega Man - Miscellaneous - Energy Bars_146
+  - first:
+      213: -2905966726474450641
+    second: NES - Mega Man - Miscellaneous - Energy Bars_147
+  - first:
+      213: -4400989490999780971
+    second: NES - Mega Man - Miscellaneous - Energy Bars_148
+  - first:
+      213: -2176495044539532133
+    second: NES - Mega Man - Miscellaneous - Energy Bars_149
+  - first:
+      213: -8025066212306516923
+    second: NES - Mega Man - Miscellaneous - Energy Bars_150
+  - first:
+      213: -49200685593731031
+    second: NES - Mega Man - Miscellaneous - Energy Bars_151
+  - first:
+      213: -6182459803579106211
+    second: NES - Mega Man - Miscellaneous - Energy Bars_152
+  - first:
+      213: 573042380877093993
+    second: NES - Mega Man - Miscellaneous - Energy Bars_153
+  - first:
+      213: 8718326992708490182
+    second: NES - Mega Man - Miscellaneous - Energy Bars_154
+  - first:
+      213: 4013186823952954300
+    second: NES - Mega Man - Miscellaneous - Energy Bars_155
+  - first:
+      213: -367383374498248869
+    second: NES - Mega Man - Miscellaneous - Energy Bars_156
+  - first:
+      213: 1722210289712009688
+    second: NES - Mega Man - Miscellaneous - Energy Bars_157
+  - first:
+      213: 1566453603515167581
+    second: NES - Mega Man - Miscellaneous - Energy Bars_158
+  - first:
+      213: -2594589680112064684
+    second: NES - Mega Man - Miscellaneous - Energy Bars_159
+  - first:
+      213: 3957527922563168034
+    second: NES - Mega Man - Miscellaneous - Energy Bars_160
+  - first:
+      213: -6302385938896161157
+    second: NES - Mega Man - Miscellaneous - Energy Bars_161
+  - first:
+      213: -1500319429936535142
+    second: NES - Mega Man - Miscellaneous - Energy Bars_162
+  - first:
+      213: 7851607686058544182
+    second: NES - Mega Man - Miscellaneous - Energy Bars_163
+  - first:
+      213: -5871539392435647354
+    second: NES - Mega Man - Miscellaneous - Energy Bars_164
+  - first:
+      213: -8943129051674572237
+    second: NES - Mega Man - Miscellaneous - Energy Bars_165
+  - first:
+      213: -6198060227923020779
+    second: NES - Mega Man - Miscellaneous - Energy Bars_166
+  - first:
+      213: 6317004079174712066
+    second: NES - Mega Man - Miscellaneous - Energy Bars_167
+  - first:
+      213: 550711769321329214
+    second: NES - Mega Man - Miscellaneous - Energy Bars_168
+  - first:
+      213: 2711057750165309982
+    second: NES - Mega Man - Miscellaneous - Energy Bars_169
+  - first:
+      213: -6183879648972298850
+    second: NES - Mega Man - Miscellaneous - Energy Bars_170
+  - first:
+      213: 8179282616028789922
+    second: NES - Mega Man - Miscellaneous - Energy Bars_171
+  - first:
+      213: -9074607453477470828
+    second: NES - Mega Man - Miscellaneous - Energy Bars_172
+  - first:
+      213: -6748896677666693939
+    second: NES - Mega Man - Miscellaneous - Energy Bars_173
+  - first:
+      213: -8032985119074844941
+    second: NES - Mega Man - Miscellaneous - Energy Bars_174
+  - first:
+      213: -3785246062189591483
+    second: NES - Mega Man - Miscellaneous - Energy Bars_175
+  - first:
+      213: -7785687467955038021
+    second: NES - Mega Man - Miscellaneous - Energy Bars_176
+  - first:
+      213: -9119733582762841995
+    second: NES - Mega Man - Miscellaneous - Energy Bars_177
+  - first:
+      213: 8158495884823197131
+    second: NES - Mega Man - Miscellaneous - Energy Bars_178
+  - first:
+      213: 1821707643803531001
+    second: NES - Mega Man - Miscellaneous - Energy Bars_179
+  - first:
+      213: 3959798577814291626
+    second: NES - Mega Man - Miscellaneous - Energy Bars_180
+  - first:
+      213: 2661785222803294440
+    second: NES - Mega Man - Miscellaneous - Energy Bars_181
+  - first:
+      213: -2436586445485559876
+    second: NES - Mega Man - Miscellaneous - Energy Bars_182
+  - first:
+      213: -453125108409162939
+    second: NES - Mega Man - Miscellaneous - Energy Bars_183
+  - first:
+      213: 7894729964924480302
+    second: NES - Mega Man - Miscellaneous - Energy Bars_184
+  - first:
+      213: 144144806292948459
+    second: NES - Mega Man - Miscellaneous - Energy Bars_185
+  - first:
+      213: 2734114472990177049
+    second: NES - Mega Man - Miscellaneous - Energy Bars_186
+  - first:
+      213: -334523774146192988
+    second: NES - Mega Man - Miscellaneous - Energy Bars_187
+  - first:
+      213: 7068742825895645274
+    second: NES - Mega Man - Miscellaneous - Energy Bars_188
+  - first:
+      213: -3163584460730106050
+    second: NES - Mega Man - Miscellaneous - Energy Bars_189
+  - first:
+      213: 1467933298573820005
+    second: NES - Mega Man - Miscellaneous - Energy Bars_190
+  - first:
+      213: 8570226802477389578
+    second: NES - Mega Man - Miscellaneous - Energy Bars_191
+  - first:
+      213: 3833420260313275357
+    second: NES - Mega Man - Miscellaneous - Energy Bars_192
+  - first:
+      213: 7854623468197254258
+    second: NES - Mega Man - Miscellaneous - Energy Bars_193
+  - first:
+      213: -2539686696074149594
+    second: NES - Mega Man - Miscellaneous - Energy Bars_194
+  - first:
+      213: 3973975064800927101
+    second: NES - Mega Man - Miscellaneous - Energy Bars_195
+  - first:
+      213: 6347978306894094756
+    second: NES - Mega Man - Miscellaneous - Energy Bars_196
+  - first:
+      213: -2492830961430766841
+    second: NES - Mega Man - Miscellaneous - Energy Bars_197
+  - first:
+      213: 692835797562478274
+    second: NES - Mega Man - Miscellaneous - Energy Bars_198
+  - first:
+      213: 1836633215096478714
+    second: NES - Mega Man - Miscellaneous - Energy Bars_199
+  - first:
+      213: -6002722703562572655
+    second: NES - Mega Man - Miscellaneous - Energy Bars_200
+  - first:
+      213: -252108945559494671
+    second: NES - Mega Man - Miscellaneous - Energy Bars_201
+  - first:
+      213: 2103575307854051613
+    second: NES - Mega Man - Miscellaneous - Energy Bars_202
+  - first:
+      213: 5453708873639914603
+    second: NES - Mega Man - Miscellaneous - Energy Bars_203
+  - first:
+      213: 7997151381566339523
+    second: NES - Mega Man - Miscellaneous - Energy Bars_204
+  - first:
+      213: 1396164249133778297
+    second: NES - Mega Man - Miscellaneous - Energy Bars_205
+  - first:
+      213: -6912583152501013296
+    second: NES - Mega Man - Miscellaneous - Energy Bars_206
+  - first:
+      213: 4819308240953696864
+    second: NES - Mega Man - Miscellaneous - Energy Bars_207
+  - first:
+      213: 7885253452472873803
+    second: NES - Mega Man - Miscellaneous - Energy Bars_208
+  - first:
+      213: -3835039281391449098
+    second: NES - Mega Man - Miscellaneous - Energy Bars_209
+  - first:
+      213: -7565806800837850777
+    second: NES - Mega Man - Miscellaneous - Energy Bars_210
+  - first:
+      213: -8242790918114512529
+    second: NES - Mega Man - Miscellaneous - Energy Bars_211
+  - first:
+      213: 1221541595541302143
+    second: NES - Mega Man - Miscellaneous - Energy Bars_212
+  - first:
+      213: 627127609077855261
+    second: NES - Mega Man - Miscellaneous - Energy Bars_213
+  - first:
+      213: -6203720599310872798
+    second: NES - Mega Man - Miscellaneous - Energy Bars_214
+  - first:
+      213: 5424665665854752731
+    second: NES - Mega Man - Miscellaneous - Energy Bars_215
+  - first:
+      213: -1119967347920177654
+    second: NES - Mega Man - Miscellaneous - Energy Bars_216
+  - first:
+      213: 6416890990346231462
+    second: NES - Mega Man - Miscellaneous - Energy Bars_217
+  - first:
+      213: 4230670537818449489
+    second: NES - Mega Man - Miscellaneous - Energy Bars_218
+  - first:
+      213: -4465894906573804880
+    second: NES - Mega Man - Miscellaneous - Energy Bars_219
+  - first:
+      213: -8640410581702907791
+    second: NES - Mega Man - Miscellaneous - Energy Bars_220
+  - first:
+      213: 1844119740161467613
+    second: NES - Mega Man - Miscellaneous - Energy Bars_221
+  - first:
+      213: 977951876141359409
+    second: NES - Mega Man - Miscellaneous - Energy Bars_222
+  - first:
+      213: 3963309514560335913
+    second: NES - Mega Man - Miscellaneous - Energy Bars_223
+  - first:
+      213: -294705632843307020
+    second: NES - Mega Man - Miscellaneous - Energy Bars_224
+  - first:
+      213: 4272710405024245291
+    second: NES - Mega Man - Miscellaneous - Energy Bars_225
+  - first:
+      213: -7256060102502538108
+    second: NES - Mega Man - Miscellaneous - Energy Bars_226
+  - first:
+      213: -1801991085872385062
+    second: NES - Mega Man - Miscellaneous - Energy Bars_227
+  - first:
+      213: -3064331622061223085
+    second: NES - Mega Man - Miscellaneous - Energy Bars_228
+  - first:
+      213: 1785857221105491019
+    second: NES - Mega Man - Miscellaneous - Energy Bars_229
+  - first:
+      213: 3159843385759567975
+    second: NES - Mega Man - Miscellaneous - Energy Bars_230
+  - first:
+      213: -2262670741481442989
+    second: NES - Mega Man - Miscellaneous - Energy Bars_231
+  - first:
+      213: 7123890860772806730
+    second: NES - Mega Man - Miscellaneous - Energy Bars_232
+  - first:
+      213: -548402731758707626
+    second: NES - Mega Man - Miscellaneous - Energy Bars_233
+  - first:
+      213: -1775571970239984492
+    second: NES - Mega Man - Miscellaneous - Energy Bars_234
+  - first:
+      213: -8649990160655324965
+    second: NES - Mega Man - Miscellaneous - Energy Bars_235
+  - first:
+      213: -839206987481415094
+    second: NES - Mega Man - Miscellaneous - Energy Bars_236
+  - first:
+      213: -7347257639813189331
+    second: NES - Mega Man - Miscellaneous - Energy Bars_237
+  - first:
+      213: -5832280828210462127
+    second: NES - Mega Man - Miscellaneous - Energy Bars_238
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fb3e9fc5ba46be0800000000000000
+      internalID: -1484873561307627748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9451839cd5a5810800000000000000
+      internalID: 1754818123624958390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 350
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea5f219c8bf03920800000000000000
+      internalID: 2968148735586949871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37d569a261d80510800000000000000
+      internalID: 1515691496289195836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a2a445881fc5350800000000000000
+      internalID: 6006941570837391926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba52350adac07bc30800000000000000
+      internalID: 4374979502872405419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 350
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe55288eda825050800000000000000
+      internalID: 5787841159496031990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd6b2c8c484cab50800000000000000
+      internalID: 6605734247052045783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71919aa88a97514a0800000000000000
+      internalID: -6623253912190641897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77db704813cb1380800000000000000
+      internalID: -8999384921441314949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8333344513f8f8fe0800000000000000
+      internalID: -1184570734945291464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_11
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751a4b67339eedda0800000000000000
+      internalID: -5918036453074099881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1283c69171361af0800000000000000
+      internalID: -426098750809472485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd7a32d4d2215c80800000000000000
+      internalID: -8335843137830617671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_14
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bedca6185284790800000000000000
+      internalID: -7545739937886377210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89176a50bea6fa0800000000000000
+      internalID: -5806570360041006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ba7b5c104ff910800000000000000
+      internalID: 1873286460547446090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 350
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e0dfef7fa0a9f0800000000000000
+      internalID: -459174197972639331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c25b6a45dae5ecc0800000000000000
+      internalID: -3682278918508031289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae185a5497a5ec90800000000000000
+      internalID: -7141117378513330514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a574439b1c7070f0800000000000000
+      internalID: -1121259849338554973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 340
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80cbafed0aa8b910800000000000000
+      internalID: 1853418223495266443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_22
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 340
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8540ac4709a8fead0800000000000000
+      internalID: -2670763700968094632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540659d8beb1f03e0800000000000000
+      internalID: -2085417403942608827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc6802bcde835d0800000000000000
+      internalID: -3082452488255255082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633d1cf29b7d6d70800000000000000
+      internalID: 9038015898427667306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 340
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec0a4fd406da0690800000000000000
+      internalID: -7635054901838869279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 340
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad06309081146cc0800000000000000
+      internalID: -3718828148428239452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16519f30a216118c0800000000000000
+      internalID: -4030333358436706975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e864ff0db09250800000000000000
+      internalID: 5949462983979100348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 342
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e3fd9051b968df0800000000000000
+      internalID: -178284620572311926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 342
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20623cea49d7a140800000000000000
+      internalID: 4730988849389527082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e413c7c59c91e30800000000000000
+      internalID: 4474829103827078814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c38e2cd11330ca0800000000000000
+      internalID: -6051939470362002289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 342
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572b800fc96ffc20800000000000000
+      internalID: 3242426594518312790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 342
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff2f31323278b900800000000000000
+      internalID: 700435301956268016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6e30c9e3bb68450800000000000000
+      internalID: 6090761423645042412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 330
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da4237b54a3a270800000000000000
+      internalID: 8260626854208384259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 332
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e462717791e62bd00800000000000000
+      internalID: 986972323998803534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d671dd0794e57fc10800000000000000
+      internalID: 2087240621828675437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0303ccd10c9f650800000000000000
+      internalID: 6267251590675050742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3927c3b25a13360800000000000000
+      internalID: 7147675688730006459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 332
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812c8f0e4fb3462a0800000000000000
+      internalID: -6745200418961702376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 332
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb556d1338481180800000000000000
+      internalID: -9144479659002078264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 332
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640284ad8d6113b10800000000000000
+      internalID: 1959372433513783366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 332
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb552030af90c0090800000000000000
+      internalID: -8067061863130442306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 332
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e27b6bc55764430800000000000000
+      internalID: 3766827179404897920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 334
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403b1f831387ff1d0800000000000000
+      internalID: -3314798647917300988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 334
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ff52eaa9a2636b0800000000000000
+      internalID: -5317015466229235918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_49
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 334
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aab0da226cab160800000000000000
+      internalID: 7042158819581602318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 334
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ff2d6df95277f0800000000000000
+      internalID: -616331254002879800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 334
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee80af02940327850800000000000000
+      internalID: 6373209513326676206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_52
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 334
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bf30a19b7d18130800000000000000
+      internalID: 3567369569859533579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 274
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a695cf0a86dd20800000000000000
+      internalID: 3302979177066963889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 274
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2082fa662618c0e70800000000000000
+      internalID: 9082776808128980994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 321
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b2e44220a05b5c0800000000000000
+      internalID: -4200440073137804462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 323
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35195aeac79dbf70800000000000000
+      internalID: 9204680111186056511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbd3d38e2ac80cf0800000000000000
+      internalID: -285756275209020418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 309
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138e9611490549780800000000000000
+      internalID: -8677221985158567887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_59
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8e8591ebeac7c0800000000000000
+      internalID: -4050165560757023400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 309
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adde2e6901252f30800000000000000
+      internalID: 4550079322914741664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_61
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 309
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7f15fee5289a60800000000000000
+      internalID: 7680930872725306810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_62
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 309
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e0d074468dfbe0800000000000000
+      internalID: -1441848677180053057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f9c5ba5c10777f0800000000000000
+      internalID: -615020875617624275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_64
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 309
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68764646b9c4d9d10800000000000000
+      internalID: 2133946028731426694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 309
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb783b90b1b1b820800000000000000
+      internalID: 2932320204471434236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_66
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 309
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82a4e374e5f75c60800000000000000
+      internalID: 7806978840615756430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c762df984d3d50800000000000000
+      internalID: 6718606070373663914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_68
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 311
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a213d23d6250ba0800000000000000
+      internalID: -6123445429902169520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9903cf3fe0315ed0800000000000000
+      internalID: -2427104920050923109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_70
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d8e98a9e237bb0800000000000000
+      internalID: -4939553125021722249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_71
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 311
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4657d748f3a0140800000000000000
+      internalID: 4686628200505500890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_72
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 311
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf00688dd6f1a6140800000000000000
+      internalID: 4713614516641202427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef112ba661c32620800000000000000
+      internalID: 2748252844328034279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 298
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be342bcaccf6f5a0800000000000000
+      internalID: -6487720265258877259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 303
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fa931f6c9a2eff0800000000000000
+      internalID: -8257577385611463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_76
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 303
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d443d6abd59de9980800000000000000
+      internalID: -8530141647610235827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0e386c4c0b3c3e0800000000000000
+      internalID: -2034588247450722110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 303
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104f8efb3d9495fb0800000000000000
+      internalID: -4658611165731425279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 303
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d357e2d88ca770800000000000000
+      internalID: 8623417825913196595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_80
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff47ea4c1ee5c6330800000000000000
+      internalID: 3705440917179495679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 295
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ad76d77101ea890800000000000000
+      internalID: -7444995440922600939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_82
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 295
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683cbcd046bf9d440800000000000000
+      internalID: 4961272871672071046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_83
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 295
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5e090ba8099be10800000000000000
+      internalID: 2213959617171482048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_84
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 295
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd6a6db123d2e9f0800000000000000
+      internalID: -440557671663636994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_85
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5f77a501a761a60800000000000000
+      internalID: 7644431628163872178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_86
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 295
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2e54d0f2e2e460800000000000000
+      internalID: 7269622272512371552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_87
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 295
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90340fde88ca1330800000000000000
+      internalID: 3682476161281306778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_88
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92737fc4e0de2d50800000000000000
+      internalID: 6714533775607558814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_89
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c913b4efba7880800000000000000
+      internalID: -8612360348414391928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_90
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 286
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea62a6731bc1840800000000000000
+      internalID: 5196222921640947219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_91
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 286
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec750743fa90040800000000000000
+      internalID: 4614411932975746587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_92
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8e5755148a09060800000000000000
+      internalID: 6958246422847547573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c451b1448dc01e390800000000000000
+      internalID: -7790931757379152564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 286
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5640d3a2ae2a27350800000000000000
+      internalID: 6013047579107722341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_95
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dfce66263cf5b30800000000000000
+      internalID: 4278352998426279206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_96
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72c1aadcf1a53820800000000000000
+      internalID: 2897400042654646908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_97
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 286
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ce92223d84fc880800000000000000
+      internalID: -8588565892723774353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 286
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20158f3c3ce4f71a0800000000000000
+      internalID: -6809637508847480574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_99
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9658de86749c0f0800000000000000
+      internalID: -1096266518300890686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_100
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 286
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330796cba6a7acf0800000000000000
+      internalID: -241040798339628228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_101
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 287
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af08c78ca254103c0800000000000000
+      internalID: -4395155711282347782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1155e5db4123b590800000000000000
+      internalID: -7659741931632242403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_103
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 287
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3493547e4b27dad0800000000000000
+      internalID: -2677623837489392578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 287
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb561e18709c00f0800000000000000
+      internalID: -1149384959311062046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_105
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb25111eff2fe20800000000000000
+      internalID: 3383047612232023819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 287
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5ca6b6c5405400800000000000000
+      internalID: 310825094059153929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 275
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60a1b164ccf9f60800000000000000
+      internalID: 8043372060981462738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_108
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 276
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb90fd2416b843bd0800000000000000
+      internalID: -2651341030764377666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_109
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded3c4b2f316f0b0800000000000000
+      internalID: -5695342745627664682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_110
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192aacc9c25b28a0800000000000000
+      internalID: -6328873824663492326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afa716b5e0d86e10800000000000000
+      internalID: 2191230903736840105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2220c53cf91306e0800000000000000
+      internalID: -1872624449031757266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_113
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e851d35e3396ab0800000000000000
+      internalID: -5014419650434986456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_114
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de68dadefdd8f590800000000000000
+      internalID: -7640112681170997545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_115
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfca428636cc4fa10800000000000000
+      internalID: 1942402066624589053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_116
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 263
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbb0e5e47fe397c0800000000000000
+      internalID: -4065642753233470473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_117
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffd682aca604a430800000000000000
+      internalID: 3793164124683689970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_118
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 264
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22861cc8198bef10800000000000000
+      internalID: 2300082774299017771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_119
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 264
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38faad2f4b1206d20800000000000000
+      internalID: 3269650390523228035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_120
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba3e61be5eea9e0800000000000000
+      internalID: -1608095219060593855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 264
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c8faa2af09e7430800000000000000
+      internalID: 3782620141170166866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_122
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 264
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7881d9a9b98af57a0800000000000000
+      internalID: -6386200360320690041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_123
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 252
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb6925ae97197460800000000000000
+      internalID: 7239843846118009819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_124
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 253
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ed1e910a964910800000000000000
+      internalID: 1821312431056347501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_125
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc092a02364309410800000000000000
+      internalID: 1481741877758824651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_126
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291886c30c4ffd00800000000000000
+      internalID: 1008608420653701417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_127
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4b0b05bf98f0540800000000000000
+      internalID: 4976347825751241929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_128
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 240
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1ef32fb0af9cb0800000000000000
+      internalID: -4854985130479052194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_129
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 240
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82338041a901d6410800000000000000
+      internalID: 1471850907167109928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_130
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea8e974a78037180800000000000000
+      internalID: -9118935499214517529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_131
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f7841f81e9781c0800000000000000
+      internalID: -4501455472569057500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_132
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822d397bba68a800800000000000000
+      internalID: 623865901816291971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_133
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546cc4d56f8945d60800000000000000
+      internalID: 7878089832072529477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_134
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713247b1689a730b0800000000000000
+      internalID: -5748940005863841001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_135
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa90efeb43a88120800000000000000
+      internalID: 2416360746626620069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_136
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 241
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aacc647e6ecc0f0800000000000000
+      internalID: -1095246728358221238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_137
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea2eddecc80e8eb0800000000000000
+      internalID: -4715822083553219872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_138
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb2d9cab23572ba0800000000000000
+      internalID: -6113826522087478292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_139
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cab071ebec3caf0800000000000000
+      internalID: -377230627943240602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_140
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 229
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b86076eebed370800000000000000
+      internalID: 8349320656129144258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_141
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 230
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018326c883fe3ddf0800000000000000
+      internalID: -156518535875381232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_142
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d043ba5adcabe190800000000000000
+      internalID: -7932056264858451760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_143
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84fdf7c2a0bc4290800000000000000
+      internalID: -7904749032755563381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_144
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0588195f072bb3550800000000000000
+      internalID: 6141698715075840080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_145
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca38548720d5d820800000000000000
+      internalID: 2942486799699163843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_146
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360d158d1aa8d70a0800000000000000
+      internalID: -6882192227828641693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_147
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b263a8aeeba7d0800000000000000
+      internalID: -2905966726474450641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_148
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991bb8106b8ce2c0800000000000000
+      internalID: -4400989490999780971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_149
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 217
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb2ded9498bc1e0800000000000000
+      internalID: -2176495044539532133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_150
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5440b7c6ccc31a090800000000000000
+      internalID: -8025066212306516923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_151
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 221
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ea74bc34315ff0800000000000000
+      internalID: -49200685593731031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_152
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 206
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c3981909d733aa0800000000000000
+      internalID: -6182459803579106211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 212
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c5c61620bd3f700800000000000000
+      internalID: 573042380877093993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_154
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 203
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d61c4538bdf870800000000000000
+      internalID: 8718326992708490182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_155
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 194
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37ef25724b1b730800000000000000
+      internalID: 4013186823952954300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_156
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 194
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57c5a274cac6eaf0800000000000000
+      internalID: -367383374498248869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_157
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d19ec2422586e710800000000000000
+      internalID: 1722210289712009688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_158
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53f6a2c0492db510800000000000000
+      internalID: 1566453603515167581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_159
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 194
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457a603ce6a2efbd0800000000000000
+      internalID: -2594589680112064684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_160
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 194
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227311d7da6fbe630800000000000000
+      internalID: 3957527922563168034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_161
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 194
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b767daa416d6988a0800000000000000
+      internalID: -6302385938896161157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_162
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 194
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9924017d6bcd2be0800000000000000
+      internalID: -1500319429936535142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_163
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 183
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0f33479386fc60800000000000000
+      internalID: 7851607686058544182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_164
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 185
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0925080a148ea0800000000000000
+      internalID: -5871539392435647354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_165
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a067e928f93e380800000000000000
+      internalID: -8943129051674572237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_166
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514fb2abf011cf9a0800000000000000
+      internalID: -6198060227923020779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_167
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bf6e7bdb18aa750800000000000000
+      internalID: 6317004079174712066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_168
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e325608bf6584a700800000000000000
+      internalID: 550711769321329214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_169
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4c24f8ac9f9520800000000000000
+      internalID: 2711057750165309982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_170
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952d3d09327e2aa0800000000000000
+      internalID: -6183879648972298850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_171
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7ced1436a28170800000000000000
+      internalID: 8179282616028789922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_172
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dfc53b994801280800000000000000
+      internalID: -9074607453477470828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_173
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccdcd59a3a1752a0800000000000000
+      internalID: -6748896677666693939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_174
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe7b83489a158090800000000000000
+      internalID: -8032985119074844941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_175
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 171
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5444eb3f2ca187bc0800000000000000
+      internalID: -3785246062189591483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_176
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 176
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8545c8f7ea3f390800000000000000
+      internalID: -7785687467955038021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_177
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5786839ff92307180800000000000000
+      internalID: -9119733582762841995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_178
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc57f5c18ccc83170800000000000000
+      internalID: 8158495884823197131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_179
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f5814371084910800000000000000
+      internalID: 1821707643803531001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_180
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c7bc93d704f630800000000000000
+      internalID: 3959798577814291626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_181
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e80391be8f80f420800000000000000
+      internalID: 2661785222803294440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_182
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf2d4499818f2ed0800000000000000
+      internalID: -2436586445485559876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_183
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543267a5d1d26b9f0800000000000000
+      internalID: -453125108409162939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_184
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ba4f43317bf8d60800000000000000
+      internalID: 7894729964924480302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_185
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be50f4700fa100200800000000000000
+      internalID: 144144806292948459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_186
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91775d190a681f520800000000000000
+      internalID: 2734114472990177049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_187
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9d71956688b5bf0800000000000000
+      internalID: -334523774146192988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_188
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50d91af528391260800000000000000
+      internalID: 7068742825895645274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_189
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7c31c1b0b814d0800000000000000
+      internalID: -3163584460730106050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_190
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c57fbe852f5410800000000000000
+      internalID: 1467933298573820005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_191
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07523eaedf8fe670800000000000000
+      internalID: 8570226802477389578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_192
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb12ca9a6b033530800000000000000
+      internalID: 3833420260313275357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_193
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 94
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2741852cd6a310d60800000000000000
+      internalID: 7854623468197254258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_194
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62107bfd76831ccd0800000000000000
+      internalID: -2539686696074149594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d18b33445662730800000000000000
+      internalID: 3973975064800927101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1ee4813ac881850800000000000000
+      internalID: 6347978306894094756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd2dab27fa76dd0800000000000000
+      internalID: -2492830961430766841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec261bc727d9900800000000000000
+      internalID: 692835797562478274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb5280ad280d7910800000000000000
+      internalID: 1836633215096478714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cfaf0418b02bca0800000000000000
+      internalID: -6002722703562572655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff5a3fef34508cf0800000000000000
+      internalID: -252108945559494671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d197ce6e896613d10800000000000000
+      internalID: 2103575307854051613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce3b953577fab40800000000000000
+      internalID: 5453708873639914603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c939419fc69bfe60800000000000000
+      internalID: 7997151381566339523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97508b5ccfb206310800000000000000
+      internalID: 1396164249133778297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c3da4f329110a0800000000000000
+      internalID: -6912583152501013296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0626825bf4f91e240800000000000000
+      internalID: 4819308240953696864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b437196bc3c0e6d60800000000000000
+      internalID: 7885253452472873803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb4efca71437cac0800000000000000
+      internalID: -3835039281391449098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76943dccccad00790800000000000000
+      internalID: -7565806800837850777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f7f70559bb9d80800000000000000
+      internalID: -8242790918114512529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b6a90fb99c3f010800000000000000
+      internalID: 1221541595541302143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fcefdc3104b800800000000000000
+      internalID: 627127609077855261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f4d40dbf4f7e9a0800000000000000
+      internalID: -6203720599310872798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7c7869ea8484b40800000000000000
+      internalID: 5424665665854752731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a067e2381a31570f0800000000000000
+      internalID: -1119967347920177654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeddf98b506d0950800000000000000
+      internalID: 6416890990346231462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562168607c56ba30800000000000000
+      internalID: 4230670537818449489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba21796e34f502c0800000000000000
+      internalID: -4465894906573804880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786214da58171880800000000000000
+      internalID: -8640410581702907791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd42c931221a79910800000000000000
+      internalID: 1844119740161467613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13125d8cc02629d00800000000000000
+      internalID: 977951876141359409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9207b464101800730800000000000000
+      internalID: 3963309514560335913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_224
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f76111d9cef8ebf0800000000000000
+      internalID: -294705632843307020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_225
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 84
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26e59fb977bb4b30800000000000000
+      internalID: 4272710405024245291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_226
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484a371f7cb4d4b90800000000000000
+      internalID: -7256060102502538108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_227
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f72e97aa0ef6e0800000000000000
+      internalID: -1801991085872385062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_228
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3535b0110ae4975d0800000000000000
+      internalID: -3064331622061223085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_229
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c1f834ea3a8c810800000000000000
+      internalID: 1785857221105491019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760111a51d40adb20800000000000000
+      internalID: 3159843385759567975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_231
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3513452e2f06990e0800000000000000
+      internalID: -2262670741481442989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_232
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40d30f6ef42dd260800000000000000
+      internalID: 7123890860772806730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_233
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c1babfe9ea368f0800000000000000
+      internalID: -548402731758707626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_234
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c84b053b6eb57e0800000000000000
+      internalID: -1775571970239984492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_235
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e38b47cf05f780800000000000000
+      internalID: -8649990160655324965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_236
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a420522f0b98a54f0800000000000000
+      internalID: -839206987481415094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_237
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f8a1aa1c490a90800000000000000
+      internalID: -7347257639813189331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Energy Bars_238
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152c13ccc739f0fa0800000000000000
+      internalID: -5832280828210462127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d5993a73348a4c4a96c4821b56ca4b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      HealthBar1: 3973975064800927101
+      HealthBar10: 7997151381566339523
+      HealthBar11: 1396164249133778297
+      HealthBar12: -6912583152501013296
+      HealthBar13: 4819308240953696864
+      HealthBar14: 7885253452472873803
+      HealthBar15: -3835039281391449098
+      HealthBar16: -7565806800837850777
+      HealthBar17: -8242790918114512529
+      HealthBar18: 1221541595541302143
+      HealthBar19: 627127609077855261
+      HealthBar2: 6347978306894094756
+      HealthBar20: -6203720599310872798
+      HealthBar21: 5424665665854752731
+      HealthBar22: -1119967347920177654
+      HealthBar23: 6416890990346231462
+      HealthBar24: 4230670537818449489
+      HealthBar25: -4465894906573804880
+      HealthBar26: -8640410581702907791
+      HealthBar27: 1844119740161467613
+      HealthBar28: 977951876141359409
+      HealthBar29: 3963309514560335913
+      HealthBar3: -2492830961430766841
+      HealthBar4: 692835797562478274
+      HealthBar5: 1836633215096478714
+      HealthBar6: -6002722703562572655
+      HealthBar7: -252108945559494671
+      HealthBar8: 2103575307854051613
+      HealthBar9: 5453708873639914603
+      NES - Mega Man - Miscellaneous - Energy Bars_0: -1484873561307627748
+      NES - Mega Man - Miscellaneous - Energy Bars_1: 1754818123624958390
+      NES - Mega Man - Miscellaneous - Energy Bars_10: -1184570734945291464
+      NES - Mega Man - Miscellaneous - Energy Bars_100: -241040798339628228
+      NES - Mega Man - Miscellaneous - Energy Bars_101: -4395155711282347782
+      NES - Mega Man - Miscellaneous - Energy Bars_102: -7659741931632242403
+      NES - Mega Man - Miscellaneous - Energy Bars_103: -2677623837489392578
+      NES - Mega Man - Miscellaneous - Energy Bars_104: -1149384959311062046
+      NES - Mega Man - Miscellaneous - Energy Bars_105: 3383047612232023819
+      NES - Mega Man - Miscellaneous - Energy Bars_106: 310825094059153929
+      NES - Mega Man - Miscellaneous - Energy Bars_107: 8043372060981462738
+      NES - Mega Man - Miscellaneous - Energy Bars_108: -2651341030764377666
+      NES - Mega Man - Miscellaneous - Energy Bars_109: -5695342745627664682
+      NES - Mega Man - Miscellaneous - Energy Bars_11: -5918036453074099881
+      NES - Mega Man - Miscellaneous - Energy Bars_110: -6328873824663492326
+      NES - Mega Man - Miscellaneous - Energy Bars_111: 2191230903736840105
+      NES - Mega Man - Miscellaneous - Energy Bars_112: -1872624449031757266
+      NES - Mega Man - Miscellaneous - Energy Bars_113: -5014419650434986456
+      NES - Mega Man - Miscellaneous - Energy Bars_114: -7640112681170997545
+      NES - Mega Man - Miscellaneous - Energy Bars_115: 1942402066624589053
+      NES - Mega Man - Miscellaneous - Energy Bars_116: -4065642753233470473
+      NES - Mega Man - Miscellaneous - Energy Bars_117: 3793164124683689970
+      NES - Mega Man - Miscellaneous - Energy Bars_118: 2300082774299017771
+      NES - Mega Man - Miscellaneous - Energy Bars_119: 3269650390523228035
+      NES - Mega Man - Miscellaneous - Energy Bars_12: -426098750809472485
+      NES - Mega Man - Miscellaneous - Energy Bars_120: -1608095219060593855
+      NES - Mega Man - Miscellaneous - Energy Bars_121: 3782620141170166866
+      NES - Mega Man - Miscellaneous - Energy Bars_122: -6386200360320690041
+      NES - Mega Man - Miscellaneous - Energy Bars_123: 7239843846118009819
+      NES - Mega Man - Miscellaneous - Energy Bars_124: 1821312431056347501
+      NES - Mega Man - Miscellaneous - Energy Bars_125: 1481741877758824651
+      NES - Mega Man - Miscellaneous - Energy Bars_126: 1008608420653701417
+      NES - Mega Man - Miscellaneous - Energy Bars_127: 4976347825751241929
+      NES - Mega Man - Miscellaneous - Energy Bars_128: -4854985130479052194
+      NES - Mega Man - Miscellaneous - Energy Bars_129: 1471850907167109928
+      NES - Mega Man - Miscellaneous - Energy Bars_13: -8335843137830617671
+      NES - Mega Man - Miscellaneous - Energy Bars_130: -9118935499214517529
+      NES - Mega Man - Miscellaneous - Energy Bars_131: -4501455472569057500
+      NES - Mega Man - Miscellaneous - Energy Bars_132: 623865901816291971
+      NES - Mega Man - Miscellaneous - Energy Bars_133: 7878089832072529477
+      NES - Mega Man - Miscellaneous - Energy Bars_134: -5748940005863841001
+      NES - Mega Man - Miscellaneous - Energy Bars_135: 2416360746626620069
+      NES - Mega Man - Miscellaneous - Energy Bars_136: -1095246728358221238
+      NES - Mega Man - Miscellaneous - Energy Bars_137: -4715822083553219872
+      NES - Mega Man - Miscellaneous - Energy Bars_138: -6113826522087478292
+      NES - Mega Man - Miscellaneous - Energy Bars_139: -377230627943240602
+      NES - Mega Man - Miscellaneous - Energy Bars_14: -7545739937886377210
+      NES - Mega Man - Miscellaneous - Energy Bars_140: 8349320656129144258
+      NES - Mega Man - Miscellaneous - Energy Bars_141: -156518535875381232
+      NES - Mega Man - Miscellaneous - Energy Bars_142: -7932056264858451760
+      NES - Mega Man - Miscellaneous - Energy Bars_143: -7904749032755563381
+      NES - Mega Man - Miscellaneous - Energy Bars_144: 6141698715075840080
+      NES - Mega Man - Miscellaneous - Energy Bars_145: 2942486799699163843
+      NES - Mega Man - Miscellaneous - Energy Bars_146: -6882192227828641693
+      NES - Mega Man - Miscellaneous - Energy Bars_147: -2905966726474450641
+      NES - Mega Man - Miscellaneous - Energy Bars_148: -4400989490999780971
+      NES - Mega Man - Miscellaneous - Energy Bars_149: -2176495044539532133
+      NES - Mega Man - Miscellaneous - Energy Bars_15: -5806570360041006941
+      NES - Mega Man - Miscellaneous - Energy Bars_150: -8025066212306516923
+      NES - Mega Man - Miscellaneous - Energy Bars_151: -49200685593731031
+      NES - Mega Man - Miscellaneous - Energy Bars_152: -6182459803579106211
+      NES - Mega Man - Miscellaneous - Energy Bars_153: 573042380877093993
+      NES - Mega Man - Miscellaneous - Energy Bars_154: 8718326992708490182
+      NES - Mega Man - Miscellaneous - Energy Bars_155: 4013186823952954300
+      NES - Mega Man - Miscellaneous - Energy Bars_156: -367383374498248869
+      NES - Mega Man - Miscellaneous - Energy Bars_157: 1722210289712009688
+      NES - Mega Man - Miscellaneous - Energy Bars_158: 1566453603515167581
+      NES - Mega Man - Miscellaneous - Energy Bars_159: -2594589680112064684
+      NES - Mega Man - Miscellaneous - Energy Bars_16: 1873286460547446090
+      NES - Mega Man - Miscellaneous - Energy Bars_160: 3957527922563168034
+      NES - Mega Man - Miscellaneous - Energy Bars_161: -6302385938896161157
+      NES - Mega Man - Miscellaneous - Energy Bars_162: -1500319429936535142
+      NES - Mega Man - Miscellaneous - Energy Bars_163: 7851607686058544182
+      NES - Mega Man - Miscellaneous - Energy Bars_164: -5871539392435647354
+      NES - Mega Man - Miscellaneous - Energy Bars_165: -8943129051674572237
+      NES - Mega Man - Miscellaneous - Energy Bars_166: -6198060227923020779
+      NES - Mega Man - Miscellaneous - Energy Bars_167: 6317004079174712066
+      NES - Mega Man - Miscellaneous - Energy Bars_168: 550711769321329214
+      NES - Mega Man - Miscellaneous - Energy Bars_169: 2711057750165309982
+      NES - Mega Man - Miscellaneous - Energy Bars_17: -459174197972639331
+      NES - Mega Man - Miscellaneous - Energy Bars_170: -6183879648972298850
+      NES - Mega Man - Miscellaneous - Energy Bars_171: 8179282616028789922
+      NES - Mega Man - Miscellaneous - Energy Bars_172: -9074607453477470828
+      NES - Mega Man - Miscellaneous - Energy Bars_173: -6748896677666693939
+      NES - Mega Man - Miscellaneous - Energy Bars_174: -8032985119074844941
+      NES - Mega Man - Miscellaneous - Energy Bars_175: -3785246062189591483
+      NES - Mega Man - Miscellaneous - Energy Bars_176: -7785687467955038021
+      NES - Mega Man - Miscellaneous - Energy Bars_177: -9119733582762841995
+      NES - Mega Man - Miscellaneous - Energy Bars_178: 8158495884823197131
+      NES - Mega Man - Miscellaneous - Energy Bars_179: 1821707643803531001
+      NES - Mega Man - Miscellaneous - Energy Bars_18: -3682278918508031289
+      NES - Mega Man - Miscellaneous - Energy Bars_180: 3959798577814291626
+      NES - Mega Man - Miscellaneous - Energy Bars_181: 2661785222803294440
+      NES - Mega Man - Miscellaneous - Energy Bars_182: -2436586445485559876
+      NES - Mega Man - Miscellaneous - Energy Bars_183: -453125108409162939
+      NES - Mega Man - Miscellaneous - Energy Bars_184: 7894729964924480302
+      NES - Mega Man - Miscellaneous - Energy Bars_185: 144144806292948459
+      NES - Mega Man - Miscellaneous - Energy Bars_186: 2734114472990177049
+      NES - Mega Man - Miscellaneous - Energy Bars_187: -334523774146192988
+      NES - Mega Man - Miscellaneous - Energy Bars_188: 7068742825895645274
+      NES - Mega Man - Miscellaneous - Energy Bars_189: -3163584460730106050
+      NES - Mega Man - Miscellaneous - Energy Bars_19: -7141117378513330514
+      NES - Mega Man - Miscellaneous - Energy Bars_190: 1467933298573820005
+      NES - Mega Man - Miscellaneous - Energy Bars_191: 8570226802477389578
+      NES - Mega Man - Miscellaneous - Energy Bars_192: 3833420260313275357
+      NES - Mega Man - Miscellaneous - Energy Bars_193: 7854623468197254258
+      NES - Mega Man - Miscellaneous - Energy Bars_194: -2539686696074149594
+      NES - Mega Man - Miscellaneous - Energy Bars_2: 2968148735586949871
+      NES - Mega Man - Miscellaneous - Energy Bars_20: -1121259849338554973
+      NES - Mega Man - Miscellaneous - Energy Bars_21: 1853418223495266443
+      NES - Mega Man - Miscellaneous - Energy Bars_22: -2670763700968094632
+      NES - Mega Man - Miscellaneous - Energy Bars_224: -294705632843307020
+      NES - Mega Man - Miscellaneous - Energy Bars_225: 4272710405024245291
+      NES - Mega Man - Miscellaneous - Energy Bars_226: -7256060102502538108
+      NES - Mega Man - Miscellaneous - Energy Bars_227: -1801991085872385062
+      NES - Mega Man - Miscellaneous - Energy Bars_228: -3064331622061223085
+      NES - Mega Man - Miscellaneous - Energy Bars_229: 1785857221105491019
+      NES - Mega Man - Miscellaneous - Energy Bars_23: -2085417403942608827
+      NES - Mega Man - Miscellaneous - Energy Bars_230: 3159843385759567975
+      NES - Mega Man - Miscellaneous - Energy Bars_231: -2262670741481442989
+      NES - Mega Man - Miscellaneous - Energy Bars_232: 7123890860772806730
+      NES - Mega Man - Miscellaneous - Energy Bars_233: -548402731758707626
+      NES - Mega Man - Miscellaneous - Energy Bars_234: -1775571970239984492
+      NES - Mega Man - Miscellaneous - Energy Bars_235: -8649990160655324965
+      NES - Mega Man - Miscellaneous - Energy Bars_236: -839206987481415094
+      NES - Mega Man - Miscellaneous - Energy Bars_237: -7347257639813189331
+      NES - Mega Man - Miscellaneous - Energy Bars_238: -5832280828210462127
+      NES - Mega Man - Miscellaneous - Energy Bars_24: -3082452488255255082
+      NES - Mega Man - Miscellaneous - Energy Bars_25: 9038015898427667306
+      NES - Mega Man - Miscellaneous - Energy Bars_26: -7635054901838869279
+      NES - Mega Man - Miscellaneous - Energy Bars_27: -3718828148428239452
+      NES - Mega Man - Miscellaneous - Energy Bars_28: -4030333358436706975
+      NES - Mega Man - Miscellaneous - Energy Bars_29: 5949462983979100348
+      NES - Mega Man - Miscellaneous - Energy Bars_3: 1515691496289195836
+      NES - Mega Man - Miscellaneous - Energy Bars_30: -178284620572311926
+      NES - Mega Man - Miscellaneous - Energy Bars_31: 4730988849389527082
+      NES - Mega Man - Miscellaneous - Energy Bars_32: 4474829103827078814
+      NES - Mega Man - Miscellaneous - Energy Bars_33: -6051939470362002289
+      NES - Mega Man - Miscellaneous - Energy Bars_34: 3242426594518312790
+      NES - Mega Man - Miscellaneous - Energy Bars_35: 700435301956268016
+      NES - Mega Man - Miscellaneous - Energy Bars_36: 6090761423645042412
+      NES - Mega Man - Miscellaneous - Energy Bars_37: 8260626854208384259
+      NES - Mega Man - Miscellaneous - Energy Bars_38: 986972323998803534
+      NES - Mega Man - Miscellaneous - Energy Bars_39: 2087240621828675437
+      NES - Mega Man - Miscellaneous - Energy Bars_4: 6006941570837391926
+      NES - Mega Man - Miscellaneous - Energy Bars_40: 6267251590675050742
+      NES - Mega Man - Miscellaneous - Energy Bars_41: 7147675688730006459
+      NES - Mega Man - Miscellaneous - Energy Bars_42: -6745200418961702376
+      NES - Mega Man - Miscellaneous - Energy Bars_43: -9144479659002078264
+      NES - Mega Man - Miscellaneous - Energy Bars_44: 1959372433513783366
+      NES - Mega Man - Miscellaneous - Energy Bars_45: -8067061863130442306
+      NES - Mega Man - Miscellaneous - Energy Bars_46: 3766827179404897920
+      NES - Mega Man - Miscellaneous - Energy Bars_47: -3314798647917300988
+      NES - Mega Man - Miscellaneous - Energy Bars_48: -5317015466229235918
+      NES - Mega Man - Miscellaneous - Energy Bars_49: 7042158819581602318
+      NES - Mega Man - Miscellaneous - Energy Bars_5: 4374979502872405419
+      NES - Mega Man - Miscellaneous - Energy Bars_50: -616331254002879800
+      NES - Mega Man - Miscellaneous - Energy Bars_51: 6373209513326676206
+      NES - Mega Man - Miscellaneous - Energy Bars_52: 3567369569859533579
+      NES - Mega Man - Miscellaneous - Energy Bars_53: 3302979177066963889
+      NES - Mega Man - Miscellaneous - Energy Bars_54: 9082776808128980994
+      NES - Mega Man - Miscellaneous - Energy Bars_55: -4200440073137804462
+      NES - Mega Man - Miscellaneous - Energy Bars_56: 9204680111186056511
+      NES - Mega Man - Miscellaneous - Energy Bars_57: -285756275209020418
+      NES - Mega Man - Miscellaneous - Energy Bars_58: -8677221985158567887
+      NES - Mega Man - Miscellaneous - Energy Bars_59: -4050165560757023400
+      NES - Mega Man - Miscellaneous - Energy Bars_6: 5787841159496031990
+      NES - Mega Man - Miscellaneous - Energy Bars_60: 4550079322914741664
+      NES - Mega Man - Miscellaneous - Energy Bars_61: 7680930872725306810
+      NES - Mega Man - Miscellaneous - Energy Bars_62: -1441848677180053057
+      NES - Mega Man - Miscellaneous - Energy Bars_63: -615020875617624275
+      NES - Mega Man - Miscellaneous - Energy Bars_64: 2133946028731426694
+      NES - Mega Man - Miscellaneous - Energy Bars_65: 2932320204471434236
+      NES - Mega Man - Miscellaneous - Energy Bars_66: 7806978840615756430
+      NES - Mega Man - Miscellaneous - Energy Bars_67: 6718606070373663914
+      NES - Mega Man - Miscellaneous - Energy Bars_68: -6123445429902169520
+      NES - Mega Man - Miscellaneous - Energy Bars_69: -2427104920050923109
+      NES - Mega Man - Miscellaneous - Energy Bars_7: 6605734247052045783
+      NES - Mega Man - Miscellaneous - Energy Bars_70: -4939553125021722249
+      NES - Mega Man - Miscellaneous - Energy Bars_71: 4686628200505500890
+      NES - Mega Man - Miscellaneous - Energy Bars_72: 4713614516641202427
+      NES - Mega Man - Miscellaneous - Energy Bars_73: 2748252844328034279
+      NES - Mega Man - Miscellaneous - Energy Bars_74: -6487720265258877259
+      NES - Mega Man - Miscellaneous - Energy Bars_75: -8257577385611463
+      NES - Mega Man - Miscellaneous - Energy Bars_76: -8530141647610235827
+      NES - Mega Man - Miscellaneous - Energy Bars_77: -2034588247450722110
+      NES - Mega Man - Miscellaneous - Energy Bars_78: -4658611165731425279
+      NES - Mega Man - Miscellaneous - Energy Bars_79: 8623417825913196595
+      NES - Mega Man - Miscellaneous - Energy Bars_8: -6623253912190641897
+      NES - Mega Man - Miscellaneous - Energy Bars_80: 3705440917179495679
+      NES - Mega Man - Miscellaneous - Energy Bars_81: -7444995440922600939
+      NES - Mega Man - Miscellaneous - Energy Bars_82: 4961272871672071046
+      NES - Mega Man - Miscellaneous - Energy Bars_83: 2213959617171482048
+      NES - Mega Man - Miscellaneous - Energy Bars_84: -440557671663636994
+      NES - Mega Man - Miscellaneous - Energy Bars_85: 7644431628163872178
+      NES - Mega Man - Miscellaneous - Energy Bars_86: 7269622272512371552
+      NES - Mega Man - Miscellaneous - Energy Bars_87: 3682476161281306778
+      NES - Mega Man - Miscellaneous - Energy Bars_88: 6714533775607558814
+      NES - Mega Man - Miscellaneous - Energy Bars_89: -8612360348414391928
+      NES - Mega Man - Miscellaneous - Energy Bars_9: -8999384921441314949
+      NES - Mega Man - Miscellaneous - Energy Bars_90: 5196222921640947219
+      NES - Mega Man - Miscellaneous - Energy Bars_91: 4614411932975746587
+      NES - Mega Man - Miscellaneous - Energy Bars_92: 6958246422847547573
+      NES - Mega Man - Miscellaneous - Energy Bars_93: -7790931757379152564
+      NES - Mega Man - Miscellaneous - Energy Bars_94: 6013047579107722341
+      NES - Mega Man - Miscellaneous - Energy Bars_95: 4278352998426279206
+      NES - Mega Man - Miscellaneous - Energy Bars_96: 2897400042654646908
+      NES - Mega Man - Miscellaneous - Energy Bars_97: -8588565892723774353
+      NES - Mega Man - Miscellaneous - Energy Bars_98: -6809637508847480574
+      NES - Mega Man - Miscellaneous - Energy Bars_99: -1096266518300890686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
