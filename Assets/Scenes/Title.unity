@@ -148,8 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 012582711fe0dfb4b934a025ad121706, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  titleSceneName: TitleScreen
-  gameSceneName: Level_01
+  titleSceneName: Title
+  gameSceneName: GutsManLevel
 --- !u!4 &677456148
 Transform:
   m_ObjectHideFlags: 0

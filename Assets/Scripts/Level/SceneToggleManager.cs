@@ -33,4 +33,16 @@ public class SceneToggleManager : MonoBehaviour
         else
             SceneManager.LoadScene(titleSceneName);
     }
+
+    public void GoToTitle()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(titleSceneName);
+    }
+
+    public void GoToGame()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(gameSceneName);
+    }
 }

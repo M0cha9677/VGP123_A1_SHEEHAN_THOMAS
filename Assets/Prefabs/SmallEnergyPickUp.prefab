@@ -151,4 +151,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0908399754e4f7148b19b6614a038185, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  energyAmount: 5
+  energyAmount: 10
