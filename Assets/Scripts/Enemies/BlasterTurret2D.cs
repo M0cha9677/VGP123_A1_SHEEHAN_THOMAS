@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class BlasterTurret2D : MonoBehaviour
@@ -42,12 +43,22 @@ public class BlasterTurret2D : MonoBehaviour
     [SerializeField] private bool debug = false;
     [SerializeField] private bool drawAim = false;
 
+    public enum WallSide { LeftWall, RightWall }
+
+    [Header("Placement")]
+    [SerializeField] private WallSide wallSide = WallSide.RightWall; // default faces LEFT
+    [SerializeField] private bool applyWallSideOnAwake = true;
+
     private bool _isVisible;
+
 
     private void Awake()
     {
         if (sr == null) sr = GetComponent<SpriteRenderer>();
         if (anim == null) anim = GetComponent<Animator>();
+
+        if (applyWallSideOnAwake)
+            ApplyWallSideFacing();
     }
 
     private void OnBecameVisible() => _isVisible = true;
@@ -286,5 +297,22 @@ public class BlasterTurret2D : MonoBehaviour
     private void SetOpen(bool open)
     {
         if (anim != null) anim.SetBool("isOpen", open);
+    }
+
+    private void ApplyWallSideFacing()
+    {
+        if (sr == null) sr = GetComponent<SpriteRenderer>();
+
+        // sprites face LEFT by default:
+        // flipX true => face RIGHT
+        bool faceRight = (wallSide == WallSide.LeftWall);
+        sr.flipX = faceRight;
+
+        if (firePoint != null)
+        {
+            Vector3 lp = firePoint.localPosition;
+            lp.x = Mathf.Abs(lp.x) * (faceRight ? 1f : -1f);
+            firePoint.localPosition = lp;
+        }
     }
 }

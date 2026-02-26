@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3233615312873068420}
   - component: {fileID: 7841598608569238701}
   m_Layer: 0
-  m_Name: CrazyRazy1
+  m_Name: CrazyRazy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

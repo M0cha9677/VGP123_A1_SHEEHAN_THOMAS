@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: a90bc5f378464bf4ca6b681e15d07f13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2533695309926949026
+    second: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Title
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e445d57e792320800000000000000
+      internalID: 2533695309926949026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 511
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c571bb94274a74faa31ae2f7777b1b
+      internalID: 1551550103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 511
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b302abbd122a544c9122afe213c76ef
+      internalID: -711689075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 511
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d179fca4ab60488b441feeb912294
+      internalID: 844001985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 511
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e591f0e86a5f08b4c9312820487da802
+      internalID: -1356611640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_5
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 511
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686eb337be8d47f4fa3244823cf8236c
+      internalID: 359607221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c4f8fc8aa322340ba7f1b76f21c858
+      internalID: 27904506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 271
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5850a21d8a56b81439c164a7027d0a60
+      internalID: 1903937838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 271
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad3749202f78e4c97d366f3490833c
+      internalID: -1650143562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_9
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 271
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b626ac8b618e4d88e341daecd19c4
+      internalID: 54860660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_10
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 271
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6c949c6aa2b3c4494f7786bc9e6d8b
+      internalID: -559299470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_11
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 271
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bcd44860fd6524fb7bac776a306123
+      internalID: -1105231929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463cda913c209af4883fd4b9498ae77e
+      internalID: -2002669933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e12c76df76e4c4bb9c389e20258f8b
+      internalID: -2063413596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 31
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2982764b92e6db49bb7c800e3725e65
+      internalID: 840490852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 31
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1389121cf92422f49b603fcc1ef41daf
+      internalID: -409850362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_16
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 31
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f764430e75670b4e8a0283a4284a9f1
+      internalID: -1337266857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_17
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 31
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96769b3e1c245740a32d44cb114440f
+      internalID: 1409450745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40f1b0ceb48ce8140abd1cf572f2ee54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":240.0},"gridSpriteOffset":{"x":1.0,"y":11.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_1: 1551550103
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_10: -559299470
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_11: -1105231929
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_12: -2002669933
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_13: -2063413596
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_14: 840490852
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_15: -409850362
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_16: -1337266857
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_17: 1409450745
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_2: -711689075
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_3: 844001985
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_4: -1356611640
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_5: 359607221
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_6: 27904506
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_7: 1903937838
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_8: -1650143562
+      NES - Mega Man - Miscellaneous - Title Screen, Stage Select & Game Over_9: 54860660
+      Title: 2533695309926949026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
