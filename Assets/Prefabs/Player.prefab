@@ -260,12 +260,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   maxHealth: 10
-  startLives: 3
+  startLives: 1
   maxEnergy: 20
   startEnergy: 0
   energyPerShot: 1
   iFrameTime: 0.8
   hurtLockTime: 0.15
+  respawnPoint: {fileID: 0}
+  respawnInvulnTime: 1
+  refillEnergyOnRespawn: 1
+  deathAnimFallbackTime: 0.5
+  gameOverPanel: {fileID: 0}
 --- !u!114 &-3304907006345412630
 MonoBehaviour:
   m_ObjectHideFlags: 0

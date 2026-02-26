@@ -9,7 +9,7 @@ public class PlayerStats2D : MonoBehaviour
 
     [Header("Shooting Energy")]
     [SerializeField] private int maxEnergy = 20;
-    [SerializeField] private int startEnergy = 0;     // you said you want 0
+    [SerializeField] private int startEnergy = 0;
     [SerializeField] private int energyPerShot = 1;
 
     [Header("Hurt / I-Frames")]
@@ -22,6 +22,10 @@ public class PlayerStats2D : MonoBehaviour
     [SerializeField] private float respawnInvulnTime = 1.0f;
     [SerializeField] private bool refillEnergyOnRespawn = true;
 
+    [Header("Death Fallback")]
+    [Tooltip("If the animation event fails, respawn/gameover will trigger after this many seconds (real-time). Set to your die clip length.")]
+    [SerializeField] private float deathAnimFallbackTime = 0.9f;
+
     [Header("Game Over UI (optional)")]
     [SerializeField] private GameObject gameOverPanel;
 
@@ -31,6 +35,7 @@ public class PlayerStats2D : MonoBehaviour
 
     private bool _invulnerable;
     private bool _dead;
+    private Coroutine _deathFallbackCo;
 
     private Animator _anim;
     private SpriteRenderer _sr;
@@ -42,7 +47,6 @@ public class PlayerStats2D : MonoBehaviour
     public int Lives => _lives;
     public int Energy => _energy;
     public bool IsDead => _dead;
-
     public bool CanShoot => !_dead && _energy >= energyPerShot;
 
     private void Awake()
@@ -68,6 +72,15 @@ public class PlayerStats2D : MonoBehaviour
             GameObject rp = GameObject.FindGameObjectWithTag("Respawn");
             if (rp != null) respawnPoint = rp.transform;
         }
+
+        if (gameOverPanel == null)
+        {
+            GameObject go = GameObject.Find("gameOverPanel");
+            if (go != null) gameOverPanel = go;
+        }
+
+        if (gameOverPanel != null)
+            gameOverPanel.SetActive(false);
     }
 
     // ---------------- ENERGY ----------------
@@ -118,7 +131,6 @@ public class PlayerStats2D : MonoBehaviour
         yield return new WaitForSeconds(hurtLockTime);
         if (_move != null && !_dead) _move.enabled = true;
 
-        // blink i-frames
         float timer = 0f;
         while (timer < iFrameTime)
         {
@@ -132,7 +144,6 @@ public class PlayerStats2D : MonoBehaviour
     }
 
     // ---------------- DEATH / RESPAWN ----------------
-
     private void BeginDeath()
     {
         if (_dead) return;
@@ -142,31 +153,42 @@ public class PlayerStats2D : MonoBehaviour
 
         // Lock player immediately
         if (_move != null) _move.enabled = false;
-        if (_col != null) _col.enabled = false; // prevents hazards/bullets during death
+        if (_col != null) _col.enabled = false;
         if (_rb != null) _rb.linearVelocity = Vector2.zero;
 
         if (_anim != null)
-        {
-            _anim.SetBool("isDead", true);
             _anim.SetTrigger("die");
-        }
 
-        // IMPORTANT:
-        // Respawn is triggered by an Animation Event calling OnDeathAnimFinished()
-        // (see instructions below)
+        // Fallback in case the animation event never fires
+        if (_deathFallbackCo != null) StopCoroutine(_deathFallbackCo);
+        _deathFallbackCo = StartCoroutine(DeathFallbackRoutine());
+    }
+
+    private IEnumerator DeathFallbackRoutine()
+    {
+        yield return new WaitForSecondsRealtime(deathAnimFallbackTime);
+
+        // If still dead, the animation event likely didn't fire.
+        if (_dead)
+            OnDeathAnimFinished();
     }
 
     // CALL THIS FROM AN ANIMATION EVENT on the LAST frame of the DIE clip.
     public void OnDeathAnimFinished()
     {
+        Debug.Log("OnDeathAnimFinished called");
+
+        // If fallback is running, stop it to avoid double-calls
+        if (_deathFallbackCo != null)
+        {
+            StopCoroutine(_deathFallbackCo);
+            _deathFallbackCo = null;
+        }
+
         if (_lives > 0)
-        {
             StartCoroutine(RespawnRoutine());
-        }
         else
-        {
             GameOver();
-        }
     }
 
     private IEnumerator RespawnRoutine()
@@ -174,7 +196,7 @@ public class PlayerStats2D : MonoBehaviour
         // Reset stats
         _health = maxHealth;
         if (refillEnergyOnRespawn)
-            _energy = Mathf.Clamp(startEnergy, 0, maxEnergy); 
+            _energy = Mathf.Clamp(startEnergy, 0, maxEnergy);
 
         // Move to spawn
         if (respawnPoint != null)
@@ -185,7 +207,6 @@ public class PlayerStats2D : MonoBehaviour
 
         // Re-enable
         _dead = false;
-        if (_anim != null) _anim.SetBool("isDead", false);
 
         if (_col != null) _col.enabled = true;
         if (_move != null) _move.enabled = true;
@@ -199,19 +220,29 @@ public class PlayerStats2D : MonoBehaviour
             if (_sr != null) _sr.enabled = !_sr.enabled;
             yield return new WaitForSeconds(0.1f);
         }
+
         if (_sr != null) _sr.enabled = true;
         _invulnerable = false;
     }
 
     private void GameOver()
     {
-        // Keep player locked
+
+        if (gameOverPanel == null)
+        {
+            GameObject go = GameObject.Find("gameOverPanel");
+            if (go != null) gameOverPanel = go;
+        }
+
+        _dead = true;
         if (_move != null) _move.enabled = false;
         if (_col != null) _col.enabled = false;
         if (_rb != null) _rb.linearVelocity = Vector2.zero;
 
         if (gameOverPanel != null)
             gameOverPanel.SetActive(true);
+        else
+            Debug.LogWarning("gameOverPanel not found in scene");
 
         Debug.Log("GAME OVER");
     }

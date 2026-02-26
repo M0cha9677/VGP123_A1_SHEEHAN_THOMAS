@@ -24,6 +24,7 @@ public class BlasterTurret2D : MonoBehaviour
     [Header("Fire rules")]
     [SerializeField] private bool onlyFireOnScreen = true;
     [SerializeField] private float attackCooldown = 1.2f;
+    [SerializeField] private float fireRange = 12f; 
 
     [Header("Red (Shotgun forward)")]
     [SerializeField] private int shotgunPellets = 5;
@@ -131,6 +132,8 @@ public class BlasterTurret2D : MonoBehaviour
                 continue;
 
             if (player == null || bulletPrefab == null || firePoint == null || sr == null) continue;
+            if (!IsPlayerInRange())
+                continue;
 
             float dx = player.position.x - transform.position.x;
             if (Mathf.Abs(dx) > aimMaxDistance) continue;
@@ -201,6 +204,9 @@ public class BlasterTurret2D : MonoBehaviour
 
     private IEnumerator FireVolleyTowardPlayer()
     {
+
+        if (!IsPlayerInRange())
+            yield break;
         for (int i = 0; i < volleyShots; i++)
         {
             AcquireClosestPlayerIfNeeded();
@@ -311,4 +317,23 @@ public class BlasterTurret2D : MonoBehaviour
         Vector3 vp = cam.WorldToViewportPoint(transform.position);
         return (vp.z > 0f && vp.x > 0f && vp.x < 1f && vp.y > 0f && vp.y < 1f);
     }
+
+    private bool IsPlayerInRange()
+    {
+        if (player == null) return false;
+
+        Vector2 me = transform.position;
+        Vector2 p = player.position;
+
+        float sqrDist = (p - me).sqrMagnitude;
+        float sqrRange = fireRange * fireRange;
+
+        return sqrDist <= sqrRange;
+    }
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, fireRange);
+    }
+
 }
