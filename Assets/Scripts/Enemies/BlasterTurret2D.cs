@@ -1,24 +1,24 @@
 using System.Collections;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class BlasterTurret2D : MonoBehaviour
 {
     public enum BlasterType { RedShotgun, BlueMachineGun, YellowSniper }
+    public enum WallSide { LeftWall, RightWall }
 
     [Header("Type")]
     [SerializeField] private BlasterType type;
 
     [Header("Explicit refs (avoid flipping wrong renderer)")]
-    [SerializeField] private SpriteRenderer sr;   // drag the visible sprite renderer here
-    [SerializeField] private Animator anim;       // optional
-    [SerializeField] private Transform firePoint; // required
-    [SerializeField] private BlasterBullet2D bulletPrefab; // required (color-specific bullet)
+    [SerializeField] private SpriteRenderer sr;
+    [SerializeField] private Animator anim;
+    [SerializeField] private Transform firePoint;
+    [SerializeField] private BlasterBullet2D bulletPrefab;
 
     [Header("Targeting")]
     [Tooltip("Optional. Leave null to auto-target closest PlayerMovement2D (spawn-safe).")]
     [SerializeField] private Transform player;
-    [SerializeField] private bool facePlayer = true;     // if false, turret uses its current facing
+    [SerializeField] private bool facePlayer = true;
     [SerializeField] private float aimMaxDistance = 9999f;
 
     [Header("Fire rules")]
@@ -39,43 +39,34 @@ public class BlasterTurret2D : MonoBehaviour
     [Header("Yellow (Sniper single fast shot)")]
     [SerializeField] private float sniperSpeed = 13f;
 
-    [Header("Debug")]
-    [SerializeField] private bool debug = false;
-    [SerializeField] private bool drawAim = false;
-
-    public enum WallSide { LeftWall, RightWall }
-
     [Header("Placement")]
     [SerializeField] private WallSide wallSide = WallSide.RightWall; // default faces LEFT
     [SerializeField] private bool applyWallSideOnAwake = true;
 
-    private bool _isVisible;
-
+    [Header("Debug")]
+    [SerializeField] private bool debug = false;
+    [SerializeField] private bool drawAim = false;
 
     private void Awake()
     {
         if (sr == null) sr = GetComponent<SpriteRenderer>();
         if (anim == null) anim = GetComponent<Animator>();
 
-        if (applyWallSideOnAwake)
+        if (applyWallSideOnAwake && !facePlayer)
             ApplyWallSideFacing();
     }
-
-    private void OnBecameVisible() => _isVisible = true;
-    private void OnBecameInvisible() => _isVisible = false;
 
     private void Start()
     {
         StartCoroutine(FireLoop());
     }
 
-    // LateUpdate so Animator can't undo flipX if clips/keyframes exist
     private void LateUpdate()
     {
         AcquireClosestPlayerIfNeeded();
 
         if (facePlayer)
-            FacePlayerNow(); // keep facing correct even if player crosses sides
+            FacePlayerNow();
     }
 
     private void AcquireClosestPlayerIfNeeded()
@@ -116,51 +107,39 @@ public class BlasterTurret2D : MonoBehaviour
 
         bool playerIsRight = dx > 0f;
 
-        // You said: ALL sprites face LEFT by default.
-        // flipX true => face RIGHT
+        // All sprites face LEFT by default -> flipX true means face RIGHT
         sr.flipX = playerIsRight;
 
-        // Mirror firePoint with facing
         if (firePoint != null)
         {
             Vector3 lp = firePoint.localPosition;
             lp.x = Mathf.Abs(lp.x) * (playerIsRight ? 1f : -1f);
             firePoint.localPosition = lp;
         }
-
-        if (debug)
-            Debug.Log($"[Blaster] dx={dx:F2} flipX={sr.flipX} player={player.name}");
     }
 
     private IEnumerator FireLoop()
     {
         while (true)
         {
-            // Cooldown between attack cycles
             yield return new WaitForSeconds(attackCooldown);
 
-            // Spawn-safe: keep reacquiring player if needed
             AcquireClosestPlayerIfNeeded();
 
-            // Don’t shoot offscreen (Mega Man fairness)
-            if (onlyFireOnScreen && !_isVisible) continue;
+            // Use GAME camera visibility check (Scene view won't affect this)
+            if (onlyFireOnScreen && !IsRendererOnGameCamera())
+                continue;
 
-            // Must have refs
             if (player == null || bulletPrefab == null || firePoint == null || sr == null) continue;
 
-            // Optional range gate
             float dx = player.position.x - transform.position.x;
             if (Mathf.Abs(dx) > aimMaxDistance) continue;
 
-            // Ensure facing is correct at fire time
             if (facePlayer)
                 FacePlayerNow();
 
-            // ---- OPEN (vulnerable) ----
             SetOpen(true);
 
-            // Telegraphed vulnerable window BEFORE first shot
-            // (Tune per type if you want different feels)
             float pre = type switch
             {
                 BlasterType.RedShotgun => 0.25f,
@@ -170,26 +149,25 @@ public class BlasterTurret2D : MonoBehaviour
             };
             yield return new WaitForSeconds(pre);
 
-            // ---- FIRE PATTERN ----
+            // Fire pattern
             switch (type)
             {
                 case BlasterType.RedShotgun:
-                    if (anim != null) anim.SetTrigger("shoot"); // once per blast
+                    if (anim != null) anim.SetTrigger("shoot");
                     FireShotgunForward();
                     break;
 
                 case BlasterType.BlueMachineGun:
-                    if (anim != null) anim.SetTrigger("shoot"); // once per volley
-                    yield return FireVolleyTowardPlayer();       // volleyShots * interval inside
+                    if (anim != null) anim.SetTrigger("shoot");
+                    yield return FireVolleyTowardPlayer(); // includes mid-volley on-screen checks
                     break;
 
                 case BlasterType.YellowSniper:
-                    if (anim != null) anim.SetTrigger("shoot"); // once per shot
+                    if (anim != null) anim.SetTrigger("shoot");
                     FireSniperTowardPlayer();
                     break;
             }
 
-            // Vulnerable window AFTER firing
             float post = type switch
             {
                 BlasterType.RedShotgun => 0.25f,
@@ -199,14 +177,10 @@ public class BlasterTurret2D : MonoBehaviour
             };
             yield return new WaitForSeconds(post);
 
-            // ---- CLOSE (shielded) ----
             SetOpen(false);
         }
     }
 
-    // ---- Patterns ----
-
-    // Shotgun: cone spread in turret's forward direction (based on current flipX)
     private void FireShotgunForward()
     {
         Vector2 origin = firePoint.position;
@@ -218,7 +192,6 @@ public class BlasterTurret2D : MonoBehaviour
         {
             float t = (shotgunPellets == 1) ? 0f : (i / (shotgunPellets - 1f));
             float ang = Mathf.Lerp(-shotgunSpreadDegrees * 0.5f, shotgunSpreadDegrees * 0.5f, t);
-
             Vector2 dir = Rotate(forward, ang);
 
             BlasterBullet2D b = Instantiate(bulletPrefab, origin, Quaternion.identity);
@@ -226,19 +199,24 @@ public class BlasterTurret2D : MonoBehaviour
         }
     }
 
-    // Machine gun: volley aimed generally toward player center mass with inaccuracy
     private IEnumerator FireVolleyTowardPlayer()
     {
         for (int i = 0; i < volleyShots; i++)
         {
             AcquireClosestPlayerIfNeeded();
             if (player == null) yield break;
-            if (onlyFireOnScreen && !_isVisible) yield break;
+
+            // Stop volley if we go offscreen (fairness)
+            if (onlyFireOnScreen && !IsRendererOnGameCamera())
+                yield break;
 
             Vector2 origin = firePoint.position;
             Vector2 target = GetPlayerCenterMass();
             Vector2 dir = (target - origin);
-            if (dir.sqrMagnitude < 0.0001f) dir = sr.flipX ? Vector2.right : Vector2.left;
+
+            if (dir.sqrMagnitude < 0.0001f)
+                dir = sr.flipX ? Vector2.right : Vector2.left;
+
             dir.Normalize();
 
             float randomAngle = Random.Range(-volleyInaccuracyDegrees, volleyInaccuracyDegrees);
@@ -253,7 +231,6 @@ public class BlasterTurret2D : MonoBehaviour
         }
     }
 
-    // Sniper: single fast accurate shot at player center mass
     private void FireSniperTowardPlayer()
     {
         Vector2 origin = firePoint.position;
@@ -270,8 +247,6 @@ public class BlasterTurret2D : MonoBehaviour
         BlasterBullet2D b = Instantiate(bulletPrefab, origin, Quaternion.identity);
         b.Fire(dir, sniperSpeed);
     }
-
-    // ---- Helpers ----
 
     private Vector2 GetPlayerCenterMass()
     {
@@ -296,15 +271,14 @@ public class BlasterTurret2D : MonoBehaviour
 
     private void SetOpen(bool open)
     {
-        if (anim != null) anim.SetBool("isOpen", open);
+        if (anim != null)
+            anim.SetBool("isOpen", open);
     }
 
     private void ApplyWallSideFacing()
     {
         if (sr == null) sr = GetComponent<SpriteRenderer>();
 
-        // sprites face LEFT by default:
-        // flipX true => face RIGHT
         bool faceRight = (wallSide == WallSide.LeftWall);
         sr.flipX = faceRight;
 
@@ -314,5 +288,27 @@ public class BlasterTurret2D : MonoBehaviour
             lp.x = Mathf.Abs(lp.x) * (faceRight ? 1f : -1f);
             firePoint.localPosition = lp;
         }
+    }
+
+    // ----- Game camera visibility (ignores Scene view camera) -----
+
+    private bool IsRendererOnGameCamera()
+    {
+        Camera cam = Camera.main;
+        if (cam == null) return true;
+
+        if (sr == null) return IsOnGameCameraPivotOnly();
+
+        Plane[] planes = GeometryUtility.CalculateFrustumPlanes(cam);
+        return GeometryUtility.TestPlanesAABB(planes, sr.bounds);
+    }
+
+    private bool IsOnGameCameraPivotOnly()
+    {
+        Camera cam = Camera.main;
+        if (cam == null) return true;
+
+        Vector3 vp = cam.WorldToViewportPoint(transform.position);
+        return (vp.z > 0f && vp.x > 0f && vp.x < 1f && vp.y > 0f && vp.y < 1f);
     }
 }

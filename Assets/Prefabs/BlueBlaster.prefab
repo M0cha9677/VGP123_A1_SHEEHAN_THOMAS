@@ -139,7 +139,7 @@ MonoBehaviour:
   player: {fileID: 7401797140806800663, guid: 2fa2afa19af4daf43866608d7661f8dc, type: 3}
   facePlayer: 0
   aimMaxDistance: 9999
-  onlyFireOnScreen: 0
+  onlyFireOnScreen: 1
   attackCooldown: 10
   shotgunPellets: 5
   shotgunSpeed: 7
@@ -149,10 +149,10 @@ MonoBehaviour:
   volleySpeed: 8
   volleyInaccuracyDegrees: 10
   sniperSpeed: 13
-  debug: 0
-  drawAim: 0
   wallSide: 1
   applyWallSideOnAwake: 1
+  debug: 0
+  drawAim: 0
 --- !u!61 &636214414226215493
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -26,6 +26,9 @@ public class SniperJoe2D : MonoBehaviour
     [SerializeField] private Transform firePoint;
     [SerializeField] private SniperJoeBullet2D joeBulletPrefab;
 
+    [Header("On-Screen Gate")]
+    [SerializeField] private bool onlyShootOnGameCamera = true;
+
     [Header("Shield (later)")]
     [SerializeField] private bool frontOnlyShieldBlock = true;
 
@@ -37,26 +40,14 @@ public class SniperJoe2D : MonoBehaviour
 
     private State _state = State.ShieldUp;
     private Coroutine _loop;
-    private bool _isVisible;
-
-    private void OnBecameVisible()
-    {
-        _isVisible = true;
-    }
-    private void OnBecameInvisible()
-    {
-        _isVisible = false;
-    }
 
     private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
         _col = GetComponent<Collider2D>();
 
-        // If you didn't assign these, try local
         if (sr == null) sr = GetComponent<SpriteRenderer>();
         if (anim == null) anim = GetComponent<Animator>();
-
     }
 
     private void OnEnable()
@@ -76,20 +67,12 @@ public class SniperJoe2D : MonoBehaviour
 
     private void LateUpdate()
     {
-        // 1) Always ensure we have the REAL player (spawn-safe)
         AcquireClosestPlayerMovement();
-
-        // 2) Face every frame (LateUpdate to beat Animator)
         FacePlayer();
     }
 
-    /// <summary>
-    /// Finds the closest active PlayerMovement2D in the scene.
-    /// This solves "player spawned after scene start" and "wrong transform" issues.
-    /// </summary>
     private void AcquireClosestPlayerMovement()
     {
-        // If user manually assigned player, keep it unless it's gone
         if (player != null && player.gameObject.activeInHierarchy) return;
 
         PlayerMovement2D[] candidates = FindObjectsByType<PlayerMovement2D>(FindObjectsSortMode.None);
@@ -113,9 +96,7 @@ public class SniperJoe2D : MonoBehaviour
         }
 
         if (best != null && best != player)
-        {
             player = best;
-        }
     }
 
     private void FacePlayer()
@@ -127,7 +108,7 @@ public class SniperJoe2D : MonoBehaviour
 
         bool playerIsRight = dx > 0f;
 
-        // You said ALL sprites face LEFT by default:
+        // All sprites face LEFT by default:
         // flipX = true means face RIGHT
         sr.flipX = playerIsRight;
 
@@ -137,8 +118,6 @@ public class SniperJoe2D : MonoBehaviour
             lp.x = Mathf.Abs(lp.x) * (playerIsRight ? 1f : -1f);
             firePoint.localPosition = lp;
         }
-
-        
     }
 
     private IEnumerator StateLoop()
@@ -167,14 +146,15 @@ public class SniperJoe2D : MonoBehaviour
 
     private void ShootOnce()
     {
-        if (!_isVisible) return;
+        // IMPORTANT: Use Game camera check, not OnBecameVisible (Scene view lies in editor)
+        if (onlyShootOnGameCamera && !IsRendererOnGameCamera())
+            return;
 
         AcquireClosestPlayerMovement();
 
         if (joeBulletPrefab == null || firePoint == null) return;
         if (player == null) return;
 
-        // Force correct facing at fire time
         FacePlayer();
 
         Vector2 origin = firePoint.position;
@@ -188,10 +168,8 @@ public class SniperJoe2D : MonoBehaviour
 
         if (anim != null)
             anim.SetTrigger("shoot");
-
     }
 
-    // Later use
     public bool CanTakeDamageFrom(Vector2 attackerPosition)
     {
         if (_state != State.ShieldUp) return true;
@@ -204,19 +182,39 @@ public class SniperJoe2D : MonoBehaviour
     }
 
     public bool IsShieldUp => _state == State.ShieldUp;
+
     private Vector2 GetPlayerCenterMass()
     {
         if (player == null) return Vector2.zero;
 
-        // Prefer collider bounds center (works even if pivot is at feet)
         Collider2D pc = player.GetComponent<Collider2D>();
         if (pc != null) return pc.bounds.center;
 
-        // Fallback: try player sprite bounds
         SpriteRenderer psr = player.GetComponent<SpriteRenderer>();
         if (psr != null) return psr.bounds.center;
 
-        // Final fallback: pivot
         return player.position;
+    }
+
+    // More accurate than pivot viewport check (uses sprite bounds)
+    private bool IsRendererOnGameCamera()
+    {
+        Camera cam = Camera.main;
+        if (cam == null) return true; // fail-open (build safety)
+
+        if (sr == null) return IsOnGameCameraPivotOnly();
+
+        Plane[] planes = GeometryUtility.CalculateFrustumPlanes(cam);
+        return GeometryUtility.TestPlanesAABB(planes, sr.bounds);
+    }
+
+    // Fallback if sr is missing
+    private bool IsOnGameCameraPivotOnly()
+    {
+        Camera cam = Camera.main;
+        if (cam == null) return true;
+
+        Vector3 vp = cam.WorldToViewportPoint(transform.position);
+        return (vp.z > 0f && vp.x > 0f && vp.x < 1f && vp.y > 0f && vp.y < 1f);
     }
 }

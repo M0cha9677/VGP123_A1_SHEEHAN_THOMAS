@@ -158,10 +158,10 @@ MonoBehaviour:
   volleySpeed: 8
   volleyInaccuracyDegrees: 10
   sniperSpeed: 13
-  debug: 0
-  drawAim: 0
   wallSide: 1
   applyWallSideOnAwake: 1
+  debug: 0
+  drawAim: 0
 --- !u!114 &8829671740205565107
 MonoBehaviour:
   m_ObjectHideFlags: 0
