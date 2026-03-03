@@ -6,9 +6,6 @@ public class LevelEndTrigger2D : MonoBehaviour
     [Header("UI")]
     [SerializeField] private GameObject levelCompletePanel;
 
-    [Header("Scene Fallback (if no SceneToggleManager exists)")]
-    [SerializeField] private string titleSceneName = "Title";
-
     [Header("Behavior")]
     [SerializeField] private bool freezeTime = true;
 
@@ -51,17 +48,10 @@ public class LevelEndTrigger2D : MonoBehaviour
             if (freezeTime)
                 Time.timeScale = 1f;
 
-            // Prefer your global manager (one source of truth)
-            SceneToggleManager mgr = FindFirstObjectByType<SceneToggleManager>();
-            if (mgr != null)
-            {
-                mgr.GoToTitle(); // you'll add this method (see below)
-            }
-            else
-            {
-                SceneManager.LoadScene(titleSceneName);
-            }
+            if (GameManager.Instance != null)
+                GameManager.Instance.LevelCompleteToTitle();
         }
+           
     }
 
     private void OnDisable()

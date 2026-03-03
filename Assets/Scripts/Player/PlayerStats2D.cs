@@ -239,11 +239,47 @@ public class PlayerStats2D : MonoBehaviour
         if (_col != null) _col.enabled = false;
         if (_rb != null) _rb.linearVelocity = Vector2.zero;
 
-        if (gameOverPanel != null)
-            gameOverPanel.SetActive(true);
+        if (GameManager.Instance != null) 
+            GameManager.Instance.TriggerGameOver();
         else
-            Debug.LogWarning("gameOverPanel not found in scene");
+            Debug.LogWarning("No GameManager in scene!");
 
         Debug.Log("GAME OVER");
+    }
+
+    public void ResetForNewGame(int lives)
+    {
+        _dead = false;
+        _invulnerable = false;
+
+        _lives = lives;
+        _health = maxHealth;
+        _energy = Mathf.Clamp(startEnergy, 0, maxEnergy);
+
+        if (_sr != null) _sr.enabled = true;
+        if (_col != null) _col.enabled = true;
+        if (_move != null) _move.enabled = true;
+        if (_rb != null) _rb.linearVelocity = Vector2.zero;
+    }
+
+    public void ForceRespawnNow()
+    {
+        if (respawnPoint == null)
+        {
+            GameObject rp = GameObject.FindGameObjectWithTag("Respawn");
+            if (rp != null) respawnPoint = rp.transform;
+        }
+
+        if (respawnPoint != null)
+            transform.position = respawnPoint.position;
+
+        if (_rb != null) _rb.linearVelocity = Vector2.zero;
+        if (_sr != null) _sr.enabled = true;
+    }
+
+    private void OnEnable()
+    {
+        if (GameManager.Instance != null)
+            GameManager.Instance.RegisterPlayer(this);
     }
 }

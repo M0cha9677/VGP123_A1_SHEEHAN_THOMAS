@@ -260,7 +260,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   maxHealth: 10
-  startLives: 1
+  startLives: 3
   maxEnergy: 20
   startEnergy: 0
   energyPerShot: 1

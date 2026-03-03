@@ -2307,11 +2307,11 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.7453613, y: -1.1791096, z: -10}
+  m_LocalPosition: {x: -111.7, y: 28.6, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1708954206}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &519420033
 MonoBehaviour:
@@ -2700,11 +2700,11 @@ Transform:
   m_GameObject: {fileID: 619394800}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 117.44536, y: -29.77911, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1708954206}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &636347841
 GameObject:
@@ -4812,7 +4812,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   levelCompletePanel: {fileID: 821613844}
-  titleSceneName: Title
   freezeTime: 1
 --- !u!4 &1271504704
 Transform:
@@ -6556,6 +6555,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1708954206}
+  - component: {fileID: 1708954207}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -6575,11 +6575,26 @@ Transform:
   m_LocalPosition: {x: -117.44536, y: 29.77911, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 519420032}
-  - {fileID: 619394802}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1708954207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1708954205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ef80bedf7c78884481eb5f30b0d7d7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  titleSceneName: Title
+  gameSceneName: GutsManLevel
+  startingLives: 3
+  startGameFromTitleOnEsc: 1
+  gameOverPanelName: gameOverPanel
 --- !u!1001 &1718162657
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8053,7 +8068,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: GAME OVER
+  m_text: 'GAME OVER
+
+    PRESS ''ESC'' KEY TO GO BACK TO TITLE'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8293,6 +8310,8 @@ BoxCollider2D:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 619394802}
+  - {fileID: 519420032}
   - {fileID: 1708954206}
   - {fileID: 850386713}
   - {fileID: 1434861975}
