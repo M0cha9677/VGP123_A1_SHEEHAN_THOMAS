@@ -1,9 +1,10 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public enum GameState { Title, Playing, GameOver }
+    public enum GameState { Title, Playing, Paused, GameOver }
 
     public static GameManager Instance { get; private set; }
     public GameState State { get; private set; } = GameState.Title;
@@ -19,6 +20,10 @@ public class GameManager : MonoBehaviour
     [Header("UI (scene object names)")]
     [Tooltip("Exact hierarchy name of the panel in the GAME scene.")]
     [SerializeField] private string gameOverPanelName = "gameOverPanel";
+
+    [Header("Pause UI (Scene object names)")]
+    [SerializeField] private string pausePanelName = "pausePanel";
+    private GameObject _pausePanel;
 
     private GameObject _gameOverPanel;
     private PlayerStats2D _player;
@@ -77,6 +82,9 @@ public class GameManager : MonoBehaviour
                 ResetRegisteredPlayer();
             }
 
+            _pausePanel = GameObject.Find(pausePanelName);
+            if (_pausePanel != null) _pausePanel.SetActive(false); 
+
             return;
         }
     }
@@ -92,6 +100,12 @@ public class GameManager : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Escape))
                 GoToTitle();
+        }
+
+        if (State == GameState.Playing || State == GameState.Paused)
+        {
+            if (Input.GetKeyDown(KeyCode.P))
+                TogglePause();
         }
     }
 
@@ -120,6 +134,8 @@ public class GameManager : MonoBehaviour
             _gameOverPanel.SetActive(true);
         else
             Debug.LogWarning($"GameOver panel '{gameOverPanelName}' not found in scene.");
+
+        Time.timeScale = 0f;
     }
 
     // (Optional) Call this from LevelEndTrigger if you want to go back to title
@@ -156,5 +172,34 @@ public class GameManager : MonoBehaviour
         _player.ForceRespawnNow();
 
         _waitingForPlayerReset = false;
+    }
+
+    public void TogglePause()
+    {
+        if (State == GameState.Playing) Pause();
+        else if (State == GameState.Paused) Resume();
+    }
+
+    public void Pause()
+    {
+        State = GameState.Paused;
+
+        if (_pausePanel == null)
+            _pausePanel = GameObject.Find(pausePanelName);
+
+        if (_pausePanel != null)
+            _pausePanel.SetActive(true);
+
+        Time.timeScale = 0f;
+    }
+
+    public void Resume()
+    {
+        State = GameState.Playing;
+
+        if (_pausePanel != null)
+            _pausePanel.SetActive(false);
+
+        Time.timeScale = 1f;
     }
 }
