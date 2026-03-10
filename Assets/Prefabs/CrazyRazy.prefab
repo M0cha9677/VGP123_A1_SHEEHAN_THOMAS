@@ -14,8 +14,7 @@ GameObject:
   - component: {fileID: 3155608121912003136}
   - component: {fileID: 3233615312873068420}
   - component: {fileID: 7841598608569238701}
-  - component: {fileID: 5722757559921933042}
-  - component: {fileID: -1272415817422469127}
+  - component: {fileID: 7218977065599172804}
   m_Layer: 0
   m_Name: CrazyRazy
   m_TagString: Untagged
@@ -213,7 +212,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &5722757559921933042
+--- !u!114 &7218977065599172804
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -222,21 +221,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1481778573959683828}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6195ecae008f1b04baeec84e2b726b20, type: 3}
+  m_Script: {fileID: 11500000, guid: d3d0c95e7ac2b0d42b84e1264cf0a3ee, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: '::'
-  damage: 1
---- !u!114 &-1272415817422469127
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1481778573959683828}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f9bd78712796794c9e63ef0600443af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  maxHP: 3
-  deathFXPrefab: {fileID: 1191984038528361145, guid: ac8e8a5f29661704f8ed8eddf19835ed, type: 3}
+  m_EditorClassIdentifier: Assembly-CSharp::BaseEnemy
+  maxHealth: 3
+  projectilePrefab: {fileID: 0}
+  projectileDamage: 1
+  projectileSpeed: 0
+  projectileLifetime: 0
+  contactDamage: 1
+  usesProjectiles: 1
+  deathFXPrefab: {fileID: 6037411563231349743, guid: b9bbeb0dfee43a1438c627f55de0faff, type: 3}
+  anim: {fileID: 0}

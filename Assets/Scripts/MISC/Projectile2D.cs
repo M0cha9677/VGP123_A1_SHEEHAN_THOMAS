@@ -25,7 +25,7 @@ public class Projectile2D : MonoBehaviour
         if (other.CompareTag("Player") || other.CompareTag("Level")) return;
 
         // Damage enemies
-        var enemy = other.GetComponentInParent<EnemyHealth2D>();
+        var enemy = other.GetComponentInParent<BaseEnemy>();
         if (enemy != null)
         {
             enemy.TakeDamage(1);

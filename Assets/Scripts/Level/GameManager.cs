@@ -22,12 +22,11 @@ public class GameManager : MonoBehaviour
     [SerializeField] private string gameOverPanelName = "gameOverPanel";
 
     [Header("Pause UI (Scene object names)")]
-    [SerializeField] private string pausePanelName = "pausePanel";
+    [SerializeField] private string pausePanel = "pausePanel";
     private GameObject _pausePanel;
 
     private GameObject _gameOverPanel;
     private PlayerStats2D _player;
-    private bool _waitingForPlayerReset;
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -61,7 +60,7 @@ public class GameManager : MonoBehaviour
 
             // Optional: clear player ref when leaving gameplay
             _player = null;
-            _waitingForPlayerReset = false;
+            //_waitingForPlayerReset = false;
             return;
         }
 
@@ -74,7 +73,7 @@ public class GameManager : MonoBehaviour
             if (_gameOverPanel != null) _gameOverPanel.SetActive(false);
 
             // Player may spawn later -> wait for registration
-            _waitingForPlayerReset = true;
+            //_waitingForPlayerReset = true;
 
             // If player already exists (e.g., placed in scene), reset immediately
             if (_player != null)
@@ -82,7 +81,7 @@ public class GameManager : MonoBehaviour
                 ResetRegisteredPlayer();
             }
 
-            _pausePanel = GameObject.Find(pausePanelName);
+            _pausePanel = GameObject.Find(pausePanel);
             if (_pausePanel != null) _pausePanel.SetActive(false); 
 
             return;
@@ -146,19 +145,6 @@ public class GameManager : MonoBehaviour
 
     // ---------------- INTERNAL ----------------
 
-    private void ResetPlayerForNewRun()
-    {
-        PlayerStats2D stats = FindFirstObjectByType<PlayerStats2D>();
-        if (stats == null)
-        {
-            Debug.LogWarning("No PlayerStats2D found to reset.");
-            return;
-        }
-
-        stats.ResetForNewGame(startingLives);
-        stats.ForceRespawnNow();
-    }
-
     public void RegisterPlayer(PlayerStats2D stats)
     {
         _player = stats;
@@ -171,7 +157,7 @@ public class GameManager : MonoBehaviour
         _player.ResetForNewGame(startingLives);
         _player.ForceRespawnNow();
 
-        _waitingForPlayerReset = false;
+        //_waitingForPlayerReset = false;
     }
 
     public void TogglePause()
@@ -185,7 +171,7 @@ public class GameManager : MonoBehaviour
         State = GameState.Paused;
 
         if (_pausePanel == null)
-            _pausePanel = GameObject.Find(pausePanelName);
+            _pausePanel = GameObject.Find(pausePanel);
 
         if (_pausePanel != null)
             _pausePanel.SetActive(true);

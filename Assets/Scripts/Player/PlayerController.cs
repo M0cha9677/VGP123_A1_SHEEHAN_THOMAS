@@ -63,6 +63,8 @@ public class PlayerMovement2D : MonoBehaviour
 
     private void Update()
     {
+
+        if (Time.timeScale == 0f) return; 
         // Input
         _moveInput = Input.GetAxisRaw("Horizontal");
 
@@ -90,6 +92,7 @@ public class PlayerMovement2D : MonoBehaviour
                 {
                     Shoot();
                 }
+        
     }
 
     private void FixedUpdate()
