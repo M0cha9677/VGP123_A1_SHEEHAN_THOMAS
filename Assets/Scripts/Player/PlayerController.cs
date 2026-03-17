@@ -170,6 +170,9 @@ public class PlayerMovement2D : MonoBehaviour
 
         Projectile2D proj = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
         proj.Fire(dir);
+
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayShoot();
     }
 
     private void OnDrawGizmosSelected()

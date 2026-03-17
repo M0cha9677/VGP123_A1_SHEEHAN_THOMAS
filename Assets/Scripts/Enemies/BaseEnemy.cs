@@ -29,12 +29,15 @@ public class BaseEnemy : MonoBehaviour
     public float ProjectileLifetime => projectileLifetime;
     public bool IsDead => _dead;
 
-    private void Awake()
+    protected virtual void Awake()
     {
         _currentHealth = maxHealth;
 
+        // find animator on this object OR children
+        anim = GetComponentInChildren<Animator>();
+
         if (anim == null)
-            anim.GetComponentInChildren<Animator>();
+            Debug.LogWarning(name + " has no Animator assigned.");
     }
 
     public void TakeDamage(int amount)
@@ -53,6 +56,7 @@ public class BaseEnemy : MonoBehaviour
             anim.SetTrigger("hurt");
     }
 
+
     public void SpawnProjectile(Vector2 origin, Vector2 direction)
     {
         if (_dead || !usesProjectiles || projectilePrefab == null) return;
@@ -64,6 +68,9 @@ public class BaseEnemy : MonoBehaviour
     protected virtual void Die()
     {
         _dead = true;
+
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayEnemyDeath();
 
         if (deathFXPrefab != null)
             Instantiate(deathFXPrefab, transform.position, Quaternion.identity);
