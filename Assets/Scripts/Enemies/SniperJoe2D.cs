@@ -168,6 +168,9 @@ public class SniperJoe2D : MonoBehaviour
 
         if (anim != null)
             anim.SetTrigger("shoot");
+
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayEnemyShoot();
     }
 
     public bool CanTakeDamageFrom(Vector2 attackerPosition)

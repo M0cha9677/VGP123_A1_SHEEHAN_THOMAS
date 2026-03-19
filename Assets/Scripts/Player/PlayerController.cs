@@ -35,6 +35,7 @@ public class PlayerMovement2D : MonoBehaviour
     private float _moveInput;
     private bool _jumpPressed;
     private bool _isGrounded;
+    private bool _wasGrounded;
 
     private void Awake()
     {
@@ -81,6 +82,14 @@ public class PlayerMovement2D : MonoBehaviour
             groundCheckRadius,
             groundLayer
         );
+
+        if (!_wasGrounded && _isGrounded)
+        {
+            if (AudioManager.Instance != null)
+                AudioManager.Instance.PlayPlayerDamaged();
+        }
+
+        _wasGrounded = _isGrounded;
 
         
         bool isShooting = Input.GetMouseButton(0);
@@ -172,7 +181,7 @@ public class PlayerMovement2D : MonoBehaviour
         proj.Fire(dir);
 
         if (AudioManager.Instance != null)
-            AudioManager.Instance.PlayShoot();
+            AudioManager.Instance.PlayPlayerShoot();
     }
 
     private void OnDrawGizmosSelected()

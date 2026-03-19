@@ -14,5 +14,7 @@ public class Pickup_Health : MonoBehaviour
         stats.Heal(healAmount);
 
         Destroy(gameObject);
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayPickup();
     }
 }

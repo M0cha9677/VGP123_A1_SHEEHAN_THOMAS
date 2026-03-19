@@ -11,5 +11,7 @@ public class Pickup_Energy : MonoBehaviour
 
         stats.AddEnergy(energyAmount);
         Destroy(gameObject);
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayPickup();
     }
 }

@@ -121,6 +121,9 @@ public class PlayerStats2D : MonoBehaviour
 
         if (_anim != null) _anim.SetTrigger("hurt");
         StartCoroutine(HurtRoutine());
+
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayPlayerDamaged();
     }
 
     private IEnumerator HurtRoutine()

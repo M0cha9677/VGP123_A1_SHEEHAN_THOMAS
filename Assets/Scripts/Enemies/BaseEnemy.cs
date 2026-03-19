@@ -54,6 +54,9 @@ public class BaseEnemy : MonoBehaviour
 
         if (anim != null)
             anim.SetTrigger("hurt");
+
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayEnemyDamaged();
     }
 
 

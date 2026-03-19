@@ -9,5 +9,7 @@ public class Pickup_OneUp : MonoBehaviour
 
         stats.AddLife(1);
         Destroy(gameObject);
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayPickup();
     }
 }

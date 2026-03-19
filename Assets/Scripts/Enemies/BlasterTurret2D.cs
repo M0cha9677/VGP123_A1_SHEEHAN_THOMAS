@@ -158,16 +158,22 @@ public class BlasterTurret2D : MonoBehaviour
                 case BlasterType.RedShotgun:
                     if (anim != null) anim.SetTrigger("shoot");
                     FireShotgunForward();
+                    if (AudioManager.Instance != null)
+                        AudioManager.Instance.PlayEnemyShoot();
                     break;
 
                 case BlasterType.BlueMachineGun:
                     if (anim != null) anim.SetTrigger("shoot");
                     yield return FireVolleyTowardPlayer(); // includes mid-volley on-screen checks
+                    if (AudioManager.Instance != null)
+                        AudioManager.Instance.PlayEnemyShoot();
                     break;
 
                 case BlasterType.YellowSniper:
                     if (anim != null) anim.SetTrigger("shoot");
                     FireSniperTowardPlayer();
+                    if (AudioManager.Instance != null)
+                        AudioManager.Instance.PlayEnemyShoot();
                     break;
             }
 
@@ -200,6 +206,8 @@ public class BlasterTurret2D : MonoBehaviour
             BlasterBullet2D b = Instantiate(bulletPrefab, origin, Quaternion.identity);
             b.Fire(dir, shotgunSpeed);
         }
+
+
     }
 
     private IEnumerator FireVolleyTowardPlayer()

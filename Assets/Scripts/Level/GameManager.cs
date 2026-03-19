@@ -57,6 +57,7 @@ public class GameManager : MonoBehaviour
         {
             State = GameState.Title;
             _gameOverPanel = null;
+            AudioManager.Instance.PlayTitleMusic();
 
             // Optional: clear player ref when leaving gameplay
             _player = null;
@@ -67,6 +68,7 @@ public class GameManager : MonoBehaviour
         if (scene.name == gameSceneName)
         {
             State = GameState.Playing;
+            AudioManager.Instance.PlayStageMusic();
 
             // Grab & hide GameOver panel in the GAME scene
             _gameOverPanel = GameObject.Find(gameOverPanelName);
@@ -114,12 +116,14 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(gameSceneName);
+        AudioManager.Instance.PlayStageMusic();
     }
 
     public void GoToTitle()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(titleSceneName);
+        AudioManager.Instance.PlayTitleMusic();
     }
 
     public void TriggerGameOver()
@@ -133,6 +137,7 @@ public class GameManager : MonoBehaviour
             _gameOverPanel.SetActive(true);
         else
             Debug.LogWarning($"GameOver panel '{gameOverPanelName}' not found in scene.");
+        AudioManager.Instance.PlayGameOverMusic();
 
         Time.timeScale = 0f;
     }
@@ -162,6 +167,8 @@ public class GameManager : MonoBehaviour
 
     public void TogglePause()
     {
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayPause();
         if (State == GameState.Playing) Pause();
         else if (State == GameState.Paused) Resume();
     }
@@ -175,6 +182,7 @@ public class GameManager : MonoBehaviour
 
         if (_pausePanel != null)
             _pausePanel.SetActive(true);
+
 
         Time.timeScale = 0f;
     }
