@@ -165,12 +165,31 @@ public class GameManager : MonoBehaviour
         //_waitingForPlayerReset = false;
     }
 
+    private bool isPaused;
+
     public void TogglePause()
     {
+
+        isPaused = !isPaused;
         if (AudioManager.Instance != null)
             AudioManager.Instance.PlayPause();
         if (State == GameState.Playing) Pause();
         else if (State == GameState.Paused) Resume();
+
+        if (isPaused)
+        {
+            Time.timeScale = 0f;
+
+            // pause music
+            AudioManager.Instance.PauseMusic();
+        }
+        else
+        {
+            Time.timeScale = 1f;
+
+            // resume music
+            AudioManager.Instance.ResumeMusic();
+        }
     }
 
     public void Pause()

@@ -141,4 +141,16 @@ public class AudioManager : MonoBehaviour
         if (sfxSource == null || clip == null) return;
         sfxSource.PlayOneShot(clip);
     }
+
+    public void PauseMusic()
+    {
+        if (musicSource != null && musicSource.isPlaying)
+            musicSource.Pause();
+    }
+
+    public void ResumeMusic()
+    {
+        if (musicSource != null)
+            musicSource.UnPause();
+    }
 }
